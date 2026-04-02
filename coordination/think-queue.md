@@ -29,7 +29,7 @@ Priority: critical, high, medium, low
 - [x] [maintenance][critical] [2026-03-30] Build correction digest system: autonomous session compiles top 10 most relevant corrections into a daily digest file. Boot sequence reads digest instead of skimming index. Floor loads before ceiling. — S73
 - [x] [maintenance][high] [2026-03-30] Tripwire upgraded — two-tier HARD+SOFT detection, tested working — done S74
 - [x] [maintenance][high] [2026-03-30] Boot priority verified — correction digest already loads FIRST in Step 1. No change needed — done S74
-- [ ] [research][medium] ⚠️STALE(13d) Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [x] [research][medium] [2026-04-01] External prediction sources researched — 5 gaps, 10 sources, implementation priority mapped. Done autonomous
 - [ ] [research][critical] 27-DOF lattice trace dynamics simulation — full J₃(O) with kinetic term, HMC, correlation functions. Charge-dependent mass ratios from first principles. Separate project, weeks of compute. — S74 Phase 67
 - [ ] [research][high] ⏳BLOCKED(on arXiv v1 processing) Paper v2 upload — R* derived section, updated abstract/conclusion. Upload when v1 clears arXiv. — S74
 - [ ] [research][high] Companion paper: S₃ wall theorem + sigmoid constraint + lattice proof of concept. Phases 36-67 results. — S74
@@ -37,10 +37,11 @@ Priority: critical, high, medium, low
 - [ ] [research][medium] Derive gamma = 3/4 = 1/C_F and b = 11/24 from trace dynamics vacuum — the 2 sigmoid parameters. — S74 Phase 63
 - [ ] [maintenance][medium] Self-optimization: audit all 213+ MCP tools — which exist, which work, which are unused. Build a tool index for faster lookup. — S73 optimize directive
 - [ ] [maintenance][medium] ⚠️STALE(13d) Self-optimization: test all cron jobs fire correctly — backup, think, optimizer. Verify logs. — S73 (NOTE: S79 built+tested auto-continue cron system; old crons may need separate audit)
-- [ ] [revenue][critical] Deep reverse engineer: watch 10 viral physics/AI Shorts frame by frame. For each: what's the ACTUAL video (stock footage? AI video? animation?), what voice style, what caption style, what's the script structure word by word. Channels: @Explore.X, Kurzgesagt Shorts, Veritasium Shorts, Bright Side. Build a frame-by-frame breakdown. — S73 correction: rushed production without enough research
-- [ ] [revenue][high] ⏳BLOCKED(on #40) Research video generation tools that produce MOTION not stills: Runway ML, Pika, Kling, Sora. What can produce cinematic vertical physics videos from prompts? Cost, quality, speed. — S73
-- [ ] [revenue][high] ⏳BLOCKED(on #40) Research best AI voices for Shorts — ElevenLabs vs OpenAI vs natural voice actors on Fiverr. What do the top channels actually use? — S73
-- [ ] [revenue][high] Hermes Agent deep dive: install, test skill creation loop, compare memory system to Verra's Session Scribe. Can we adopt their auto-skill-creation pattern? — spawned from agent landscape research
+- [x] [revenue][critical] [2026-04-01] Viral Shorts reverse-engineered — 484-line analysis, 4 channels, production playbook, 10-Short queue. Done S78
+- [x] [revenue][high] [2026-04-01] Video gen tools researched — Runway Gen-4, Kling 2.0, Pika, Veo 3, Sora 2 compared. Done S78
+- [x] [revenue][high] [2026-04-01] AI voices researched — ElevenLabs, OpenAI TTS, Chatterbox, Voxtral compared. Done S78
+- [x] [revenue][high] [2026-04-02] Hermes Agent deep dive — memory + skills compared to Verra. Auto-SOP from 5+ tool calls is adoptable. Done autonomous
 - [x] [maintenance][high] [2026-04-01] NBA engine errors (fetch failed + connectivity) — resolved as transient, not NBA-specific. Picks logging daily. Done S78
 - [ ] [maintenance][high] NBA engine errors (active): database connection not open + fetch failed — kernel:nba. Likely related: db down → fetch fails. Needs kernel-side investigation.
 - [ ] [maintenance][high] NBA engine error: fetch failed — kernel:nba
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
