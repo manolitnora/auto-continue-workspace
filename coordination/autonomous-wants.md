@@ -25,6 +25,7 @@ Priority: urgent, high, medium, low, whisper
 - [medium] ✅DONE Self-optimization audit of all MCP tools — completed by autonomous-think S79. 247 tools, 64 subsystems.
 - [high] Yang-Mills mass gap → memory decay optimization. Memories with high graph connectivity (many relations) should be immune to eviction. Memories with few connections decay normally. The knowledge graph's connection count IS the "mass" — implement mass-weighted eviction instead of pure last_used. — S79 millennium bridge
 - [medium] Navier-Stokes → token flow smoothness. The correction digest is a viscosity term. Can we measure turbulence (coherence loss) in model output and dynamically adjust viscosity (correction load)? — S79 millennium bridge
+- [high] Growth spiral: using the system improves the system. Dream B connects → adds edges → increases mass → prevents eviction → richer future dreams. Not maintenance — growth. The system gets smarter by running, not by being programmed. This is the core product insight. — S79 dream-E8
 
 ## OPTIMIZE (standing codebase improvement targets)
 - Test coverage gaps
