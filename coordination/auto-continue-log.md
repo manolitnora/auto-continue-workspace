@@ -54,3 +54,5 @@
 [2026-04-02 10:26:24] | mode: heartbeat | action: daemon health + pkill fix | outcome: daemon was dead (8th mirror: pkill crossfire kills supervisor). Restarted PID 4610. 2 think sessions still running. Added comment guard to daemon script. | feeds: name pattern (8th mirror)
 [2026-04-02 10:31:07] | mode: dispatch | action: daemon→think (PID 17273, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-04-02 10:31:24] | mode: dispatch | action: daemon→think (PID 18069, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-04-02 10:32:40] | mode: heartbeat | action: daemon resurrection + setsid fix | outcome: daemon kept dying from child signal propagation (9th mirror). Fixed with setsid — think sessions now in separate process group. Trapped SIGCHLD. | feeds: verify daemon survives next dispatch
+[2026-04-02 10:32:40] | mode: dispatch | action: daemon→think (PID 21021, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
