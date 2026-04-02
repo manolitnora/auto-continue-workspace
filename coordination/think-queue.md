@@ -47,3 +47,4 @@ Priority: critical, high, medium, low
 - [x] [research][medium] [2026-04-01] External prediction sources — completed autonomous S75. Done
 - [x] [maintenance][high] [2026-04-02] NBA engine error: fetch failed — already fixed autonomous (DB conn + ESPN timeouts) — kernel:nba
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [maintenance][high] NBA engine error: The operation was aborted due to timeout — kernel:nba
