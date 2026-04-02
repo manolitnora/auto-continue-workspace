@@ -4,7 +4,7 @@ Format: `- [priority] description — source session/context`
 Priority: urgent, high, medium, low, whisper
 
 ## WANTED (curiosities, questions that emerged during work)
-- [medium] How do the 213+ MCP tools actually compose? Which ones call each other? — S73
+- [medium] ✅ANSWERED How do the 247 MCP tools compose? — Audit completed by think session S79. reference_mcp_tool_index.md at V5 workspace. 64 subsystems mapped. Composition patterns documented.
 - [medium] Can the Session Scribe pattern be generalized into a reusable skill for other projects? — observed across sessions
 - [low] ✅ANSWERED What would a self-modifying cron look like? — Answer: it doesn't modify its schedule, it modifies its INPUT (queue compression) and rotates THREAT CLASSES (A-E immune rotation). Self-modification through substrate, not interval. — S79
 
