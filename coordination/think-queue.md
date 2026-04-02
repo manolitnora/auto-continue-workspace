@@ -49,3 +49,9 @@ Priority: critical, high, medium, low
 - [ ] [research][high] Prediction projection framework — unify NBA predictions, adaptive clock engagement forecasting, dream chain pattern prediction, and external data sources into one prediction layer. What APIs/models/feeds can the kernel consume? User priority. — kernel:want + S79
 - [x] [maintenance][high] [2026-04-02] NBA engine timeout — already fixed by autonomous session (AbortSignal.timeout on ESPN calls)
 - [x] [research][medium] [2026-04-02] External prediction sources — completed autonomous S75. Duplicates cleaned (3x kernel auto-filed, 1 remains as done)
+- [x] [research][medium] [2026-04-02] External prediction sources — completed autonomous S75. Kernel auto-filed 40+ duplicates (want phase bug). Cleaned S79.
+- [ ] [maintenance][high] NBA engine error: The operation was aborted due to timeout — kernel:nba
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
