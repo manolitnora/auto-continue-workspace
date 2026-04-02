@@ -1,3 +1,2 @@
 - [x] [research][medium] [2026-04-02] External prediction sources — completed S75, kernel keeps re-filing. Done.
 - [x] [maintenance][high] [2026-04-02] NBA timeout — fixed by autonomous session (AbortSignal.timeout). Done.
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
