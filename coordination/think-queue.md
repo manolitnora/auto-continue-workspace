@@ -45,3 +45,5 @@ Priority: critical, high, medium, low
 - [x] [maintenance][high] [2026-04-02] NBA engine errors: DB conn fixed c19673b, ESPN fetch timeouts added (15s AbortSignal). Done autonomous
 - [x] [maintenance][high] [2026-04-02] NBA engine fetch-failed: 15s AbortSignal.timeout on 3 ESPN calls. Done autonomous
 - [x] [research][medium] [2026-04-01] External prediction sources — completed autonomous S75. Done
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
