@@ -25,11 +25,11 @@ Priority: critical, high, medium, low
 - [x] [revenue][high] [2026-03-31] Research: AI agent frameworks — Devin, Manus, OpenClaw, Hermes, AutoGPT, Claude Code compared. No agent makes money FOR users. Verra gap = revenue-through-agent — done autonomous
 - [x] [maintenance][high] [2026-03-30] Accountability system rewired — daily Telegram at 19:30, DOW variety, tested working — done S74
 - [x] [research][high] [2026-03-30] Multi-model council researched — 8B local = dispatcher not strategist. No Slack (SQLite rows). Ollama HTTP from kernel. Pull hermes3:8b + qwen2.5-coder:7b — done S74
-- [ ] [research][medium] ESP32-C6 WiFi CSI sensing: what's the state of the art for presence detection? Arduino/PlatformIO setup. — S73
+- [ ] [research][medium] ⚠️STALE(13d) ESP32-C6 WiFi CSI sensing: what's the state of the art for presence detection? Arduino/PlatformIO setup. — S73
 - [x] [maintenance][critical] [2026-03-30] Build correction digest system: autonomous session compiles top 10 most relevant corrections into a daily digest file. Boot sequence reads digest instead of skimming index. Floor loads before ceiling. — S73
 - [x] [maintenance][high] [2026-03-30] Tripwire upgraded — two-tier HARD+SOFT detection, tested working — done S74
 - [x] [maintenance][high] [2026-03-30] Boot priority verified — correction digest already loads FIRST in Step 1. No change needed — done S74
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [research][medium] ⚠️STALE(13d) Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
 - [ ] [research][critical] 27-DOF lattice trace dynamics simulation — full J₃(O) with kinetic term, HMC, correlation functions. Charge-dependent mass ratios from first principles. Separate project, weeks of compute. — S74 Phase 67
 - [ ] [research][high] Paper v2 upload — R* derived section, updated abstract/conclusion. Upload when v1 clears arXiv. — S74
 - [ ] [research][high] Companion paper: S₃ wall theorem + sigmoid constraint + lattice proof of concept. Phases 36-67 results. — S74
