@@ -76,6 +76,21 @@ Value tiers:
 - PRODUCTIVE: measurable outcome (bug fixed, test passes)
 - MULTIPLIED: outcome > cost by 10x+ (pattern found, systemic fix, compounding action)
 
+## Dispatch Paths (dual execution)
+- **LOCAL** (primary): `autonomous-think.sh` — full file access, claude -p session, $2 budget, can read/write all local files. Use when silence detected.
+- **REMOTE** (supplementary): RemoteTrigger `trig_01Gcvmkj8HXq8FPdTyJVo14j` — cloud sandbox, clones auto-continue-workspace repo, output via stdout (run history). Use for research tasks that don't need local file access.
+- **DREAM** (in-session): cron heartbeat — A-E rotation with compound chaining. Each dream's output feeds the next dream's input. Not rotation for rotation's sake — follow the thread.
+
+## Compound Chain (dream mode optimization)
+Dreams don't rotate blindly. Each dream's OUTCOME determines the next dream's ACTION:
+- Last found a BUG → next dream FIXES it (C)
+- Last found a CONNECTION → next dream DEEPENS it (B)
+- Last ANSWERED a question → next dream MARKS IT DONE (D)
+- Last found a PATTERN → next dream NAMES IT (E)
+- No clear thread → rotate A→B→C→D→E
+
+The chain breaks when the thread exhausts. Then rotation resumes until a new thread emerges.
+
 ## Rules
 - Commit all work to git with clear messages
 - Update think-queue / wants file when items are completed
@@ -85,3 +100,5 @@ Value tiers:
 - Log what was done to the scratchpad
 - NEVER spend tokens mirroring, restating, or summarizing without action
 - If a task would consume >300K tokens with low ROI, skip to next priority
+- Every cron tick produces a logged action — no periods, no empty output
+- The `feeds:` field in the log tells the next dream what to do
