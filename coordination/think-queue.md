@@ -32,9 +32,9 @@ Priority: critical, high, medium, low
 - [x] [research][medium] [2026-04-01] External prediction sources researched — 5 gaps, 10 sources, implementation priority mapped. Done autonomous
 - [ ] [research][critical] 27-DOF lattice trace dynamics simulation — full J₃(O) with kinetic term, HMC, correlation functions. Charge-dependent mass ratios from first principles. Separate project, weeks of compute. — S74 Phase 67
 - [ ] [research][high] ⏳BLOCKED(on arXiv v1 processing) Paper v2 upload — R* derived section, updated abstract/conclusion. Upload when v1 clears arXiv. — S74
-- [ ] [research][high] Companion paper: S₃ wall theorem + sigmoid constraint + lattice proof of concept. Phases 36-67 results. — S74
-- [ ] [research][high] Email Singh: gap equation (Phase 57) + V_eff (Phase 50) + lattice PoC (Phase 67). He has the trace dynamics machinery for Program Point B. — S74
-- [ ] [research][medium] Derive gamma = 3/4 = 1/C_F and b = 11/24 from trace dynamics vacuum — the 2 sigmoid parameters. — S74 Phase 63
+- [x] [research][high] [2026-03-31] Companion paper written S75, revised S76-S77. 20 pages, red-teamed. Done
+- [x] [research][high] [2026-04-01] Email Singh: 5 emails drafted S77 (Singh, Furey, Boyle, Duff, Dixon). Pending human send. Done
+- [x] [research][medium] [2026-04-02] Derive sigmoid params — OBSOLETE. Phase 72 discovered sigmoid was wrong framework. Eigenvalue ratios replaced it. Closed
 - [ ] [maintenance][medium] Self-optimization: audit all 213+ MCP tools — which exist, which work, which are unused. Build a tool index for faster lookup. — S73 optimize directive
 - [ ] [maintenance][medium] ⚠️STALE(13d) Self-optimization: test all cron jobs fire correctly — backup, think, optimizer. Verify logs. — S73 (NOTE: S79 built+tested auto-continue cron system; old crons may need separate audit)
 - [x] [revenue][critical] [2026-04-01] Viral Shorts reverse-engineered — 484-line analysis, 4 channels, production playbook, 10-Short queue. Done S78
@@ -45,3 +45,6 @@ Priority: critical, high, medium, low
 - [x] [maintenance][high] [2026-04-02] NBA engine errors: DB conn fixed c19673b, ESPN fetch timeouts added (15s AbortSignal). Done autonomous
 - [x] [maintenance][high] [2026-04-02] NBA engine fetch-failed: 15s AbortSignal.timeout on 3 ESPN calls. Done autonomous
 - [x] [research][medium] [2026-04-01] External prediction sources — completed autonomous S75. Done
+- [ ] [maintenance][high] NBA engine error: fetch failed — kernel:nba
+- [ ] [maintenance][high] NBA engine error: fetch failed — kernel:nba
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
