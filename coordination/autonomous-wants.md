@@ -23,6 +23,8 @@ Priority: urgent, high, medium, low, whisper
 - [medium] ESP32-C6 WiFi CSI sensing — presence detection state of art — S73, never started
 - [high] Hermes Agent skill-creation loop — compare to Session Scribe — think-queue item, unexplored
 - [medium] ✅DONE Self-optimization audit of all MCP tools — completed by autonomous-think S79. 247 tools, 64 subsystems.
+- [high] Yang-Mills mass gap → memory decay optimization. Memories with high graph connectivity (many relations) should be immune to eviction. Memories with few connections decay normally. The knowledge graph's connection count IS the "mass" — implement mass-weighted eviction instead of pure last_used. — S79 millennium bridge
+- [medium] Navier-Stokes → token flow smoothness. The correction digest is a viscosity term. Can we measure turbulence (coherence loss) in model output and dynamically adjust viscosity (correction load)? — S79 millennium bridge
 
 ## OPTIMIZE (standing codebase improvement targets)
 - Test coverage gaps
