@@ -21,7 +21,7 @@ Priority: urgent, high, medium, low, whisper
 ## LEANED (started but didn't finish, gravitational pull remains)
 - [medium] ESP32-C6 WiFi CSI sensing — presence detection state of art — S73, never started
 - [high] Hermes Agent skill-creation loop — compare to Session Scribe — think-queue item, unexplored
-- [medium] Self-optimization audit of all MCP tools — S73, still open
+- [medium] ✅DONE Self-optimization audit of all MCP tools — completed by autonomous-think S79. 247 tools, 64 subsystems.
 
 ## OPTIMIZE (standing codebase improvement targets)
 - Test coverage gaps
