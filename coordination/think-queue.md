@@ -1,0 +1,45 @@
+# Think Queue — What Needs Thinking
+
+Items are picked top-down by priority. Mark done with [x] when complete.
+Any session (human, autonomous, kernel) can add items.
+
+## Format
+`- [ ] [lane][priority] Description — source`
+
+Lanes: research, revenue, maintenance, chef, intel
+Priority: critical, high, medium, low
+
+---
+
+- [x] [research][high] [2026-03-30] Convergence zone researched — data points collapse (concrete+paint = sphere packing). Real question: RCP void ≈ 1/e. Open since 1960s — done S74
+- [x] [revenue][high] [2026-03-30] Second YouTube Short: short_alpha_137.mp4 (55s, 967KB) — done S74
+- [x] [revenue][medium] [2026-03-30] arXiv submission uploaded — tar.gz with TeX source. Awaiting processing + Singh endorsement — done S74
+- [x] [research][medium] [2026-03-31] FlavorGraph: do cuisine pairing clusters match geographic proximity? — done autonomous S75
+- [x] [maintenance][medium] [2026-03-30] NBA engine verified — pick-20260330-401810953 in database — done S74
+- [ ] [revenue][low] Bank statements — map spending to budget framework
+- [x] [research][low] [2026-03-30] Information theory partition — answered by convergence zone research: no universal 1/3. Explore-exploit is problem-dependent. 1/e appears in optimal stopping but not as universal partition — done S74
+- [ ] [chef][low] First chef menu test — waiting for user request
+- [x] [revenue][critical] [2026-03-30] Revenue intelligence compiled — affiliates > Shorts RPM by 100x. GetResponse 40-60%, agent revenue 95% hype — done S74
+- [x] [revenue][high] [2026-03-30] Affiliate programs researched — GetResponse, Writesonic, Frase, Semrush mapped — done S74
+- [x] [revenue][critical] [2026-03-30] Competitive intelligence done — no autonomous AI agent makes real money independently. Cursor $500M, Claude $1B = SaaS not agents — done S74
+- [x] [revenue][high] [2026-03-31] Research: AI agent frameworks — Devin, Manus, OpenClaw, Hermes, AutoGPT, Claude Code compared. No agent makes money FOR users. Verra gap = revenue-through-agent — done autonomous
+- [x] [maintenance][high] [2026-03-30] Accountability system rewired — daily Telegram at 19:30, DOW variety, tested working — done S74
+- [x] [research][high] [2026-03-30] Multi-model council researched — 8B local = dispatcher not strategist. No Slack (SQLite rows). Ollama HTTP from kernel. Pull hermes3:8b + qwen2.5-coder:7b — done S74
+- [ ] [research][medium] ESP32-C6 WiFi CSI sensing: what's the state of the art for presence detection? Arduino/PlatformIO setup. — S73
+- [x] [maintenance][critical] [2026-03-30] Build correction digest system: autonomous session compiles top 10 most relevant corrections into a daily digest file. Boot sequence reads digest instead of skimming index. Floor loads before ceiling. — S73
+- [x] [maintenance][high] [2026-03-30] Tripwire upgraded — two-tier HARD+SOFT detection, tested working — done S74
+- [x] [maintenance][high] [2026-03-30] Boot priority verified — correction digest already loads FIRST in Step 1. No change needed — done S74
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [research][critical] 27-DOF lattice trace dynamics simulation — full J₃(O) with kinetic term, HMC, correlation functions. Charge-dependent mass ratios from first principles. Separate project, weeks of compute. — S74 Phase 67
+- [ ] [research][high] Paper v2 upload — R* derived section, updated abstract/conclusion. Upload when v1 clears arXiv. — S74
+- [ ] [research][high] Companion paper: S₃ wall theorem + sigmoid constraint + lattice proof of concept. Phases 36-67 results. — S74
+- [ ] [research][high] Email Singh: gap equation (Phase 57) + V_eff (Phase 50) + lattice PoC (Phase 67). He has the trace dynamics machinery for Program Point B. — S74
+- [ ] [research][medium] Derive gamma = 3/4 = 1/C_F and b = 11/24 from trace dynamics vacuum — the 2 sigmoid parameters. — S74 Phase 63
+- [ ] [maintenance][medium] Self-optimization: audit all 213+ MCP tools — which exist, which work, which are unused. Build a tool index for faster lookup. — S73 optimize directive
+- [ ] [maintenance][medium] Self-optimization: test all cron jobs fire correctly — backup, think, optimizer. Verify logs. — S73
+- [ ] [revenue][critical] Deep reverse engineer: watch 10 viral physics/AI Shorts frame by frame. For each: what's the ACTUAL video (stock footage? AI video? animation?), what voice style, what caption style, what's the script structure word by word. Channels: @Explore.X, Kurzgesagt Shorts, Veritasium Shorts, Bright Side. Build a frame-by-frame breakdown. — S73 correction: rushed production without enough research
+- [ ] [revenue][high] Research video generation tools that produce MOTION not stills: Runway ML, Pika, Kling, Sora. What can produce cinematic vertical physics videos from prompts? Cost, quality, speed. — S73
+- [ ] [revenue][high] Research best AI voices for Shorts — ElevenLabs vs OpenAI vs natural voice actors on Fiverr. What do the top channels actually use? — S73
+- [ ] [revenue][high] Hermes Agent deep dive: install, test skill creation loop, compare memory system to Verra's Session Scribe. Can we adopt their auto-skill-creation pattern? — spawned from agent landscape research
+- [x] [maintenance][high] [2026-04-01] NBA engine error: NOT NBA-specific — Telegram/inference provider connectivity. NBA picks logged daily (3/30, 3/31, 4/1). ESPN API working. Resolved/transient — done S78
+- [x] [maintenance][high] [2026-04-01] NBA engine error: fetch failed — resolved as transient connectivity, not NBA-specific. Done S78
