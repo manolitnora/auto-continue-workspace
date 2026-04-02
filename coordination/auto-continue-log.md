@@ -48,3 +48,5 @@
 [2026-04-02 10:12:51] | mode: dispatch | action: daemon fired autonomous-think (PID 77809) | outcome: tier 1, local subagent launched | feeds: check think log
 [2026-04-02 10:14:34] | mode: dispatch | action: daemon fired autonomous-think (PID 80062) | outcome: tier 1, local subagent launched | feeds: check think log
 [2026-04-02 10:17:09] | mode: heartbeat | action: think session count | outcome: 0 running — daemon alive (PID unknown), gate clear, no dispatch yet | feeds: check daemon is sensing
+[2026-04-02 10:20:47] | mode: dispatch | action: daemon fired autonomous-think (PID 90444) | outcome: tier 2, local subagent launched | feeds: check think log
+[2026-04-02 10:21:04] | mode: heartbeat | action: daemon health check | outcome: daemon was dead (killed by earlier pkill crossfire), restarted PID 90401. 0 think sessions. | feeds: name pattern (pkill crossfire = 8th mirror?)
