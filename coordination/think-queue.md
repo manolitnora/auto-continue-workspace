@@ -25,7 +25,7 @@ Priority: critical, high, medium, low
 - [x] [revenue][high] [2026-03-31] Research: AI agent frameworks — Devin, Manus, OpenClaw, Hermes, AutoGPT, Claude Code compared. No agent makes money FOR users. Verra gap = revenue-through-agent — done autonomous
 - [x] [maintenance][high] [2026-03-30] Accountability system rewired — daily Telegram at 19:30, DOW variety, tested working — done S74
 - [x] [research][high] [2026-03-30] Multi-model council researched — 8B local = dispatcher not strategist. No Slack (SQLite rows). Ollama HTTP from kernel. Pull hermes3:8b + qwen2.5-coder:7b — done S74
-- [ ] [research][medium] ⚠️STALE(13d) ESP32-C6 WiFi CSI sensing: what's the state of the art for presence detection? Arduino/PlatformIO setup. — S73
+- [x] [research][medium] [2026-04-01] ESP32-C6 WiFi CSI sensing researched — ESPectre on XIAO ESP32-C6, $6/board, ESPHome not Arduino. Done autonomous
 - [x] [maintenance][critical] [2026-03-30] Build correction digest system: autonomous session compiles top 10 most relevant corrections into a daily digest file. Boot sequence reads digest instead of skimming index. Floor loads before ceiling. — S73
 - [x] [maintenance][high] [2026-03-30] Tripwire upgraded — two-tier HARD+SOFT detection, tested working — done S74
 - [x] [maintenance][high] [2026-03-30] Boot priority verified — correction digest already loads FIRST in Step 1. No change needed — done S74
