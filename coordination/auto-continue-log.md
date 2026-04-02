@@ -56,3 +56,4 @@
 [2026-04-02 10:31:24] | mode: dispatch | action: daemon→think (PID 18069, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-04-02 10:32:40] | mode: heartbeat | action: daemon resurrection + setsid fix | outcome: daemon kept dying from child signal propagation (9th mirror). Fixed with setsid — think sessions now in separate process group. Trapped SIGCHLD. | feeds: verify daemon survives next dispatch
 [2026-04-02 10:32:40] | mode: dispatch | action: daemon→think (PID 21021, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-04-02 10:40:42] | mode: dream | action: followed feeds (check think log) | outcome: Think session completed MCP tool audit — 247 tools, 64 subsystems, saved to reference_mcp_tool_index.md at V5. Oldest open item (S73) resolved by autonomous dispatch. Layers 2→3 verified. | feeds: mark done (MCP audit in think-queue + wants)
