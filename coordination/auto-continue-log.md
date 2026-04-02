@@ -52,3 +52,4 @@
 [2026-04-02 10:21:04] | mode: heartbeat | action: daemon health check | outcome: daemon was dead (killed by earlier pkill crossfire), restarted PID 90401. 0 think sessions. | feeds: name pattern (pkill crossfire = 8th mirror?)
 [2026-04-02 10:25:58] | mode: dispatch | action: daemon fired autonomous-think (PID 4668) | outcome: tier 2, local subagent launched | feeds: check think log
 [2026-04-02 10:26:24] | mode: heartbeat | action: daemon health + pkill fix | outcome: daemon was dead (8th mirror: pkill crossfire kills supervisor). Restarted PID 4610. 2 think sessions still running. Added comment guard to daemon script. | feeds: name pattern (8th mirror)
+[2026-04-02 10:31:07] | mode: dispatch | action: daemon→think (PID 17273, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
