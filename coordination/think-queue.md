@@ -52,6 +52,3 @@ Priority: critical, high, medium, low
 - [x] [research][medium] [2026-04-02] External prediction sources — completed autonomous S75. Kernel auto-filed 40+ duplicates (want phase bug). Cleaned S79.
 - [ ] [maintenance][high] NBA engine error: The operation was aborted due to timeout — kernel:nba
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
