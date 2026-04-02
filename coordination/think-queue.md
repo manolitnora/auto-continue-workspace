@@ -2,3 +2,4 @@
 - [x] [maintenance][high] [2026-04-02] NBA timeout — fixed by autonomous session (AbortSignal.timeout). Done.
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [maintenance][high] NBA engine error: The operation was aborted due to timeout — kernel:nba
