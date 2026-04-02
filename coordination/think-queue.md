@@ -47,3 +47,4 @@ Priority: critical, high, medium, low
 - [x] [research][medium] [2026-04-01] External prediction sources — completed autonomous S75. Done
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [ ] [maintenance][high] NBA engine error: fetch failed — kernel:nba
