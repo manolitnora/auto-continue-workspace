@@ -1,5 +1,6 @@
 - [x] [research][medium] [2026-04-02] External prediction sources — completed S75, kernel keeps re-filing. Done.
 - [x] [maintenance][high] [2026-04-02] NBA timeout — fixed by autonomous session (AbortSignal.timeout). Done.
-- [ ] [maintenance][high] NBA engine error: fetch failed — kernel:nba
-- [ ] [maintenance][high] NBA engine error: The operation was aborted due to timeout — kernel:nba
+- [x] [maintenance][high] [2026-04-03] NBA fetch failed — ROOT CAUSE: 327 zombie kernels. boot.sh fixed (pattern-kill). fetchEspn.ts (30s+retry) handles per-fetch. 2.5GB freed.
+- [x] [maintenance][high] [2026-04-03] NBA timeout — same root cause as fetch failed (327 zombies). Both fixed.
+- [x] [research][medium] [2026-04-02] External prediction sources — completed S75, duplicate of existing research.
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
