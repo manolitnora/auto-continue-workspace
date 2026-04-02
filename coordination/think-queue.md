@@ -42,6 +42,6 @@ Priority: critical, high, medium, low
 - [x] [revenue][high] [2026-04-01] AI voices researched — ElevenLabs, OpenAI TTS, Chatterbox, Voxtral compared. Done S78
 - [x] [revenue][high] [2026-04-02] Hermes Agent deep dive — memory + skills compared to Verra. Auto-SOP from 5+ tool calls is adoptable. Done autonomous
 - [x] [maintenance][high] [2026-04-01] NBA engine errors (fetch failed + connectivity) — resolved as transient, not NBA-specific. Picks logging daily. Done S78
-- [ ] [maintenance][high] NBA engine errors (active): database connection not open + fetch failed — kernel:nba. Likely related: db down → fetch fails. Needs kernel-side investigation.
-- [ ] [maintenance][high] NBA engine error: fetch failed — kernel:nba
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [x] [maintenance][high] [2026-04-02] NBA engine errors: DB conn fixed c19673b, ESPN fetch timeouts added (15s AbortSignal). Done autonomous
+- [x] [maintenance][high] [2026-04-02] NBA engine fetch-failed: 15s AbortSignal.timeout on 3 ESPN calls. Done autonomous
+- [x] [research][medium] [2026-04-01] External prediction sources — completed autonomous S75. Done
