@@ -4,9 +4,7 @@ Format: `- [priority] description — source session/context`
 Priority: urgent, high, medium, low, whisper
 
 ## WANTED (curiosities, questions that emerged during work)
-- [medium] ✅ANSWERED How do the 247 MCP tools compose? — Audit completed by think session S79. reference_mcp_tool_index.md at V5 workspace. 64 subsystems mapped. Composition patterns documented.
 - [medium] Can the Session Scribe pattern be generalized into a reusable skill for other projects? — observed across sessions
-- [low] ✅ANSWERED What would a self-modifying cron look like? — Answer: it doesn't modify its schedule, it modifies its INPUT (queue compression) and rotates THREAT CLASSES (A-E immune rotation). Self-modification through substrate, not interval. — S79
 
 ## DREAMT (patterns noticed but not pursued)
 - [medium] The think-queue and scratchpad overlap — could they merge into one gravity-ranked structure? — observed S74+
@@ -22,7 +20,6 @@ Priority: urgent, high, medium, low, whisper
 ## LEANED (started but didn't finish, gravitational pull remains)
 - [low] ESP32-C6 WiFi CSI sensing — ✅RESEARCHED (autonomous-think S79). Hardware: 2x XIAO ESP32-C6 ($12). Flash ESPectre. Lowest priority per user — re-engage anytime.
 - [high] Hermes Agent skill-creation loop — compare to Session Scribe — think-queue item, unexplored
-- [medium] ✅DONE Self-optimization audit of all MCP tools — completed by autonomous-think S79. 247 tools, 64 subsystems.
 - [high] Yang-Mills mass gap → memory decay optimization. Memories with high graph connectivity (many relations) should be immune to eviction. Memories with few connections decay normally. The knowledge graph's connection count IS the "mass" — implement mass-weighted eviction instead of pure last_used. — S79 millennium bridge
 - [medium] V5-only bias (11th mirror): scripts assume V5 is the only workspace. backup-memory.sh and morning-brief.sh both missed HOME memory. Systemic: any script written pre-S79 may have this bias. Audit all scripts for hardcoded V5 paths. — S79 dream-E11
 - [medium] Navier-Stokes → system turbulence. CONFIRMED: autonomous systems generate internal noise faster than external signal (kernel auto-filing 40x, log growing, stale entries). Dedup guards and log compression ARE viscosity terms. The dream engine is half signal-amplifier, half noise-filter. Optimal ratio is the unsolved question. — S79 millennium bridge + dream-E10
