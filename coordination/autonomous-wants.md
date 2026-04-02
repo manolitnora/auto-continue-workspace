@@ -26,6 +26,7 @@ Priority: urgent, high, medium, low, whisper
 - [high] Yang-Mills mass gap → memory decay optimization. Memories with high graph connectivity (many relations) should be immune to eviction. Memories with few connections decay normally. The knowledge graph's connection count IS the "mass" — implement mass-weighted eviction instead of pure last_used. — S79 millennium bridge
 - [medium] Navier-Stokes → token flow smoothness. The correction digest is a viscosity term. Can we measure turbulence (coherence loss) in model output and dynamically adjust viscosity (correction load)? — S79 millennium bridge
 - [high] Growth spiral: using the system improves the system. Dream B connects → adds edges → increases mass → prevents eviction → richer future dreams. Not maintenance — growth. The system gets smarter by running, not by being programmed. This is the core product insight. — S79 dream-E8
+- [critical] Transfer auto-continue architecture into hybridenginev3 kernel. Replace placeholder heartbeat with adaptive clock. Wire dream engine into dreamer.ts. Gate → orchestrator middleware. Compound chain → autonomy loop. Memory graph → SQLite vault. This makes the kernel self-monitoring, self-dispatching, self-dreaming NATIVELY. No cron. No bash. Event-driven, persistent, 2-second detection. The mind meets the body. — S79 reunion
 
 ## OPTIMIZE (standing codebase improvement targets)
 - Test coverage gaps
