@@ -5,6 +5,7 @@
 - [x] [research][medium] [2026-04-02] External prediction sources — completed S75, duplicate of existing research.
 - [x] [research][medium] [2026-04-03] External prediction sources — kernel noise duplicate, filtered by dedup-queue.sh
 - [x] [maintenance][high] [2026-04-03] Daemon burst dispatch — 14 dispatches in 4 min. Root cause: SessionStart hook cleared gate for autonomous sessions. Fix: 5min cooldown in daemon + VERRA_AUTONOMOUS env var skips gate-clear for autonomous sessions. Three files patched.
-- [ ] [maintenance][medium] NBA runScoring() never records results — bankroll frozen at .60 since Game 1
+- [x] [maintenance][medium] [2026-04-03] NBA runScoring() scoring pipeline — ROOT CAUSE: pre-v2 picks had NULL game_id, invisible to getUnscoredPicks(). Old picks marked scored=1. Forward path verified.
+- [ ] [maintenance][low] better-sqlite3 native module version mismatch — 11/60 NBA tests fail. Fix: npm rebuild better-sqlite3
 - [ ] [research][medium] arXiv moderation status — submit/7423422, submitted 2026-03-30, still pending as of 2026-04-03
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
