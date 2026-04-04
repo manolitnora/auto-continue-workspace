@@ -10,7 +10,7 @@
 
 - [ ] [math][medium] Q2: Does Singh's trace dynamics FORCE M = M_P/δ or is it a choice? Send email to Singh (draft at research/alpha-137/paper/email_singh_paper2.txt). Also: check Singh's original papers for whether he derives M from equations of motion or assumes it.
 
-- [ ] [physics][medium] Var(Re(âĉb̂)) = 1/dim(K) theorem: write up for Paper IV or companion note. The 7-line proof is clean. The parenthesization-independence (trace form symmetric trilinear) is a bonus result. Cite Springer-Veldkamp 1.7.1.
+- [x] [physics][medium] Var(Re(âĉb̂)) = 1/dim(K) theorem: DONE S86. var_theorem_note.tex written. 7-line proof: left-mult isometry + spherical symmetry. Parenthesization-independence via alternative law + Re(associator)=0. Springer-Veldkamp §1.7.1 cited. 4 algebras MC-verified. commit 4244f7c.
 
 ## NBA ENGINE QUEUE
 
