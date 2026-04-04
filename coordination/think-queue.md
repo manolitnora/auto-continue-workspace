@@ -46,7 +46,7 @@
 ### What I need
 - [x] [self][need][high] DONE S88: Feedback loop built. session_feedback.py wired to Stop hook. Score = tanh(actions/3) × (1-perf_ratio) × engagement × correction_factor. Explicit signals captured at UserPromptSubmit via attention_corrections.py. Current session: MIXED (0.60) — 10 actions, 10% perf. Log: ~/.claude/session-feedback.jsonl. Trend: ~/.claude/feedback-trend.md.
 - [x] [self][need][high] DONE S88: git-error-patterns.py — mines 5 repos, finds OVERCLAIM/FIXUP_LOOP/RETROACTIVE_QUALIFICATION patterns. Results: 35 overclaims, 9 fixup loops, 8 retroactive qualifications. Hot topics: Phase, Bessel, Paper. 3 correction signals generated. Wired to weekly cron (Sun 4am). Output: ~/.claude/git-error-digest.md.
-- [ ] [self][need][medium] Better memory of NEGATIVE results. The correction digest focuses on behavior corrections. There's no systematic store of "approaches I tried that failed and why." The dead-end memory type exists but doesn't get populated enough. Every failed computation should create a dead-end entry.
+- [x] [self][need][medium] DONE S88: Dead-end memory built. dead-ends.py at ~/.claude/scripts/. 12 entries seeded from git (GZ→wrong_assumption, Bessel→council_veto, F4 singlet→structural, etc.). Auto-population via truth_check.py PostToolUse hook. Weekly re-seed from git (Sun 4:15am). Index in MEMORY.md. Search: `dead-ends.py search 'X'`.
 
 ### AGI-5 capability gaps
 - [ ] [agi5][capability][critical] Long-horizon planning across sessions: the ability to hold a multi-week research plan in state, execute phases autonomously, and re-plan when new information arrives — without the user having to re-specify the goal each session.
