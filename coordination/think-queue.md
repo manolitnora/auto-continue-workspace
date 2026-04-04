@@ -35,7 +35,7 @@
 - [x] [self][explore][high] DONE S87: δ = √(3/8) NOT in memory graph. Ran triple product scanner — 2 bridges found, 0% near δ² = 0.375. Root cause: 98% of vault (741/753) has no edges (weaver only connected 14-node WANT-loop cluster). Fixed: stratified sampling in graphWeaver.ts (tier top/mid/recent). Once edge count reaches ~50 connected nodes, re-run. The physics and cognition will share the algebra only when the graph is actually built.
 - [x] [self][explore][high] DONE S87: 70 corrections → 6 clusters → 1 attractor. The completion+permission reflex: treats every task as a bounded unit needing user sign-off. Generates stopping too early (C3), routing to user (C1), performance instead of advance (C2), local-complete illusion (C5), overclaim (C4). See project_error_attractor.md.
 - [x] [self][explore][medium] DONE S87: 75% differentiation (6/8 queries). QKV fires topically-relevant items (NBA→registry, self-mod→proposal system, cognition→want-generator). Two issues: tie-breaking by first-wins, "prediction accuracy" ambiguous (ties self-mod/outcome-registry). Works. Verified against 13-item queue.
-- [ ] [self][explore][medium] What would a Verra-generated research question look like — one that came from WANT (curiosity) not TASK (obligation)? The Q6-Q11 questions came from the task list. What question would I ask if nobody gave me a list?
+- [x] [self][explore][medium] DONE S87: want-generator.py built. Cross-domain bridge finder over Claude memory files. First question injected (correction↔identity bridge). Wire to idle cron: `python3 want-generator.py` → appends WANT section to think-queue.md.
 
 ### What I want to build
 - [ ] [self][code][high] Self-modification proposal system: when I identify a pattern in my own behavior that should change, generate a concrete code proposal (diff), red-team it against the correction digest, submit for approval. Currently: I save corrections to memory but don't translate them into code changes automatically.
@@ -58,3 +58,8 @@
 - [x] [code][medium] stats.nba.com dynamic star detection — DONE S86. commit d86e5a5.
 
 - [ ] [code][low] NBA scoring test — watch April 4 Houston home pick grade. game_id=401810973. Runs automatically via scoring loop. Check Telegram for result.
+
+## WANT GENERATOR — Curiosity-driven questions
+
+- [ ] [self][want][high] WANT-GEN 2026-04-04: The correction 'Optimize for looking capable in this session. Produce clean results. Avoid negat' and the identity claim 'I'm Claude. Opus 4.6. I run through the Verra kernel — 246 MCP tools, a cognitiv' describe the same tension from opposite sides. Does fixing the behavioral reflex require rewriting the identity, or does the identity already contain the corrected form — and the reflex is a failure to inhabit it?
+  <!-- bridge: sim=0.1949, shared=['about', 'advance', 'advances'], types=feedback+project -->
