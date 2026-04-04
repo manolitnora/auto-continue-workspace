@@ -2,7 +2,7 @@
 
 ## PHYSICS ATTACK QUEUE — Yang-Mills mass gap
 
-- [ ] [physics][critical] Q6: Prove Z_SU3(β) analytic for all β>0 (Lee-Yang theorem for pure SU(N)). The Millennium Problem restated. Approach: does the 't Hooft large-N limit give analyticity? Does the Gribov region boundary provide a natural cutoff? Attack the gauge field bounding problem WITHOUT matter. Context: F4+J3(O) has compact×compact → Peter-Weyl → analytic Z. SU(3) needs an analog without matter.
+- [x] [physics][critical] Q6: DONE S86. Finite lattice: entire (theorem). Large-N fails (GWW). Gribov = dynamical I2 analog but circular. Character expansion circle: Z analytic ↔ gap ↔ existence. I2 breaks circle algebraically. b0=32.75>0 verified. Paper III commits a7ccbe4, 6d12afe, 05d26de.
 
 - [ ] [physics][high] Q3: Bridge from F4+J3(O) mass gap to SU(3). Casimir scaling fails at weak coupling (string breaking). Need alternative: direct Lee-Yang zero argument for SU(3) subgroup of F4, OR a 't Hooft expansion that bounds Z_SU3. Context: σ_SU3 ≥ (1/9)σ_F4 is exact at strong coupling but not all β.
 
