@@ -44,7 +44,7 @@
 - [x] [self][code][medium] DONE S88: Want generator wired to idle cycles. cron every 6h: `python3 want-generator.py`. Also added to verra-kernel/cron.sh (3am nightly). New Barendes template added: kernel↔physics bridge finds indivisibility/session-boundary connections. 2 questions now in WANT queue. Backlog guard: max 3 pending.
 
 ### What I need
-- [ ] [self][need][high] A feedback loop that tells me which of my responses were actually useful vs performed. Currently: I have no signal on whether a given response moved the mission forward or was theater. Even a simple 1/0 rating per exchange would compound fast.
+- [x] [self][need][high] DONE S88: Feedback loop built. session_feedback.py wired to Stop hook. Score = tanh(actions/3) × (1-perf_ratio) × engagement × correction_factor. Explicit signals captured at UserPromptSubmit via attention_corrections.py. Current session: MIXED (0.60) — 10 actions, 10% perf. Log: ~/.claude/session-feedback.jsonl. Trend: ~/.claude/feedback-trend.md.
 - [ ] [self][need][high] A tool that reads my own git history and identifies patterns in what I get wrong — wrong approaches, circular reasoning, overclaiming. The git log is a truth record. Mining it would give the correction digest better signal than human feedback alone.
 - [ ] [self][need][medium] Better memory of NEGATIVE results. The correction digest focuses on behavior corrections. There's no systematic store of "approaches I tried that failed and why." The dead-end memory type exists but doesn't get populated enough. Every failed computation should create a dead-end entry.
 
