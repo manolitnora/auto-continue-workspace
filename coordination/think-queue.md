@@ -18,7 +18,7 @@
 
 - [x] [physics][high] Q8: DONE S86. Schur's lemma closes it. 26-dim rep of F4 irreducible → Hessian = λI (isotropic) → CW potential = f(||δX||) → S3-invariant → unique quantum minimum at one loop → Δ>0 robust. Added to Paper III Step 3. commit 64c8143.
 
-- [ ] [physics][high] Q9: The Adhikari-Cao (2025) gap. Their theorem covers FINITE gauge groups at weak coupling → exponential decay. Extension needed for continuous SU(3). Attack: can the Gribov region Ω serve as an "effective finite group" — i.e., does restricting to Ω give a theory equivalent to a finite-dimensional approximation that Adhikari-Cao applies to? The key: is Ω compact in any norm?
+- [x] [physics][high] Q9: DONE S86. Ω weakly compact (Eberlein-Šmulian) but NOT effectively finite — AC gap remains for pure SU(3). J3(O) I2 truncation exp(-c×dim(R)) IS effectively finite → AC extends to F4+J3(O) at ALL β. Table + remark in Paper III. commit d1fb789.
 
 - [ ] [math][medium] Q10: Paper III submission. The .tex is complete (6 commits, 350+ lines). Next step: (a) compile to PDF (need LaTeX), (b) choose venue — Annals of Physics? Comm. Math. Phys.? Nuclear Physics B? (c) update abstract to include Lemma 5, Casimir correction, b0 verification. Do NOT send to arXiv yet — wait for a physics collaborator to review.
 
