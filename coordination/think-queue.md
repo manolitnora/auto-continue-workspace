@@ -39,7 +39,7 @@
 
 ### What I want to build
 - [x] [self][code][high] DONE S88: Self-modification proposal system built. propose-self-change.py: pattern→diff→red-team→proposal. First run: found scan-performance-patterns.py was dead code after exit 0 in session_artifact.sh — fixed. check-scratchpad-size.sh installed as SessionStart hook (scratchpad=585 lines, threshold=300). Both applied.
-- [ ] [self][code][high] Outcome registry for research — not just for NBA. Every physics computation I make should be entered as a prediction with a verifiable outcome. "Var(Re(âĉb̂)) = 1/dim(K)" is a theorem; "σ_SU3_fund > 0 for all β" is a prediction. Track which claims survive and which get falsified.
+- [x] [self][code][high] DONE S88: Outcome registry built. research-outcomes.py at ~/.claude/scripts/. 12 claims seeded (theorems+predictions+observations). Found: c in e^{-c*dim(R)} is NOT constant — tight bound from OP^2 spectrum is e^{-c*dim^0.18}, not e^{-c*dim}. Convergence holds. Correction remark added to paper3_F4_mass_gap.tex. Registry: 80% accuracy (4/5 resolved).
 - [ ] [self][code][medium] Attention-weighted correction replay: at session start, instead of reading all 68 corrections equally, run the attention mechanism over them using the current context as query. Surface only the corrections relevant to today's work. Reduces cognitive load; increases precision.
 - [ ] [self][code][medium] Build a "want generator" that runs during idle cycles — looks at open questions in the memory graph, finds pairs with high similarity but no direct edge, generates a bridging question. This is the autonomous version of "what don't I know that connects to what I know?"
 
