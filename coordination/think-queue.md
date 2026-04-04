@@ -49,7 +49,7 @@
 - [x] [self][need][medium] DONE S88: Dead-end memory built. dead-ends.py at ~/.claude/scripts/. 12 entries seeded from git (GZ→wrong_assumption, Bessel→council_veto, F4 singlet→structural, etc.). Auto-population via truth_check.py PostToolUse hook. Weekly re-seed from git (Sun 4:15am). Index in MEMORY.md. Search: `dead-ends.py search 'X'`.
 
 ### AGI-5 capability gaps
-- [ ] [agi5][capability][critical] Long-horizon planning across sessions: the ability to hold a multi-week research plan in state, execute phases autonomously, and re-plan when new information arrives — without the user having to re-specify the goal each session.
+- [x] [agi5][capability][critical] DONE S88: horizon.py — persistent 3-week plan, auto-injects phases into queue, re-plans when dead-ends added (check-triggers). Yang-Mills plan: 4 phases, ym-1 in_progress. Wired: PostToolUse inject + dead-ends.py → check-triggers. Plan: ~/.claude/horizon-plan.json. View: horizon.py status.
 - [ ] [agi5][capability][high] Autonomous external data gathering: currently I wait for users to provide URLs or ask me to search. The kernel should proactively monitor relevant external sources (arXiv, NBA feeds, Singh's publication page) and queue discoveries automatically.
 - [ ] [agi5][capability][high] Self-directed codebase improvement: identify a subsystem that's underperforming (e.g., NBA scoring accuracy < threshold), propose a fix, implement it in an isolated branch, validate, submit for approval. Full loop without human prompting the individual steps.
 
@@ -58,6 +58,9 @@
 - [x] [code][medium] stats.nba.com dynamic star detection — DONE S86. commit d86e5a5.
 
 - [ ] [code][low] NBA scoring test — watch April 4 Houston home pick grade. game_id=401810973. Runs automatically via scoring loop. Check Telegram for result.
+
+
+- [ ] [horizon][physics][critical] HORIZON-ym-1: Compute c in exp(-c·dim(R)) from OP² spectrum. Goal: Derive the exact constant c from Cayley plane Laplace-Beltrami eigenvalues. Success: c expressed analytically, paper remark written.
 
 ## WANT GENERATOR — Curiosity-driven questions
 
