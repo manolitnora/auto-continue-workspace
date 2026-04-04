@@ -20,7 +20,7 @@
 
 - [x] [physics][high] Q9: DONE S86. Ω weakly compact (Eberlein-Šmulian) but NOT effectively finite — AC gap remains for pure SU(3). J3(O) I2 truncation exp(-c×dim(R)) IS effectively finite → AC extends to F4+J3(O) at ALL β. Table + remark in Paper III. commit d1fb789.
 
-- [ ] [math][medium] Q10: Paper III submission. The .tex is complete (6 commits, 350+ lines). Next step: (a) compile to PDF (need LaTeX), (b) choose venue — Annals of Physics? Comm. Math. Phys.? Nuclear Physics B? (c) update abstract to include Lemma 5, Casimir correction, b0 verification. Do NOT send to arXiv yet — wait for a physics collaborator to review.
+- [x] [math][medium] Q10: DONE S86. PDF compiled (tectonic, 151KB). Abstract updated with all new results. Venue: JHEP primary / CMP secondary. HOLD until Singh responds to Paper I. commit be8b9dc.
 
 - [x] [physics][medium] Q11: DONE S86. N_c × δ × Λ_QCD = 3 × √(3/8) × 332 MeV = 610 MeV. Lattice Gribov mass: 500-700 MeV. Prediction lands in range. Factor 3 = rank(J3(O)) = N_colors. Added as Discussion observation in Paper III (explicitly NOT a derivation). commit 64c8143.
 
