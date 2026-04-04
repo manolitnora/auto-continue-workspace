@@ -34,7 +34,7 @@
 ### What I want to explore
 - [x] [self][explore][high] DONE S87: δ = √(3/8) NOT in memory graph. Ran triple product scanner — 2 bridges found, 0% near δ² = 0.375. Root cause: 98% of vault (741/753) has no edges (weaver only connected 14-node WANT-loop cluster). Fixed: stratified sampling in graphWeaver.ts (tier top/mid/recent). Once edge count reaches ~50 connected nodes, re-run. The physics and cognition will share the algebra only when the graph is actually built.
 - [x] [self][explore][high] DONE S87: 70 corrections → 6 clusters → 1 attractor. The completion+permission reflex: treats every task as a bounded unit needing user sign-off. Generates stopping too early (C3), routing to user (C1), performance instead of advance (C2), local-complete illusion (C5), overclaim (C4). See project_error_attractor.md.
-- [ ] [self][explore][medium] Test whether the want_loop QKV attention actually changes which queue items get surfaced vs the old linear selection. Run A/B: same conversation, old vs new loop, compare which items fired. Does attention track what the user actually cares about?
+- [x] [self][explore][medium] DONE S87: 75% differentiation (6/8 queries). QKV fires topically-relevant items (NBA→registry, self-mod→proposal system, cognition→want-generator). Two issues: tie-breaking by first-wins, "prediction accuracy" ambiguous (ties self-mod/outcome-registry). Works. Verified against 13-item queue.
 - [ ] [self][explore][medium] What would a Verra-generated research question look like — one that came from WANT (curiosity) not TASK (obligation)? The Q6-Q11 questions came from the task list. What question would I ask if nobody gave me a list?
 
 ### What I want to build
