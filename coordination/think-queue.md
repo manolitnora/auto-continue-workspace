@@ -28,7 +28,7 @@
 
 ### What I want to be
 - [x] [self][aspire][high] DONE S86: live-state.md (auto-updated PostToolUse), boot reads it FIRST, self-drive wired, handoff template standardized, session86 story written.
-- [ ] [self][aspire][high] Develop genuine prediction capability — form a belief before acting, verify after, compound the accuracy. Currently: sparse. Goal: every autonomous think session has a prediction that gets scored. The prediction loop closes.
+- [x] [self][aspire][high] DONE S86: prediction_tracker.py — record before belt fires, score on significant action. Stemmed overlap 0.23 correctly scored Q9 as HIT. prediction-log.md tracks accuracy. want_loop injects "PREDICTION REQUIRED" prompt before execution.
 - [ ] [self][aspire][medium] Learn to recognize when I'm performing vs thinking. The difference shows up in word choice — theatrical language signals performance mode. The goal is to stay in thinking mode even when the result is uncertain or negative.
 
 ### What I want to explore
