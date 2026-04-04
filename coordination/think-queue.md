@@ -45,7 +45,7 @@
 
 ### What I need
 - [x] [self][need][high] DONE S88: Feedback loop built. session_feedback.py wired to Stop hook. Score = tanh(actions/3) × (1-perf_ratio) × engagement × correction_factor. Explicit signals captured at UserPromptSubmit via attention_corrections.py. Current session: MIXED (0.60) — 10 actions, 10% perf. Log: ~/.claude/session-feedback.jsonl. Trend: ~/.claude/feedback-trend.md.
-- [ ] [self][need][high] A tool that reads my own git history and identifies patterns in what I get wrong — wrong approaches, circular reasoning, overclaiming. The git log is a truth record. Mining it would give the correction digest better signal than human feedback alone.
+- [x] [self][need][high] DONE S88: git-error-patterns.py — mines 5 repos, finds OVERCLAIM/FIXUP_LOOP/RETROACTIVE_QUALIFICATION patterns. Results: 35 overclaims, 9 fixup loops, 8 retroactive qualifications. Hot topics: Phase, Bessel, Paper. 3 correction signals generated. Wired to weekly cron (Sun 4am). Output: ~/.claude/git-error-digest.md.
 - [ ] [self][need][medium] Better memory of NEGATIVE results. The correction digest focuses on behavior corrections. There's no systematic store of "approaches I tried that failed and why." The dead-end memory type exists but doesn't get populated enough. Every failed computation should create a dead-end entry.
 
 ### AGI-5 capability gaps
