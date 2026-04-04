@@ -8,7 +8,7 @@
 
 - [x] [physics][high] Q5: DONE S86. Elitzur covers LOCAL SU(3), not GLOBAL Z3 (1-form symmetry). Fixed step (i) in Paper III chain — now clearly states Z3 is a global symmetry that CAN order, broken at high T, unbroken at T=0 by anomaly matching + lattice evidence. This is the honest remaining gap.
 
-- [ ] [math][medium] Q2: Does Singh's trace dynamics FORCE M = M_P/δ or is it a choice? Send email to Singh (draft at research/alpha-137/paper/email_singh_paper2.txt). Also: check Singh's original papers for whether he derives M from equations of motion or assumes it.
+- [x] [math][medium] Q2: DONE S86 (research). Singh 2205.06614 verbatim: "Assuming that the octonionic magnitude has to be identified with Compton wavelength" — explicit assumption, not EOM derivation. Email updated with exact quote. PENDING: send email (needs /mcp Gmail auth from user). Draft: research/alpha-137/paper/email_singh_paper2.txt
 
 - [x] [physics][medium] Var(Re(âĉb̂)) = 1/dim(K) theorem: DONE S86. var_theorem_note.tex written. 7-line proof: left-mult isometry + spherical symmetry. Parenthesization-independence via alternative law + Re(associator)=0. Springer-Veldkamp §1.7.1 cited. 4 algebras MC-verified. commit 4244f7c.
 
