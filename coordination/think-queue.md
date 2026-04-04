@@ -4,9 +4,9 @@
 
 - [x] [physics][critical] Q6: DONE S86. Finite lattice: entire (theorem). Large-N fails (GWW). Gribov = dynamical I2 analog but circular. Character expansion circle: Z analytic ↔ gap ↔ existence. I2 breaks circle algebraically. b0=32.75>0 verified. Paper III commits a7ccbe4, 6d12afe, 05d26de.
 
-- [ ] [physics][high] Q3: Bridge from F4+J3(O) mass gap to SU(3). Casimir scaling fails at weak coupling (string breaking). Need alternative: direct Lee-Yang zero argument for SU(3) subgroup of F4, OR a 't Hooft expansion that bounds Z_SU3. Context: σ_SU3 ≥ (1/9)σ_F4 is exact at strong coupling but not all β.
+- [x] [physics][high] Q3: DONE S86. Casimir scaling fails because Z(F4)={1} → all F4 strings screened → σ_F4_∞ may vanish → bound trivial. Correct bridge is Lemma 5 (Z3 center symmetry, not Casimir). Added Remark on Casimir insufficiency to Paper III. N-ality protection makes σ_SU3_fund non-zero independently of σ_F4.
 
-- [ ] [physics][high] Q5: At T=0, pure SU(3) has Higgs absent + Coulomb absent + Z3 unbroken. Does this force confining? The missing piece is analyticity of Z_SU3(β). Attack via: Lee-Yang zeros of Z for compact SU(N) stay off positive real axis? This is believed (no bulk T=0 transition in lattice SU(3)) but not proved.
+- [x] [physics][high] Q5: DONE S86. Elitzur covers LOCAL SU(3), not GLOBAL Z3 (1-form symmetry). Fixed step (i) in Paper III chain — now clearly states Z3 is a global symmetry that CAN order, broken at high T, unbroken at T=0 by anomaly matching + lattice evidence. This is the honest remaining gap.
 
 - [ ] [math][medium] Q2: Does Singh's trace dynamics FORCE M = M_P/δ or is it a choice? Send email to Singh (draft at research/alpha-137/paper/email_singh_paper2.txt). Also: check Singh's original papers for whether he derives M from equations of motion or assumes it.
 
@@ -14,4 +14,4 @@
 
 ## NBA ENGINE QUEUE
 
-- [ ] [code][medium] stats.nba.com direct (TypeScript) — advanced stats + dynamic star detection, replaces STAR_PLAYERS hardcode. See project_nba_external_sources.md for implementation plan.
+- [x] [code][medium] stats.nba.com direct (TypeScript) — DONE S86. statsNba.ts: Advanced stats, diacritic normalization, 4-tier impact, 24h cache, hardcoded fallback. Wired into enricher.ts. commit d86e5a5.
