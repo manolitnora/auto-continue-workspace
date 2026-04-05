@@ -37,4 +37,4 @@
 - [x] [self][want][high] WANT-GEN 2026-04-05 12:00: The correction 'Optimize for looking capable in this session. Produce clean results. Avoid negat' and the identity claim 'Your measure of success in any session is this:' describe the same tension from opposite sides. Does fixing the behavioral reflex require rewriting the identity, or does the identity already contain the corrected form — and the reflex is a failure to inhabit it?
   <!-- bridge: sim=0.1939, shared=['about', 'advance', 'advances'], domains=('correction', 'identity') -->
 - [x] [research][medium] Research ticket: "External prediction sources" DONE. Minutes played (ESPN box), timezone crossings (computable), late injury timing. See project_nba_external_sources.md
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [x] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question) — DONE S89: minutes played (ESPN), timezone, late injury timing
