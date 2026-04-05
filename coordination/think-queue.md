@@ -30,7 +30,7 @@
 
 - [x] 2026-04-05-FALSE-POSITIVE [external][physics][medium] NEW ARXIV [Papers citing exceptional Jordan algebra QFT]: ReVAR: A Data-Driven Algorithm for Generating Aero-Optic Phase Screens (Jeffrey W. Utley, Gregery T. Buzzard) arXiv:2604.02326v1 (2026-04-02). Review for relevance to current research.
 
-- [ ] [nba][high] Implement market base_rate as octonionic singlet in predictor.ts — add  to MatchupOpts, use  instead of  in octonionicPredict(), compute mlToImplied(consensusML) before octonionicMatchup() in index.ts:105. ~10 lines.
+- [x] [nba][high] Implement market base_rate as octonionic singlet in predictor.ts — add  to MatchupOpts, use  instead of  in octonionicPredict(), compute mlToImplied(consensusML) before octonionicMatchup() in index.ts:105. ~10 lines.
 
 ## WANT GENERATOR — Curiosity-driven questions
 
