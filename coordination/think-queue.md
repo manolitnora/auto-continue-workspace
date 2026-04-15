@@ -7,4 +7,4 @@
 
 - [x] [self][want][high] WANT-GEN: correction/identity tension — deprioritized, not actionable this session
 - [x] [maintenance][high] NBA engine score fetch Apr 13 — resolved, all picks scored
-- [ ] [maintenance][high] NBA engine error: Score fetch 2026-04-11: The operation was aborted due to timeout — kernel:nba
+- [x] [maintenance][high] NBA engine score fetch Apr 11 — stale, all picks scored, engine healthy
