@@ -6,4 +6,4 @@
 ## WANT GENERATOR — Curiosity-driven questions
 
 - [x] [self][want][high] WANT-GEN: correction/identity tension — deprioritized, not actionable this session
-- [ ] [maintenance][high] NBA engine error: Score fetch 2026-04-13: fetch failed — kernel:nba
+- [x] [maintenance][high] NBA engine score fetch Apr 13 — resolved, all picks scored
