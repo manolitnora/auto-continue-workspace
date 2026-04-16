@@ -311,3 +311,5 @@
 [2026-04-15 23:15:05] | mode: dispatch | action: daemon→think (PID 29935, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-04-16 14:04:14] | mode: dispatch | action: daemon→think (PID 6559, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-04-16 16:46:59] | mode: dispatch | action: daemon→think (PID 60649, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-04-16] | mode: think | action: Verified external prediction sources research ticket — grep-confirmed all 5 components wired (fetchTeamRatings, cubicMatchup, mlToImplied, Brier calibration, lineMovement). Computed NBA Brier=0.2192 (n=30). Fixed arxiv monitor re-trigger (Singh 1911.02955 last_seen was stale). Marked 3 think-queue items done. | outcome: Research ticket CLOSED. 22W-12L, $1441 balance. Model beats random but not yet good (<0.20 Brier). | feeds: Next think session should investigate whether the lattice calibrator (lattice-calibrate.ts) and sigma adjustments (learning.ts) actually fire on scoring events. The wiring is complete but the feedback loop may not be closing — that is the gap between 0.2192 and <0.20.
+
