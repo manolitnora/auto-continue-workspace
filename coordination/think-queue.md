@@ -13,5 +13,5 @@
 - [x] [maintenance][high] NBA engine score fetch Apr 11 — stale, all picks scored, engine healthy
 - [x] [2026-04-16] [maintenance][high] STALE — Score fetch 2026-04-11 error. Engine has 42 picks, 34 scored since. Resolved.
 
-- [ ] [research][medium] Brier score calibration gap: NBA Brier=0.2192 vs target <0.20. Check if lattice-calibrate.ts runs automatically on scoring. Check if learning.ts sigma adjustments are firing. The wiring is done — is the feedback loop actually CLOSING? — think-auto-20260416
+- [x] [2026-04-16] [research][medium] CLOSED — Loop IS closing. Degenerate minimum found: sigma/form/injuries pinned at 0.1 lower bound. Engine learning to predict ~0.5. See project_brier_degenerate_minimum.md. Fix: raise sigma floor to 0.3 OR penalize-near-0.5 in cost OR wait for n>=100.
 - [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
