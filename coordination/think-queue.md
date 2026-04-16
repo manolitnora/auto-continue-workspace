@@ -14,3 +14,4 @@
 - [x] [2026-04-16] [maintenance][high] STALE — Score fetch 2026-04-11 error. Engine has 42 picks, 34 scored since. Resolved.
 
 - [ ] [research][medium] Brier score calibration gap: NBA Brier=0.2192 vs target <0.20. Check if lattice-calibrate.ts runs automatically on scoring. Check if learning.ts sigma adjustments are firing. The wiring is done — is the feedback loop actually CLOSING? — think-auto-20260416
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
