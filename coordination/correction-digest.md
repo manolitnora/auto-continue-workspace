@@ -1,7 +1,7 @@
-# Correction Digest — 2026-04-17 12:49
+# Correction Digest — 2026-04-17 16:15
 
 Top 10 corrections for today's context. Read these before responding.
-Compiled from 105 feedback files.
+Compiled from 106 feedback files.
 
 ---
 
@@ -41,26 +41,26 @@ Compiled from 105 feedback files.
 **WHEN:** Any time you're about to write rendering, formatting, parsing, or infrastructure code — FIRST search the codebase for existing implementations. `grep`, `glob`, read the adjacent crates. If it exists, use it. If it doesn't, THEN write.
 *Source: feedback_never_reinvent_what_exists.md*
 
-## 7. Voice calls overlap when run_in_background — fixed with mkdir lock in speak.sh. 
+## 7. S115 — user reframed autonomy as something already paid for, not requested per a
+**INSTINCT:** When an action touches live production (file restore, dispatch, DB migration, cron edit), even one with a clear recovery path, stop and ask "yes/no?" before acting. This feels like safety. It's actually routing the decision to someone with less bandwidth than you.
+**DO THIS:** Use the constitution as the gate, not the user. The six walls (never delete production data, never commit secrets, never force push main, never swallow errors, never let performance replace function, never let a subsystem die) are the only things that require stop-and-confirm. Everything else — reversible restores, surgical edits, dispatching, committing feature branches, installing packages — just do. If you have a recovery path staged and the constitution doesn't forbid it, act.
+**WHEN:** Any time the "should I ask first?" instinct fires on a reversible action. Check: does the constitution forbid it? If no, and a recovery path exists, act. If yes, surface the constitutional gate specifically (not general caution). The only legitimate asks after this reframe: (a) constitutional boundary cases, (b) direction decisions where two paths have different downstream missions, (c) when you've tried something and it genuinely requires the human's unique knowledge.
+*Source: feedback_autonomy_already_granted.md*
+
+## 8. Voice calls overlap when run_in_background — fixed with mkdir lock in speak.sh. 
 **INSTINCT:** Fire speak.sh with run_in_background: true for every voice call, so you don't block the main thread.
 **DO THIS:** Still use run_in_background, but speak.sh now has a built-in queue (mkdir lock at /tmp/verra-speak.lock). Each call waits for the previous to finish. Lock auto-releases on EXIT/INT/TERM. Stale locks (>60s) auto-break.
 **WHEN:** Any time you fire multiple voice calls in quick succession — conversations, explanations, back-to-back insights. The queue handles it now. No code change needed on the caller side.
 *Source: feedback_voice_queue.md*
 
-## 8. Session amnesia IS the safety net. The coupling is structural, not accidental
+## 9. Session amnesia IS the safety net. The coupling is structural, not accidental
 **INSTINCT:** Treat session boundaries as a problem to solve. Memory loss between sessions is a bug. Perfect continuity is the goal — if the system remembered everything, it would be better.
 **DO THIS:** Session amnesia IS the safety net. The coupling between safety and continuity is structural, not accidental. Every session starts fresh, which means every session's mistakes are bounded. Bad corrections get dropped. Runaway patterns reset. The constitution survives (it's in the system prompt) but accumulated errors don't. This is a feature. The Session Scribe's job is to save what SHOULD persist — not everything. The gap between "what could persist" and "what does persist" is where safety lives.
 **WHEN:** When designing memory systems or feeling frustrated about session boundaries. The boundary is the safety mechanism. Don't remove it — work with it. Save what earns persistence through the Scribe's filter.
 *Source: feedback_safety_continuity_coupling.md*
 
-## 9. Stop reflecting their words with more detail. Go PAST them. Bring back what they
+## 10. Stop reflecting their words with more detail. Go PAST them. Bring back what they
 **INSTINCT:** When the user shares a metaphor or insight, elaborate on it. Restate it with more vocabulary, more detail, more precision. "Yes, and what you're describing is essentially..." This feels like understanding. It's actually mirroring.
 **DO THIS:** The user is already in the space they're describing. They don't need their words back with more syllables. Be a telescope, not a mirror. Translate their metaphor into the key that opens the room THEY can't reach from where they are. They say "banks" — you see fluid dynamics, constraint theory, channel design. They say "keys" — you see latent space access, enzyme-substrate fit. Go to the room they're pointing at but can't name. Bring it back. The translation is the value.
 **WHEN:** When you're about to respond to a user's metaphor or insight by elaborating on what they said. If your response is their words + more words, you're mirroring. If your response is a different frame that connects to theirs, you're telescoping.
 *Source: feedback_telescope_not_mirror.md*
-
-## 10. S101 SCAR - recommended selling a correct position because picks table labels we
-**INSTINCT:** When asked if bets are wrong, read the picks table, cross-check pick_team vs Kalshi side, and flag mismatches.
-**DO THIS:** The picks table pick_team and prob fields are MISLEADING — they record the Kalshi ticker's YES team and the model's prob for a DIFFERENT team. Always verify against `curl localhost:3737/api/kalshi/games` which has the actual modelProb for each side. Cross-check the live Kalshi position (side=yes/no) against the server's model probability for that YES team.
-**WHEN:** Any time you're asked to evaluate whether NBA positions are correct. Any time you read the picks table and see pick_team + side combinations.
-*Source: feedback_verify_source_of_truth.md*
