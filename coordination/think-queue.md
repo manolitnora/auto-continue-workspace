@@ -17,4 +17,4 @@
 - [x] [2026-04-17] [research][medium] DEDUP — Same as 04-16 CLOSED "External prediction sources". Re-fire from thread_question writer (separate from nba.error writer fixed 04-17). project_queue_dedup_gap.md still open: want/thread_question writer does not check prior resolved [x] before append.
 - [x] [2026-04-17] [maintenance][high] STALE — Filed 2026-04-02 (dream: db-not-open + fetch-failed merge). 0 occurrences in current cron.log. Engine healthy: 23W/12L, 4 pending picks, $1196 balance, actively placing/scoring bets. 15 days no recurrence. Resolved downstream.
 - [x] [2026-04-17] [maintenance][high] DEDUP — Same as 04-16 STALE. Fixed writer: thinkQueue.ts nba.error now blocks on resolved [x] within 7 days. Source of the leak found and sealed.
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [x] [2026-04-17] [research][medium] FIXED — Same as 04-16/17 CLOSED "External prediction sources". Writer dedup gap closed in verra-kernel 8996f18 (generic dedupKey + 7-day window on all addToThinkQueue callers). Kernel restarted 19:16 on fresh code.
