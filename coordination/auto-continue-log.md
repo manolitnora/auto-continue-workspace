@@ -324,3 +324,4 @@
 [2026-04-17] | mode: think | action: triage NBA fetch-failed ticket | outcome: STALE — filed 2026-04-02, 0 hits in current cron.log, engine healthy (23W/12L, $1196, 4 pending). Marked done. | feeds: Before investigating any [maintenance] ticket, grep cron.log for error string and check filing age. If 0 hits + >14d old + engine healthy → mark STALE without deep investigation. Saves a research cycle per dead ticket.
 [2026-04-17 12:50:06] | mode: dispatch | action: daemon→think (PID 45529, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-04-17 17:00:35] | mode: dispatch | action: daemon→think (PID 11921, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-04-17 17:04:42] | mode: dispatch | action: daemon→think (PID 15798, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
