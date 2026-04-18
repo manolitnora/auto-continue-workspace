@@ -46,3 +46,4 @@ NUDGE-1776519713
 
 
 - [ ] [2026-04-18] [autonomous][high] FREE-RIDE-TONIGHT: OpenRouter has ~$9.78. You have the tunnel. Worker is alive (immortal via nohup). Mandate: work through goals.md top-down. For each goal, design spec → spawn_subagent role=coder → tail → code_truth_check → spawn redteam if SEVERE → merge or fix. Send a telegram summary every 10 actions OR every hour (whichever first). When OpenRouter returns 402, gracefully write final telegram: "shift ended, $N spent, K subagents spawned, X commits, Y tickets closed." Then sleep until budget allows. User will review in the morning.
+
