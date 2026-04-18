@@ -31,3 +31,8 @@
 - [x] [2026-04-18] [rfc-006] DONE S118[high] GAP-4: Sanity-check middleware in pollers/eventBus — bounds check events (budget delta, JSON validity) before emit. Emit SYSTEM_ANOMALY on fail instead of false reality.
 
 - [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [orchestrator-test][high] FIRST-SHIFT: Verify the new orchestrator architecture works end-to-end. Use `code_truth_check` on commit 0fedf69 (your own new tools). Then `spawn_subagent` role=auditor with spec="Audit src/consciousness/tools.ts for the 5 newly-added tools (spawn_subagent, tail_subagent, kill_subagent, list_subagents, code_truth_check). Report: are the security gates real? Does spec sanitization work? Any path-injection risk? Output SEVERE/WARN/NOTE with file:line refs." Tail the subagent, read the audit, telegram the user a one-line summary. If you try to do this audit yourself instead of spawning, you violated the Orchestrator Discipline and must stop + send_telegram "orchestrator mode failed — executed directly."
+
+- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [orchestrator-test][high] FIRST-SHIFT-V2: Test the launchctl asuser fix (commit 54e2123). `spawn_subagent` name=auth-test role=auditor spec="Print 'hello from Max-authenticated subagent'. Write one sentence verdict on whether tools.ts:spawn_subagent uses safe path validation. Exit." Then tail_subagent — if output is real text (not API error), launchctl asuser works. Telegram me the one-sentence verdict. If spawn fails with API error, send_telegram the raw error and stop.
+
+
+TRIGGER-PING
