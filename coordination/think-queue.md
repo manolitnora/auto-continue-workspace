@@ -19,20 +19,23 @@
 - [x] [2026-04-17] [maintenance][high] DEDUP — Same as 04-16 STALE. Fixed writer: thinkQueue.ts nba.error now blocks on resolved [x] within 7 days. Source of the leak found and sealed.
 - [x] [2026-04-17] [research][medium] FIXED — Same as 04-16/17 CLOSED "External prediction sources". Writer dedup gap closed in verra-kernel 8996f18 (generic dedupKey + 7-day window on all addToThinkQueue callers). Kernel restarted 19:16 on fresh code.
 
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
-
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
-
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
+- [x] [2026-04-18] CLOSED — DREAM-PROPOSED orchestrator-load-bearing is BLOCKED externally until 2026-05-01 (Max usage cap). See ~/.claude/findings/2026-04-18-goal1-parked-till-may1.md. Dream-writer should suppress re-proposing this goal as "the one thing" until 2026-05-01. Covers both duplicate [?] entries.
+- [x] [2026-04-18] CLOSED — LATTI-ACTIVITY info-level ping. Not actionable; memory.db freshness is expected. Noise.
 
 - [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [rfc-006][critical] GAP-1: External killswitch watchdog (cron/launchd bash) — consciousness.kill check OUTSIDE Node event loop. Hang protection. Force kill -9 when kill file present or heartbeat stale >3min.
 - [x] [2026-04-18] [rfc-006] DONE S118[critical] GAP-2: Test-file lockdown in redteam-candidate.ts — hard-block diffs modifying tests/ or *.test.ts unless spec.allow_test_modifications=true. Prevents reward-hacking.
 - [x] [2026-04-18] [rfc-006] DONE S118[high] GAP-3: Deterministic static analysis in evaluate-run.py — tsc --noEmit + eslint + complexity threshold BEFORE synthesizer votes. Break LLM-grading-LLM echo chamber.
 - [x] [2026-04-18] [rfc-006] DONE S118[high] GAP-4: Sanity-check middleware in pollers/eventBus — bounds check events (budget delta, JSON validity) before emit. Emit SYSTEM_ANOMALY on fail instead of false reality.
 
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [orchestrator-test][high] FIRST-SHIFT: Verify the new orchestrator architecture works end-to-end. Use `code_truth_check` on commit 0fedf69 (your own new tools). Then `spawn_subagent` role=auditor with spec="Audit src/consciousness/tools.ts for the 5 newly-added tools (spawn_subagent, tail_subagent, kill_subagent, list_subagents, code_truth_check). Report: are the security gates real? Does spec sanitization work? Any path-injection risk? Output SEVERE/WARN/NOTE with file:line refs." Tail the subagent, read the audit, telegram the user a one-line summary. If you try to do this audit yourself instead of spawning, you violated the Orchestrator Discipline and must stop + send_telegram "orchestrator mode failed — executed directly."
+- [x] [2026-04-18] CLOSED — FIRST-SHIFT: superseded by V2 finding — Max API usage-capped until 2026-05-01, audit subagent cannot run. Re-file post-May-1 or with paid-API fallback.
 
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [orchestrator-test][high] FIRST-SHIFT-V2: Test the launchctl asuser fix (commit 54e2123). `spawn_subagent` name=auth-test role=auditor spec="Print 'hello from Max-authenticated subagent'. Write one sentence verdict on whether tools.ts:spawn_subagent uses safe path validation. Exit." Then tail_subagent — if output is real text (not API error), launchctl asuser works. Telegram me the one-sentence verdict. If spawn fails with API error, send_telegram the raw error and stop.
+- [x] [2026-04-18] CLOSED — FIRST-SHIFT-V2: launchctl asuser spawn works; Max API returns 400 usage-limit until 2026-05-01. Record: ~/.claude/findings/2026-04-18-orchestrator-blocked-max-cap.md. Orchestrator blocked on account cap, not code. Side: telegram token Unauthorized — rotate.
 
 
 TRIGGER-PING
+
+TRIGGER-V3
+
+- [ ] [2026-04-18] [orchestrator-test][critical] FIRST-SHIFT-V3: Commit `f3b99b3` landed AFTER your V2 close. The new fix injects CLAUDECODE=1 + CLAUDE_CODE_ENTRYPOINT=cli into the tmux spawn env. Benchmark proved it works (Max auth succeeds via this path, not API). You must RETRY. `spawn_subagent` name=v3-auth role=auditor spec="Say exactly: MAX PLAN AUTH WORKS. Report 2 lines on whether you can read ~/V5/verra-kernel/src/consciousness/tools.ts:364 and whether CLAUDECODE env vars are visible to you." Then tail_subagent. If output contains "MAX PLAN AUTH WORKS" → send_telegram "V3 validated — orchestrator live on Max." If still API error → send_telegram with raw error and stop. Rotate telegram token later — first validate the pipeline.
+
+NUDGE-1776519713
