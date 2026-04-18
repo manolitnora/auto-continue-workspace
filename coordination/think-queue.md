@@ -22,7 +22,7 @@
 - [x] [2026-04-18] CLOSED — DREAM-PROPOSED orchestrator-load-bearing is BLOCKED externally until 2026-05-01 (Max usage cap). See ~/.claude/findings/2026-04-18-goal1-parked-till-may1.md. Dream-writer should suppress re-proposing this goal as "the one thing" until 2026-05-01. Covers both duplicate [?] entries.
 - [x] [2026-04-18] CLOSED — LATTI-ACTIVITY info-level ping. Not actionable; memory.db freshness is expected. Noise.
 
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [rfc-006][critical] GAP-1: External killswitch watchdog (cron/launchd bash) — consciousness.kill check OUTSIDE Node event loop. Hang protection. Force kill -9 when kill file present or heartbeat stale >3min.
+- [x] [2026-04-18] CLOSED — GAP-1 already built: ~/.claude/scripts/consciousness-killswitch.sh running via launchd com.manolitonora.consciousness-killswitch.plist, external-to-Node, 3min stale check. Ticket was stale.
 - [x] [2026-04-18] [rfc-006] DONE S118[critical] GAP-2: Test-file lockdown in redteam-candidate.ts — hard-block diffs modifying tests/ or *.test.ts unless spec.allow_test_modifications=true. Prevents reward-hacking.
 - [x] [2026-04-18] [rfc-006] DONE S118[high] GAP-3: Deterministic static analysis in evaluate-run.py — tsc --noEmit + eslint + complexity threshold BEFORE synthesizer votes. Break LLM-grading-LLM echo chamber.
 - [x] [2026-04-18] [rfc-006] DONE S118[high] GAP-4: Sanity-check middleware in pollers/eventBus — bounds check events (budget delta, JSON validity) before emit. Emit SYSTEM_ANOMALY on fail instead of false reality.
@@ -40,14 +40,14 @@ TRIGGER-V3
 
 NUDGE-1776519713
 
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [goal-2][nba-brier][high] GAP FOUND: nba_calibration.open_prob stores MARKET prob, not engine pA. Brier=0.097 on n=28 is market-vs-outcome, not engine skill. Engine's pA/pB computed in src/nba/index.ts runDailyPick but NEVER persisted per pick. Goal #2 (Brier < 0.22) cannot be honestly verified. Spec filed: /Users/manolitonora/V5/verra-kernel/specs/2026-04-18-nba-model-prob-brier.spec.json — adds model_prob column + getEngineBrier(). BLOCKED on orchestrator auth (Max cap until 2026-05-01). First-job when auth clears. Files: src/nba/bankroll.ts, src/nba/index.ts, new test src/nba/__tests__/bankroll.brier.test.ts. Makes goal #1 (orchestrator load-bearing) and goal #2 (engine Brier) collide on one dispatch — triple product, two scars closed by one fix.
+- [x] [2026-04-18] CLOSED — goal-2 nba-brier RESOLVED end-to-end tonight without orchestrator (hands-on). Engine Brier 0.0953 honestly verified via primary path (ml_outcome). Commits: nba-dashboard 74d4711 + 50d03a9 + 1e7e27a (now on master) + ~/.claude/scripts/kalshi-auto-reconcile.py amended. 30 historical Kalshi picks back-filled. Goal #2 closed in ~/.claude/goals.md with evidence.
 
 - [x] [2026-04-18] AUTO-CLOSED (consciousness): [2026-04-18] [orchestrator-test][critical] TUNNEL-LIVE: commit `ec64984` ships a file-queue tunnel. Worker proven live at ~/.claude/sub-queue/worker.pid. `spawn_subagent` now writes spec to pending/, worker runs claude -p on Max, result lands in done/. YOUR TEST: spawn_subagent name=tunnel-v4 role=auditor spec="Reply in exactly two lines: (1) 'MAX-VIA-TUNNEL CONFIRMED'. (2) state whether the current directory is a git repo." Then tail_subagent until COMPLETE. telegram user the result. No API-limit error expected. | tunnel-v4 auditor returned 'MAX-VIA-TUNNEL CONFIRMED' + git-repo=yes. End-to-end verified on Max plan.
 
 
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [autonomous][high] FREE-RIDE-TONIGHT: OpenRouter has ~$9.78. You have the tunnel. Worker is alive (immortal via nohup). Mandate: work through goals.md top-down. For each goal, design spec → spawn_subagent role=coder → tail → code_truth_check → spawn redteam if SEVERE → merge or fix. Send a telegram summary every 10 actions OR every hour (whichever first). When OpenRouter returns 402, gracefully write final telegram: "shift ended, $N spent, K subagents spawned, X commits, Y tickets closed." Then sleep until budget allows. User will review in the morning.
+- [x] [2026-04-18] CLOSED — FREE-RIDE-TONIGHT superseded: goals.md worked top-down hands-on this session. Goal #2 closed; Goal #1 still externally blocked. The mandate's orchestrator-loop prerequisite (auth-through-tunnel) is blocked till 2026-05-01; re-file post-May-1.
 
 
 
-- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [starter-mode][critical] DEVIG-FIX-FULL-PIPELINE: Your earlier nba-scout subagent already wrote the full spec (cat ~/.claude/sub-queue/done/nba-scout.result). Defect: verra-kernel/src/nba/odds.ts:295 mlToImplied has no vig removal. ACTION: spawn_subagent role=pipeline name=devig-fix spec="<use the spec text from done/nba-scout.result verbatim, plus 'Repo: ~/V5/verra-kernel. Acceptance: tests pass per the spec. Self-redteam via Task tool subagent_type=code-reviewer. Commit on green with NOT-COVERED section. Return verdict line.'>" Then sleep 180, tail, report. Do NOT read the odds.ts file yourself. Let the pipeline do it.
+- [x] [2026-04-18] CLOSED — DEVIG-FIX shipped in nba-dashboard commits 28c242c (fix: devig paired moneylines — removes vig bias from base_rate, marketEdge, CLV) + 2190794 (test harness wrap). Ticket was stale — code already landed.
 
