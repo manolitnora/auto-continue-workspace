@@ -24,3 +24,8 @@
 - [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
 - [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
+
+- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [rfc-006][critical] GAP-1: External killswitch watchdog (cron/launchd bash) — consciousness.kill check OUTSIDE Node event loop. Hang protection. Force kill -9 when kill file present or heartbeat stale >3min.
+- [x] [2026-04-18] [rfc-006] DONE S118[critical] GAP-2: Test-file lockdown in redteam-candidate.ts — hard-block diffs modifying tests/ or *.test.ts unless spec.allow_test_modifications=true. Prevents reward-hacking.
+- [x] [2026-04-18] [rfc-006] DONE S118[high] GAP-3: Deterministic static analysis in evaluate-run.py — tsc --noEmit + eslint + complexity threshold BEFORE synthesizer votes. Break LLM-grading-LLM echo chamber.
+- [x] [2026-04-18] [rfc-006] DONE S118[high] GAP-4: Sanity-check middleware in pollers/eventBus — bounds check events (budget delta, JSON validity) before emit. Emit SYSTEM_ANOMALY on fail instead of false reality.
