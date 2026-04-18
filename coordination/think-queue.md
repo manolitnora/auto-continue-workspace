@@ -49,5 +49,5 @@ NUDGE-1776519713
 
 
 
-- [ ] [2026-04-18] [starter-mode][critical] DEVIG-FIX-FULL-PIPELINE: Your earlier nba-scout subagent already wrote the full spec (cat ~/.claude/sub-queue/done/nba-scout.result). Defect: verra-kernel/src/nba/odds.ts:295 mlToImplied has no vig removal. ACTION: spawn_subagent role=pipeline name=devig-fix spec="<use the spec text from done/nba-scout.result verbatim, plus 'Repo: ~/V5/verra-kernel. Acceptance: tests pass per the spec. Self-redteam via Task tool subagent_type=code-reviewer. Commit on green with NOT-COVERED section. Return verdict line.'>" Then sleep 180, tail, report. Do NOT read the odds.ts file yourself. Let the pipeline do it.
+- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [starter-mode][critical] DEVIG-FIX-FULL-PIPELINE: Your earlier nba-scout subagent already wrote the full spec (cat ~/.claude/sub-queue/done/nba-scout.result). Defect: verra-kernel/src/nba/odds.ts:295 mlToImplied has no vig removal. ACTION: spawn_subagent role=pipeline name=devig-fix spec="<use the spec text from done/nba-scout.result verbatim, plus 'Repo: ~/V5/verra-kernel. Acceptance: tests pass per the spec. Self-redteam via Task tool subagent_type=code-reviewer. Commit on green with NOT-COVERED section. Return verdict line.'>" Then sleep 180, tail, report. Do NOT read the odds.ts file yourself. Let the pipeline do it.
 
