@@ -20,3 +20,7 @@
 - [x] [2026-04-17] [research][medium] FIXED — Same as 04-16/17 CLOSED "External prediction sources". Writer dedup gap closed in verra-kernel 8996f18 (generic dedupKey + 7-day window on all addToThinkQueue callers). Kernel restarted 19:16 on fresh code.
 
 - [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
+
+- [?] [2026-04-18] REACTOR-PARKED: [2026-04-18] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+
+- [ ] [2026-04-18] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
