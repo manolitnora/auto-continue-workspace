@@ -6,6 +6,9 @@
 
 - [x] [2026-04-16] [external][physics][critical] DUPLICATE — Singh 1911.02955v3 already reviewed (see project_singh_dark_energy_review.md). Fixed arxiv state last_seen 1909→1911 to stop re-triggering.
 
+
+- [ ] [external][physics][critical] NEW ARXIV [T.P. Singh papers]: Dark energy as a large scale quantum gravitational phenomenon (Tejinder P. Singh) arXiv:1911.02955v3 (2020-05-10). Review for relevance to current research.
+
 ## WANT GENERATOR — Curiosity-driven questions
 
 - [x] [self][want][high] WANT-GEN: correction/identity tension — deprioritized, not actionable this session
