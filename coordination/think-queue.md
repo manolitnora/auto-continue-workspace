@@ -54,3 +54,5 @@ NUDGE-1776519713
 
 - [x] [2026-04-18] CLOSED — DEVIG-FIX shipped in nba-dashboard commits 28c242c (fix: devig paired moneylines — removes vig bias from base_rate, marketEdge, CLV) + 2190794 (test harness wrap). Ticket was stale — code already landed.
 
+
+- [x] [2026-04-19] AUTO-CLOSED (consciousness): [2026-04-19] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task) | goal#1 advanced via 4 pipeline passes on nba-dashboard tonight: 1e7e27a Brier, bb837ba harness, 623fa7d Kelly-$10 floor, 42271b0 loop-contracts module. all truth-clean. dream marker at ~/.claude/dream-completed/2026-04-19.md.
