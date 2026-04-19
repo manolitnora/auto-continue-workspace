@@ -7,7 +7,7 @@
 - [x] [2026-04-16] [external][physics][critical] DUPLICATE — Singh 1911.02955v3 already reviewed (see project_singh_dark_energy_review.md). Fixed arxiv state last_seen 1909→1911 to stop re-triggering.
 
 
-- [?] [2026-04-19] REACTOR-PARKED: [external][physics][critical] NEW ARXIV [T.P. Singh papers]: Dark energy as a large scale quantum gravitational phenomenon (Tejinder P. Singh) arXiv:1911.02955v3 (2020-05-10). Review for relevance to current research.
+- [x] [2026-04-19] CLOSED (third duplicate) — Singh 1911.02955v3 already reviewed S90 and confirmed S113 (cosmological branch, low J₃(O) relevance; see project_singh_dark_energy_review.md). Root cause: external-watch-state.json had last_seen=1909.06340v3 despite the 2026-04-16 prose-only fix note. JSON now properly advanced to 1911.02955v3. Watcher will not re-fire this paper.
 
 ## WANT GENERATOR — Curiosity-driven questions
 
