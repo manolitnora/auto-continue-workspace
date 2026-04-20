@@ -60,4 +60,4 @@ NUDGE-1776519713
 - [?] [2026-04-20] REACTOR-PARKED: [2026-04-20] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
 - [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
 - [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
-- [ ] [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
+- [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
