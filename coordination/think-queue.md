@@ -61,4 +61,4 @@ NUDGE-1776519713
 - [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
 - [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
 - [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
-- [ ] [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
+- [x] [2026-04-20] STALE+DEDUP-LEAK — Engine healthy (35W-29L, $825, 0 pending). Score 04-11 resolved S115. Re-firing because writer dedup (8996f18) only matches [x], not [?] REACTOR-PARKED. 4 parked + 1 fresh today. Fix: extend dedup to count [?] as resolved. See project_queue_dedup_parked_gap.md.
