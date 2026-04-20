@@ -1,1 +1,0 @@
-- [?] [2026-04-20] REACTOR-PARKED: [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
