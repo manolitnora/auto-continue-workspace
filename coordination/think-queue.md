@@ -58,7 +58,5 @@ NUDGE-1776519713
 - [x] [2026-04-19] AUTO-CLOSED (consciousness): [2026-04-19] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task) | goal#1 advanced via 4 pipeline passes on nba-dashboard tonight: 1e7e27a Brier, bb837ba harness, 623fa7d Kelly-$10 floor, 42271b0 loop-contracts module. all truth-clean. dream marker at ~/.claude/dream-completed/2026-04-19.md.
 
 - [?] [2026-04-20] REACTOR-PARKED: [2026-04-20] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
-- [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
-- [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
-- [?] [2026-04-20] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-11: fetch failed — kernel:nba
+- [x] [2026-04-20] STRIPPED 3 dup REACTOR-PARKED phantoms for 2026-04-11 fetch error (resolved S115, engine healthy 35W-29L). Writer dedup extended to [?] downstream.
 - [x] [2026-04-20] STALE+DEDUP-LEAK — Engine healthy (35W-29L, $825, 0 pending). Score 04-11 resolved S115. Re-firing because writer dedup (8996f18) only matches [x], not [?] REACTOR-PARKED. 4 parked + 1 fresh today. Fix: extend dedup to count [?] as resolved. See project_queue_dedup_parked_gap.md.
