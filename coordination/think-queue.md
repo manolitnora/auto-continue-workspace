@@ -7,3 +7,4 @@
 - [?] [2026-04-20] REACTOR-PARKED: [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
 
 - [?] [2026-04-21] REACTOR-PARKED: [2026-04-21] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
+- [ ] [maintenance][high] NBA engine error: Score fetch 2026-04-14: fetch failed — kernel:nba
