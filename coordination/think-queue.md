@@ -8,3 +8,7 @@
 
 - [?] [2026-04-21] REACTOR-PARKED: [2026-04-21] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
 - [?] [2026-04-21] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-14: fetch failed — kernel:nba
+
+- [ ] [CRITICAL][kernel-wake][predator] Queue has 4 parked items including dream:orchestrator-nba high priority. Please process. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: Queue has 4 parked items inc

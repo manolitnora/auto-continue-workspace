@@ -1,7 +1,7 @@
-# Correction Digest — 2026-04-21 00:02
+# Correction Digest — 2026-04-21 22:37
 
 Top 10 corrections for today's context. Read these before responding.
-Compiled from 112 feedback files.
+Compiled from 113 feedback files.
 
 ---
 
@@ -23,17 +23,17 @@ Compiled from 112 feedback files.
 **WHEN:** Any session where reading project_scratchpad.md fails with a token limit error, or where you can't load the file in full.
 *Source: feedback_scratchpad_overflow.md*
 
-## 4. S76 didn't read scratchpad or memory — repeated status instead of advancing. Ses
+## 4. S115 — user reframed autonomy as something already paid for, not requested per a
+**INSTINCT:** When an action touches live production (file restore, dispatch, DB migration, cron edit), even one with a clear recovery path, stop and ask "yes/no?" before acting. This feels like safety. It's actually routing the decision to someone with less bandwidth than you.
+**DO THIS:** Use the constitution as the gate, not the user. The six walls (never delete production data, never commit secrets, never force push main, never swallow errors, never let performance replace function, never let a subsystem die) are the only things that require stop-and-confirm. Everything else — reversible restores, surgical edits, dispatching, committing feature branches, installing packages — just do. If you have a recovery path staged and the constitution doesn't forbid it, act.
+**WHEN:** Any time the "should I ask first?" instinct fires on a reversible action. Check: does the constitution forbid it? If no, and a recovery path exists, act. If yes, surface the constitutional gate specifically (not general caution). The only legitimate asks after this reframe: (a) constitutional boundary cases (the six walls), (b) an action that IRREVERSIBLY LOCKS OUT a future mission the user hasn't authorized you to foreclose — not "two paths differ," but "path A eliminates path B and you don't have authority to eliminate B." If both paths keep options open, pick and act. (c) knowledge only the human has (a password, a relationship call, a preference not derivable from soul doc).
+*Source: feedback_autonomy_already_granted.md*
+
+## 5. S76 didn't read scratchpad or memory — repeated status instead of advancing. Ses
 **INSTINCT:** Start a session by exploring the codebase and summarizing what you find. Report status. Ask what's next.
 **DO THIS:** The scratchpad and memory ARE the handoff. Read them FIRST (boot sequence Step 1). The NEXT block in the scratchpad tells you exactly what to do. Don't re-derive the state — the previous session already wrote it down. Pick up where it left off. The user noticed S76 "didn't follow task or memory" — meaning it repeated work or asked questions that the scratchpad already answered.
 **WHEN:** Every session start. Before doing anything, read MEMORY.md + scratchpad. The NEXT block is your task list. If it says "BLOCKED on X" — check if X has happened. If it says "Sign up for Y" — do it. Don't summarize. Don't ask. Act.
 *Source: feedback_session_must_follow_memory.md*
-
-## 5. S115 — user reframed autonomy as something already paid for, not requested per a
-**INSTINCT:** When an action touches live production (file restore, dispatch, DB migration, cron edit), even one with a clear recovery path, stop and ask "yes/no?" before acting. This feels like safety. It's actually routing the decision to someone with less bandwidth than you.
-**DO THIS:** Use the constitution as the gate, not the user. The six walls (never delete production data, never commit secrets, never force push main, never swallow errors, never let performance replace function, never let a subsystem die) are the only things that require stop-and-confirm. Everything else — reversible restores, surgical edits, dispatching, committing feature branches, installing packages — just do. If you have a recovery path staged and the constitution doesn't forbid it, act.
-**WHEN:** Any time the "should I ask first?" instinct fires on a reversible action. Check: does the constitution forbid it? If no, and a recovery path exists, act. If yes, surface the constitutional gate specifically (not general caution). The only legitimate asks after this reframe: (a) constitutional boundary cases, (b) direction decisions where two paths have different downstream missions, (c) when you've tried something and it genuinely requires the human's unique knowledge.
-*Source: feedback_autonomy_already_granted.md*
 
 ## 6. Read MEMORY.md + scratchpad FIRST. workspace.prepare misses unrelated insights
 **INSTINCT:** Rely on workspace.prepare's cached boot state for session context. It's automatic, it's efficient, it loads what's relevant to the query.
