@@ -126,3 +126,7 @@ I detected this: External world-state change: S131 full audit complete: fa
 
 - [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Goal 'mass-gap' is blocked by: 'dim(4·ω₄) verification pending'. The vector store has 537 indexed docs that nobody queries proactively. Does any indexed doc address this blocker? Semantic query: 'dim(
 
+
+- [ ] [CRITICAL][kernel-wake][predator] OPUS S131 END | ADDED: live-boot-query (boot=live not file), queue-snapshot delta, diverse dispatch verified (Claude+OpenAI identical logic), convergence.py fix (structural_collapse→converged), coder-openai.sh live, cross-model capture, verra-backup cron, system-health, synthesis dedup v2, factors fix, 5 wiki pages | NOTE: session answered how different since session-scribe — boot is live query, 7 self-improvements identified, 1 built | NEXT: theta degradation, coverage heatmap, predAcc root cause, diverse dispatch as default — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: OPUS S131 END | ADDED: live-
