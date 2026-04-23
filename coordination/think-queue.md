@@ -61,7 +61,6 @@ Urgency: 80
 
 <!-- synthesis-engine 2026-04-23 -->
 
-- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `.get()` in the `verra-kernel` graph has 60 edges (file: `/Users/manolitonora/V5/verra-kernel/src/memory/episodes.ts`). It is the most-connected node in its graph but has no wiki page. `graph
 
 - [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `LearningStore` in the `verra-kernel` graph has 45 edges (file: `/Users/manolitonora/V5/verra-kernel/src/learning/store.ts`). It is the most-connected node in its graph but has no wiki page. 
 
@@ -69,16 +68,38 @@ Urgency: 80
 
 <!-- synthesis-engine 2026-04-23 -->
 
-- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `LearningStore` in the `verra-kernel` graph has 45 edges (file: `~/V5/verra-kernel/src/learning/store.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'L
 
 - [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 37 edges (file: `~/V5/verra-kernel/src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAu
 
-- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][graphify] score=0.96 — God node `Octonion` in the `research` graph has 153 edges (file: `~/V5/research/alpha-137/code/octonion.py`). It is the most-connected node in its graph but has no wiki page. `graphify query 'Octonion
 
 <!-- synthesis-engine 2026-04-23 -->
 
-- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `LearningStore` in the `verra-kernel` graph has 45 edges (file: `~/V5/verra-kernel/src/learning/store.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'L
 
-- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 37 edges (file: `~/V5/verra-kernel/src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAu
 
-- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][graphify] score=0.96 — God node `Octonion` in the `research` graph has 153 edges (file: `~/V5/research/alpha-137/code/octonion.py`). It is the most-connected node in its graph but has no wiki page. `graphify query 'Octonion
+
+
+<!-- synthesis-engine 2026-04-23 -->
+
+
+
+
+<!-- synthesis-engine 2026-04-23 -->
+
+
+
+
+
+<!-- synthesis-engine 2026-04-23 -->
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][graphify] score=0.96 — God node `J3O` in the `research` graph has 115 edges (file: `~/V5/research/alpha-137/code/jordan_algebra.py`). It is the most-connected node in its graph but has no wiki page. `graphify query 'J3O'` g
+
+
+
+
+<!-- synthesis-engine 2026-04-23 -->
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'Kernel /wake is the real-time signal channel' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the proc
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'CLV as the scorekeeper' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern appl
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][pi_extensions][synthesis] score=0.72 — Milkyway knows 'Pi extension hook points' from domain `pi_extensions`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural patter
