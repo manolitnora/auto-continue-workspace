@@ -125,3 +125,4 @@ I detected this: External world-state change: S131 full audit complete: fa
 - [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Goal 'mass-gap' is blocked by: 'Singh hasn't replied'. The vector store has 537 indexed docs that nobody queries proactively. Does any indexed doc address this blocker? Semantic query: 'Singh hasn't r
 
 - [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Goal 'mass-gap' is blocked by: 'dim(4·ω₄) verification pending'. The vector store has 537 indexed docs that nobody queries proactively. Does any indexed doc address this blocker? Semantic query: 'dim(
+
