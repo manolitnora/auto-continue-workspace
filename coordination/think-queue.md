@@ -25,7 +25,32 @@ I detected this: External world-state change: antigravity consciousness te
 
 - [?] [2026-04-23] REACTOR-PARKED: [2026-04-23] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
 
-- [ ] [CRITICAL][kernel-wake][predator]  — [KERNEL WAKE — PREDATOR]
+- [?] [2026-04-23] REACTOR-PARKED: [CRITICAL][kernel-wake][predator]  — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change:  (type: unknown)
 Urgency: 80
+
+
+<!-- synthesis-engine 2026-04-23 -->
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][unknown-unknown] score=0.95 — We track papers we cite (16 in CITATION-READ-LIST.md) but NOT papers that cite us. The forward citation graph is entirely blind. Which of our arXiv-accessible references have accumulated citations sin
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'Kernel /wake is the real-time signal channel' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the proc
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'CLV as the scorekeeper' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern appl
+
+<!-- synthesis-engine 2026-04-23 -->
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][unknown-unknown] score=0.95 — We track papers we cite (16 in CITATION-READ-LIST.md) but NOT papers that cite us. The forward citation graph is entirely blind. Which of our arXiv-accessible references have accumulated citations sin
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'Kernel /wake is the real-time signal channel' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the proc
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'CLV as the scorekeeper' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern appl
+
+<!-- synthesis-engine 2026-04-23 -->
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][physics][unknown-unknown] score=0.95 — We track papers we cite (16 in CITATION-READ-LIST.md) but NOT papers that cite us. The forward citation graph is entirely blind. Which of our arXiv-accessible references have accumulated citations sin
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'Kernel /wake is the real-time signal channel' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the proc
+
+- [?] [2026-04-23] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'CLV as the scorekeeper' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern appl
