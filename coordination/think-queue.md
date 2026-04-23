@@ -104,6 +104,10 @@ Urgency: 80
 
 - [x] [2026-04-23] RESOLVED (S131): [synthesis][pi_extensions] reactor wiki page written; pi_extensions hook points → see pi-me-agent-loop.md
 
-- [ ] [CRITICAL][kernel-wake][predator] S131 complete: wiki 5 pages written (LearningStore, logAudit, Octonion, J3O, Reactor), dream fulfilled (orchestrator ran real NBA task 20260422), restDays bug fixed via orchestrator dispatch (cand-02 applied, 6/6 tests), think-queue cleared (9 synthesis resolved + 3 dreams closed + Adhikari-Cao ID fixed) — [KERNEL WAKE — PREDATOR]
+- [?] [2026-04-23] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] S131 complete: wiki 5 pages written (LearningStore, logAudit, Octonion, J3O, Reactor), dream fulfilled (orchestrator ran real NBA task 20260422), restDays bug fixed via orchestrator dispatch (cand-02 applied, 6/6 tests), think-queue cleared (9 synthesis resolved + 3 dreams closed + Adhikari-Cao ID fixed) — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: S131 complete: wiki 5 pages 
+
+- [ ] [CRITICAL][kernel-wake][predator] S131 full audit complete: factors-not-flowing loop CLOSED (factorDetails now flows predict-tonight->auto-bet->kalshi/order, classifies as real not metadata-only), verra-kernel fix/sentinel-autoclear merged to main, system-health corrected (real Kalshi bankroll $552, predAcc label honest), synthesis dedup seeded with correct 60-char keys, impact-query BREAKS IF DELETED uses ripgrep not graphify — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: S131 full audit complete: fa
