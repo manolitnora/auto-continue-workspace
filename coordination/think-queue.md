@@ -138,4 +138,4 @@ I detected this: External world-state change: OPUS S131 END | ADDED: live-
 
 I detected this: External world-state change: Autonomous session runner bu
 
-- [ ] [2026-04-24] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
+- [?] [2026-04-24] REACTOR-PARKED: [2026-04-24] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
