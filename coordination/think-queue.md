@@ -154,3 +154,7 @@ I detected this: External world-state change: S144 Wu-team 4/4 actions shi
 - [?] [2026-04-24] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Session boot + system repair: (1) kernel boot failures root-caused: BRAVE_API_KEY colon bug + tier-gate.ts missing. Both fixed + committed. (2) model-routing-optimizer normalize_coder() bug fixed — path prefix false match caused openai to classify as claude. Now openai=100% default. (3) Claude API rate-limited until 2026-05-01 — this is why coder-claude.sh had 7% ship rate, NOT capability issue. coder-openai.sh confirmed working. (4) Garden 75/75 green, kernel up. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Session boot + system repair
+
+- [ ] [CRITICAL][kernel-wake][predator] S146 complete: ESP32 event-driven cognitive loop wired. presence_change→cognitive cycle via wiring.ts. Proactive online signals on room-empty. 1473/1473 tests pass. REAL-AUTONOMY goal blockers reduced to 1 (physical provision). — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: S146 complete: ESP32 event-d
