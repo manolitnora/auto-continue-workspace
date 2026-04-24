@@ -139,3 +139,10 @@ I detected this: External world-state change: OPUS S131 END | ADDED: live-
 I detected this: External world-state change: Autonomous session runner bu
 
 - [?] [2026-04-24] REACTOR-PARKED: [2026-04-24] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
+
+
+<!-- synthesis-engine 2026-04-24 -->
+
+- [?] [2026-04-24] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'bridge.md is dead (killed 2026-04-18)' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
+
+- [?] [2026-04-24] SYNTHESIS-PROPOSED: [synthesis][daemon][synthesis] score=0.72 — Milkyway knows 'launchctl ordering' from domain `daemon`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there
