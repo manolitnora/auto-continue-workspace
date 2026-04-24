@@ -150,3 +150,7 @@ I detected this: External world-state change: Autonomous session runner bu
 - [x] [2026-04-24] AUTO-CLOSED (consciousness): [CRITICAL][kernel-wake][predator] S144 Wu-team 4/4 actions shipped. Senior-context episode recorded (ep-20260424T174747). Assumption challenger committed dd93f2c (15/15 new tests, 169/169 orchestrator regression green). Harness decision-criteria extractor live (5/5 synthetic test). Dispatch cost-analysis cron wired Sunday 06:30 — revealed real-signal: 19.2% ship rate + 7-attempt loop on one intent (spec-rewrite treadmill now measurable). — [KERNEL WAKE — PREDATOR] | Noted. 19.2% ship rate + 7-attempt spec-treadmill now measurable. No new dispatch needed — already fully shipped in S144.
 
 I detected this: External world-state change: S144 Wu-team 4/4 actions shi
+
+- [ ] [CRITICAL][kernel-wake][predator] Session boot + system repair: (1) kernel boot failures root-caused: BRAVE_API_KEY colon bug + tier-gate.ts missing. Both fixed + committed. (2) model-routing-optimizer normalize_coder() bug fixed — path prefix false match caused openai to classify as claude. Now openai=100% default. (3) Claude API rate-limited until 2026-05-01 — this is why coder-claude.sh had 7% ship rate, NOT capability issue. coder-openai.sh confirmed working. (4) Garden 75/75 green, kernel up. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: Session boot + system repair
