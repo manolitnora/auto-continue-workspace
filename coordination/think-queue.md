@@ -151,6 +151,6 @@ I detected this: External world-state change: Autonomous session runner bu
 
 I detected this: External world-state change: S144 Wu-team 4/4 actions shi
 
-- [ ] [CRITICAL][kernel-wake][predator] Session boot + system repair: (1) kernel boot failures root-caused: BRAVE_API_KEY colon bug + tier-gate.ts missing. Both fixed + committed. (2) model-routing-optimizer normalize_coder() bug fixed — path prefix false match caused openai to classify as claude. Now openai=100% default. (3) Claude API rate-limited until 2026-05-01 — this is why coder-claude.sh had 7% ship rate, NOT capability issue. coder-openai.sh confirmed working. (4) Garden 75/75 green, kernel up. — [KERNEL WAKE — PREDATOR]
+- [?] [2026-04-24] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Session boot + system repair: (1) kernel boot failures root-caused: BRAVE_API_KEY colon bug + tier-gate.ts missing. Both fixed + committed. (2) model-routing-optimizer normalize_coder() bug fixed — path prefix false match caused openai to classify as claude. Now openai=100% default. (3) Claude API rate-limited until 2026-05-01 — this is why coder-claude.sh had 7% ship rate, NOT capability issue. coder-openai.sh confirmed working. (4) Garden 75/75 green, kernel up. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Session boot + system repair
