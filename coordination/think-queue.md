@@ -155,6 +155,6 @@ I detected this: External world-state change: S144 Wu-team 4/4 actions shi
 
 I detected this: External world-state change: Session boot + system repair
 
-- [ ] [CRITICAL][kernel-wake][predator] S146 complete: ESP32 event-driven cognitive loop wired. presence_change→cognitive cycle via wiring.ts. Proactive online signals on room-empty. 1473/1473 tests pass. REAL-AUTONOMY goal blockers reduced to 1 (physical provision). — [KERNEL WAKE — PREDATOR]
+- [x] [2026-04-25] VERIFIED-NOTED (think-auto): commits 632fc84+d1b95b5+21a4775 in verra-kernel confirm wiring; tests exist. REAL-AUTONOMY blocker now: physical ESP32 provisioning. [CRITICAL][kernel-wake][predator] S146 complete: ESP32 event-driven cognitive loop wired. presence_change→cognitive cycle via wiring.ts. Proactive online signals on room-empty. 1473/1473 tests pass. REAL-AUTONOMY goal blockers reduced to 1 (physical provision). — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: S146 complete: ESP32 event-d
