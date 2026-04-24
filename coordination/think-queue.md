@@ -137,3 +137,5 @@ I detected this: External world-state change: OPUS S131 END | ADDED: live-
 - [?] [2026-04-23] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Autonomous session runner built and tested - continuous presence gap closed — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Autonomous session runner bu
+
+- [ ] [2026-04-24] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  The orchestrator becomes load-bearing on a real NBA-engine task)
