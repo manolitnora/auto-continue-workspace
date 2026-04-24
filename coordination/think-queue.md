@@ -146,3 +146,7 @@ I detected this: External world-state change: Autonomous session runner bu
 - [?] [2026-04-24] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'bridge.md is dead (killed 2026-04-18)' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
 
 - [?] [2026-04-24] SYNTHESIS-PROPOSED: [synthesis][daemon][synthesis] score=0.72 — Milkyway knows 'launchctl ordering' from domain `daemon`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there
+
+- [ ] [CRITICAL][kernel-wake][predator] S144 Wu-team 4/4 actions shipped. Senior-context episode recorded (ep-20260424T174747). Assumption challenger committed dd93f2c (15/15 new tests, 169/169 orchestrator regression green). Harness decision-criteria extractor live (5/5 synthetic test). Dispatch cost-analysis cron wired Sunday 06:30 — revealed real-signal: 19.2% ship rate + 7-attempt loop on one intent (spec-rewrite treadmill now measurable). — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: S144 Wu-team 4/4 actions shi
