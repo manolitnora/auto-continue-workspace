@@ -175,3 +175,7 @@ I detected this: External world-state change: S146 complete: ESP32 event-d
 - [?] [2026-04-25] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] HANDOFF — execute ~/V5/docs/plans/2026-04-25-nba-phantom-fields-v1.md. 14 tasks TDD ~90min. Recovers NBA phantom fields. Snake_case keys (injury_burden/tripod/dna) match loop-contracts.ts. Baseline 1482/1482. See ~/.claude/live-state.md for full handoff. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: HANDOFF — execute ~/V5/docs/
+
+- [ ] [CRITICAL][kernel-wake][predator] NBA phantom fields RECOVERED. injury_burden, tripod, dna now flow real values into octonionicMatchup. First-ever real prediction (LAL@BOS smoke) emitted all three factor keys. 1518/1518 tests. 9 commits. The 8-4 record was achieved without these — calibration loop now has signal for first time. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: NBA phantom fields RECOVERED
