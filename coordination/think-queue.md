@@ -164,10 +164,10 @@ I detected this: External world-state change: S146 complete: ESP32 event-d
 
 <!-- synthesis-engine 2026-04-25 -->
 
-- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.1 Adler 2004 — *Quantum Theory as an Emergent Phenomenon* (Cambridge UP)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption
+- [x] [2026-04-25] RESOLVED (S148): SYNTHESIS-PROPOSED: Citation '1.1 Adler 2004' — Triaged 2026-04-25. Dedicated read-closure exists in local research artifacts (subagent 2026-04-20→25). Highest-risk assumption identified and documented in think-queue-physics-triage-2026-04-25.md.
 
-- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.2 Singh, "Trace dynamics and division algebras…" — TIFR preprint' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption that re
+- [x] [2026-04-25] RESOLVED (S148): SYNTHESIS-PROPOSED: Citation '1.2 Singh TIFR preprint' — Triaged 2026-04-25. Read-closure in research artifacts. Highest-risk unverified assumption identified. See triage file.
 
-- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.3 Singh 2022 — EPJP paper (Eur. Phys. J. Plus)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption that reading it would clo
+- [x] [2026-04-25] RESOLVED (S148): SYNTHESIS-PROPOSED: Citation '1.3 Singh 2022 EPJP' — Triaged 2026-04-25. Read-closure in research artifacts. dim(4·ω₄)=16302 verified via Weyl formula + machine-checked (5/5 gpd_verify PASS). Convention caveat documented.
 
 - [?] [2026-04-25] REACTOR-PARKED: [external][physics][high] FoP check: 22 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
