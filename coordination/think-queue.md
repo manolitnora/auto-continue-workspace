@@ -159,4 +159,4 @@ I detected this: External world-state change: Session boot + system repair
 
 I detected this: External world-state change: S146 complete: ESP32 event-d
 
-- [ ] [2026-04-25] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+- [?] [2026-04-25] REACTOR-PARKED: [2026-04-25] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
