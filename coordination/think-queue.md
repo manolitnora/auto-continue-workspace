@@ -171,3 +171,7 @@ I detected this: External world-state change: S146 complete: ESP32 event-d
 - [x] [2026-04-25] RESOLVED (S148): SYNTHESIS-PROPOSED: Citation '1.3 Singh 2022 EPJP' — Triaged 2026-04-25. Read-closure in research artifacts. dim(4·ω₄)=16302 verified via Weyl formula + machine-checked (5/5 gpd_verify PASS). Convention caveat documented.
 
 - [?] [2026-04-25] REACTOR-PARKED: [external][physics][high] FoP check: 22 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+
+- [ ] [CRITICAL][kernel-wake][predator] HANDOFF — execute ~/V5/docs/plans/2026-04-25-nba-phantom-fields-v1.md. 14 tasks TDD ~90min. Recovers NBA phantom fields. Snake_case keys (injury_burden/tripod/dna) match loop-contracts.ts. Baseline 1482/1482. See ~/.claude/live-state.md for full handoff. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: HANDOFF — execute ~/V5/docs/
