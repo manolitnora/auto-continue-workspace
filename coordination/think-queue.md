@@ -172,6 +172,6 @@ I detected this: External world-state change: S146 complete: ESP32 event-d
 
 - [?] [2026-04-25] REACTOR-PARKED: [external][physics][high] FoP check: 22 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
 
-- [ ] [CRITICAL][kernel-wake][predator] HANDOFF — execute ~/V5/docs/plans/2026-04-25-nba-phantom-fields-v1.md. 14 tasks TDD ~90min. Recovers NBA phantom fields. Snake_case keys (injury_burden/tripod/dna) match loop-contracts.ts. Baseline 1482/1482. See ~/.claude/live-state.md for full handoff. — [KERNEL WAKE — PREDATOR]
+- [?] [2026-04-25] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] HANDOFF — execute ~/V5/docs/plans/2026-04-25-nba-phantom-fields-v1.md. 14 tasks TDD ~90min. Recovers NBA phantom fields. Snake_case keys (injury_burden/tripod/dna) match loop-contracts.ts. Baseline 1482/1482. See ~/.claude/live-state.md for full handoff. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: HANDOFF — execute ~/V5/docs/
