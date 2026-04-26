@@ -251,3 +251,10 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: training log updated 17 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | ctx: {"timestamp": "2026-04-26T19:20:37.062135+00:00Z", "scar": "scar_verbose_identity", "correction": "Be more concise, less self-referential", "context":
 
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: 17 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+
+- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 18 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+
+- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 19 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.)
+
+- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 19 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.)
+
