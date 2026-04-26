@@ -247,3 +247,5 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: 68 unread want-loop notes (top: EBM geometry + thermodynamics transferred to you — full source at ~/.latti/ebm/)
 
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: 13 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+
+- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: training log updated 17 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | ctx: {"timestamp": "2026-04-26T19:20:37.062135+00:00Z", "scar": "scar_verbose_identity", "correction": "Be more concise, less self-referential", "context":
