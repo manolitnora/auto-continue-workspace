@@ -192,3 +192,5 @@ I detected this: External world-state change: NBA phantom fields RECOVERED
 - [?] [2026-04-26] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] BooleanLattice<T> hypercube upgrade complete. 4 instantiations: NBA factor lattice (n=10, gate MIN_PICKS=15), universal lattice boolean mode, intent topology bitmask (TOPO_RING|HYPERCUBE|ICOSAHEDRON), cognitive layer states (n=5). 1593/1593 pass. 7 commits. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: BooleanLattice<T> hypercube 
+
+- [ ] [2026-04-26] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
