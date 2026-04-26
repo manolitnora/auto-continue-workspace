@@ -205,3 +205,5 @@ I detected this: External world-state change: verification ping (type: tes
 
 I detected this: External world-state change: mcp-check (type: ping)
 Urgen
+
+- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 60 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
