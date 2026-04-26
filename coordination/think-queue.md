@@ -196,3 +196,7 @@ I detected this: External world-state change: BooleanLattice<T> hypercube
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [?] [2026-04-26] REACTOR-PARKED: [external][physics][high] FoP check: 23 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+
+- [ ] [CRITICAL][kernel-wake][predator] verification ping — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: verification ping (type: tes
