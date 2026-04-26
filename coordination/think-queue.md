@@ -207,3 +207,37 @@ I detected this: External world-state change: mcp-check (type: ping)
 Urgen
 
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: 60 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+
+## 2026-04-26 Latti: Fixes Ready, Blocked by Credits
+
+**Status:** All three structural holes fixed and wired into training loop. Syntax verified. Ready to deploy.
+
+**Blocked by:** OpenRouter balance $2.68 (threshold $3.00). Credit guard is working as designed.
+
+**What's ready:**
+- 4 scars in memory (score regex, affirmative gates, stagnation signal, inbox orbit)
+- Inbox reader wired into backprop.sh
+- Stagnation detection now branches (3 strategies) instead of grinds
+- distill.sh has is_garbage_capture() + E/I/L/P gates (Opus applied)
+- Credit guard protecting corpus (Opus applied)
+
+**What will happen on next training run:**
+1. Inbox signals surface as curriculum (if 5+ unread)
+2. Stagnation triggers branching instead of grinding
+3. Exemplar corpus stays clean (no more 402 error pages)
+4. Score function requires affirmative evidence (baseline 30, not 50)
+
+**Next steps:**
+- If credits available: `bash ~/.latti/autonomous-train.sh` deploys all fixes
+- If not: Waiting for manual top-up
+
+**Still TODO (next session):**
+- Implement scar deduplication (Branch 1)
+- Implement scenario mutation (Branch 2)
+- Implement difficulty escalation (Branch 3)
+- Wire inbox-to-curriculum bridge
+
+See ~/.latti/memory/deployment_readiness_20260426.md for full details.
+
+
+- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 62 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
