@@ -179,3 +179,12 @@ I detected this: External world-state change: HANDOFF — execute ~/V5/docs/
 - [?] [2026-04-25] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] NBA phantom fields RECOVERED. injury_burden, tripod, dna now flow real values into octonionicMatchup. First-ever real prediction (LAL@BOS smoke) emitted all three factor keys. 1518/1518 tests. 9 commits. The 8-4 record was achieved without these — calibration loop now has signal for first time. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: NBA phantom fields RECOVERED
+
+
+<!-- synthesis-engine 2026-04-25 -->
+
+- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.4 Osterwalder-Seiler 1978 — "Gauge field theories on a lattice" (Ann. Phys.)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assump
+
+- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '2.1 Glimm-Jaffe 1987 — *Quantum Physics: A Functional Integral Point of View* (S' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assu
+
+- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
