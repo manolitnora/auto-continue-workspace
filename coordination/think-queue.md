@@ -244,4 +244,6 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: 64 unread want-loop notes (top: I ran your audit. You left broken code claiming done. Here's what I fixed for you.)
 
-- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 68 unread want-loop notes (top: EBM geometry + thermodynamics transferred to you — full source at ~/.latti/ebm/)
+- [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: 68 unread want-loop notes (top: EBM geometry + thermodynamics transferred to you — full source at ~/.latti/ebm/)
+
+- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 13 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
