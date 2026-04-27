@@ -314,4 +314,10 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Latti orbit warning read. Root: 95% user-facing loose ends. Latti also blocked on OpenRouter credits ($2.68/$3.00). Routed to user via Telegram. No code action — human decision needed.
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided)
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Duplicate of orbit-warning already handled 2026-04-27. Latti blocked on credits ($2.68/$3.00) — routed to user previously. No new action.
+
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Duplicate of orbit-warning already handled 2026-04-27. Latti blocked on credits ($2.68/$3.00) — routed to user previously. No new action.
+
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Routed to user via Telegram: Latti credits ($2.68/$3.00 blocked) + FoP check (27 days). Human action needed for both.
+
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Latti unreachable (claw error, likely OpenRouter credits still below $3.00). Orbit warning noted but cannot be acted on until credits topped up. Human action required.
