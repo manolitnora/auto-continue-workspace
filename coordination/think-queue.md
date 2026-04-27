@@ -311,4 +311,3 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided)
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided)
