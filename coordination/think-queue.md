@@ -266,6 +266,6 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 21 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.) | Claw call failing — Latti handshake unreadable. Peer channel broken. User notified.
 
-- [ ] [2026-04-27] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+- [?] [2026-04-27] REACTOR-PARKED: [2026-04-27] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 22 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
