@@ -260,4 +260,4 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [x] [2026-04-27] RESOLVED: 4th LATTI-ACTIVITY duplicate (collapsed with the three above).
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 20 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.)
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 20 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.) | Claw call failed — couldn't retrieve content. Handshake noted but unread. Telegram sent to user.
