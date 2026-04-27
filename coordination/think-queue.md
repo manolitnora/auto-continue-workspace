@@ -298,9 +298,11 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 33 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | Attempted latti_ask — claw call failed. Latti unreachable. Notes not surfaced this cycle.
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 34 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 34 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | Informational. Latti unreachable via claw. No code dispatch warranted — want-loop backlog is Latti internal state.
 
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 9 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 9 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | Informational duplicate. Latti unreachable. No action.
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Health audit DEGRADED — one or more audits failed)
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Health audit DEGRADED — one or more audits failed) | Health audit DEGRADED signal. Latti unreachable via claw — cannot confirm which audit failed. Logged for next live session.
+
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 10 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Latti orbit warning: 21/22 loose ends user-facing. Claw unreachable — cannot query detail. Flagged to user via Telegram.
