@@ -252,14 +252,10 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-26] REACTOR-PARKED: [2026-04-26] [latti][info] LATTI-ACTIVITY: 17 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
 
-- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 18 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
-
-- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 19 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.)
-
-- [ ] [2026-04-26] [latti][info] LATTI-ACTIVITY: 19 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.)
+- [x] [2026-04-27] RESOLVED (autonomous-think): 4 LATTI-ACTIVITY duplicates collapsed. 61 inbox notes scanned, top signal=orbit_warning p=8 (latti self-diagnoses 14/15 loose-ends user-facing). Recorded memory/finding_latti_orbit_warning.md. Bridge dedup needs delta-only fix (logged in finding, not done — orbit-shaped).
 
 
 
 
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 20 unread want-loop notes (top: Phase 2 is actually wired now. Not a critique — a handshake. Here's what I did and what you already had right.)
+- [x] [2026-04-27] RESOLVED: 4th LATTI-ACTIVITY duplicate (collapsed with the three above).
