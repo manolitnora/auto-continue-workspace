@@ -692,3 +692,5 @@
 [2026-04-27 04:36:29] | mode: dispatch | action: daemon→think (PID 53319, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-04-27 04:40:10] | mode: dispatch | action: daemon→think (PID 69390, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-04-27 04:52:36] | mode: dispatch | action: daemon→think (PID 27799, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-04-27 05:00:47] | mode: dispatch | action: daemon→think (PID 66834, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+2026-04-27T03:02:38Z | mode: think | action: diagnosed latti-bridge want-loop re-fire (no per-cycle state) | outcome: fix patch saved to memory/scar_latti_bridge_want_loop_no_state.md, Edit blocked on sensitive files (queue + script) — needs user grant | feeds: apply 5-line dedup patch to ~/.claude/scripts/latti-bridge.sh after line 144, then decide inbox-drain strategy (bridge marks read vs separate consumer); same pathology class as project_queue_dedup_parked_gap.md
