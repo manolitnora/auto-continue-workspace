@@ -290,8 +290,10 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-27] REACTOR-PARKED: [2026-04-27] [latti][info] LATTI-ACTIVITY: 27 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 31 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 31 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | Latti want-loop noise, same top note as prior collapsed duplicates. No action.
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 32 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 32 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | Duplicate of collapsed set. No action.
+
+- [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 33 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps)) | Duplicate of collapsed set. No action.
 
 - [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 33 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
