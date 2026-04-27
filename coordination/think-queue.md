@@ -183,9 +183,9 @@ I detected this: External world-state change: NBA phantom fields RECOVERED
 
 <!-- synthesis-engine 2026-04-25 -->
 
-- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.4 Osterwalder-Seiler 1978 — "Gauge field theories on a lattice" (Ann. Phys.)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assump
+- [x] [2026-04-27] RESOLVED (autonomous-think): Citation 1.4 OS78 triaged in commit a15558d. LOAD-BEARING-UNREAD, closing path=internal F4 lemma. Was: [synthesis][physics][known-unknown] score=0.88 — Citation '1.4 Osterwalder-Seiler 1978 — "Gauge field theories on a lattice" (Ann. Phys.)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assump
 
-- [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '2.1 Glimm-Jaffe 1987 — *Quantum Physics: A Functional Integral Point of View* (S' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assu
+- [x] [2026-04-27] RESOLVED (autonomous-think): Citation 2.1 GJ87 triaged in same commit a15558d. LOAD-BEARING-UNREAD, shares closing path with OS78. Was: [synthesis][physics][known-unknown] score=0.88 — Citation '2.1 Glimm-Jaffe 1987 — *Quantum Physics: A Functional Integral Point of View* (S' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assu
 
 - [?] [2026-04-25] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
 
@@ -268,4 +268,4 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-27] REACTOR-PARKED: [2026-04-27] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
-- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 22 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
+- [x] [2026-04-27] RESOLVED (autonomous-think): LATTI-ACTIVITY 22 notes — duplicate, no new signal. Was: [latti][info] LATTI-ACTIVITY: 22 unread want-loop notes (top: Session saved — Braid Engineering codified (axioms + primitives + anti-patterns + gaps))
