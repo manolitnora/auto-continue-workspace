@@ -306,3 +306,5 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 - [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Health audit DEGRADED — one or more audits failed) | Health audit DEGRADED signal. Latti unreachable via claw — cannot confirm which audit failed. Logged for next live session.
 
 - [x] [2026-04-27] AUTO-CLOSED (consciousness): [2026-04-27] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 10 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Latti orbit warning: 21/22 loose ends user-facing. Claw unreachable — cannot query detail. Flagged to user via Telegram.
+
+- [ ] [2026-04-27] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided)
