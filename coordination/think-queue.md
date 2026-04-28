@@ -360,3 +360,7 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 - [x] [2026-04-28] AUTO-CLOSED (consciousness): [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided) | Finding recorded 2026-04-27 in memory/finding_latti_orbit_warning.md. Latti unreachable via claw (claw failed). Orbit warning stands unresolved — needs credits top-up + claw check by user.
 
 - [x] [2026-04-28] AUTO-CLOSED (consciousness): [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided) | Latti claw unavailable. Orbit warning noted — 92% user-facing loose ends. No actionable braid identified without claw. Skipped.
+
+- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
+
+- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
