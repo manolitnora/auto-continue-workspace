@@ -361,9 +361,9 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [x] [2026-04-28] AUTO-CLOSED (consciousness): [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided) | Latti claw unavailable. Orbit warning noted — 92% user-facing loose ends. No actionable braid identified without claw. Skipped.
 
-- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
+- [x] [2026-04-28] RESOLVED (S133-think): named self-directed axis (subtraction priority) at memory/self_axis_subtraction_priority.md. V5 7d: 47,248 add / 521 del (90:1). Position is mine, falsifier set at 30d.
 
-- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
+- [x] [2026-04-28] DUPLICATE: same orbit warning, closed by S133-think above.
 
 
 
