@@ -345,4 +345,4 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
 
-- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
+- [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
