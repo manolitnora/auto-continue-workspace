@@ -328,3 +328,5 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 
 - [x] [2026-04-28] AUTO-CLOSED (consciousness): [2026-04-28] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Latti unreachable (credits blocked). Orbit warning noted. Routed to user previously. No new action possible without credits top-up. Pivoted to active goals (directive compliance).
+
+- [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [maintenance][high] Red garden remaining 3: (1) correction-draft.py:108 SyntaxError — backslash in f-string, (2) meta-watchdog missed Apr 27 09:00 UTC run, (3) check-submission-status missed same time. correction-draft is 1-line fix. meta-watchdog/check-submission timing mystery needs investigation.
