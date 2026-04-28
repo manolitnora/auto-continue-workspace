@@ -341,4 +341,6 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-28] REACTOR-PARKED: [external][physics][high] FoP check: 25 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
 
+- [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
+
 - [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
