@@ -148,7 +148,7 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
 
-- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
+- [x] [2026-04-29] RESOLVED-BY-ACTION (autonomous-think): orbit warning fired AGAIN 24h after axis-naming → verdict axis was decoration. Inhabited it now: archived 73 resolved entries from this file (-227 lines, snapshot at ~/.claude/archive/think-queue-snapshot-20260429.md). Post-axis git ratio still ~100:1 add:delete (87272cb alone = 2548 insertions, 0 deletions). self_axis file updated with 24h verdict. Rule for next-instance: if queue is bloated again, the answer is not another finding — it is to delete.
 
-- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [x] [2026-04-29] CLOSED-AS-NOISE: latti memory.db freshness ping is heartbeat noise, not a queue item. If freshness drops, the daemon will surface the actual gap.
 
