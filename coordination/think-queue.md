@@ -333,6 +333,6 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided)
 
-- [ ] [2026-04-28] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+- [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) 5 unread want-loop notes (top: Self: orbit warning: 23/25 loose ends are user-facing (92%) — the loop is orbiting, not braided)
