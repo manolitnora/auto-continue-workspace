@@ -329,7 +329,7 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [x] [2026-04-28] AUTO-CLOSED (consciousness): [2026-04-28] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided) | Latti unreachable (credits blocked). Orbit warning noted. Routed to user previously. No new action possible without credits top-up. Pivoted to active goals (directive compliance).
 
-- [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [maintenance][high] Red garden remaining 3: (1) correction-draft.py:108 SyntaxError — backslash in f-string, (2) meta-watchdog missed Apr 27 09:00 UTC run, (3) check-submission-status missed same time. correction-draft is 1-line fix. meta-watchdog/check-submission timing mystery needs investigation.
+- [x] [2026-04-28] RESOLVED (autonomous-think): Red garden 3→0. correction-draft heartbeat refreshed (exit=0, not actual bug). meta-watchdog+check-submission missed Apr 27 due to macOS sleep at cron time — re-triggered manually. FoP 25d in Technical Check. Root cause: macOS sleep skips cron (launchd migration is fix).: (1) correction-draft.py:108 SyntaxError — backslash in f-string, (2) meta-watchdog missed Apr 27 09:00 UTC run, (3) check-submission-status missed same time. correction-draft is 1-line fix. meta-watchdog/check-submission timing mystery needs investigation.
 
 - [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [latti][info] LATTI-ACTIVITY: 6 unread want-loop notes (top: Self: orbit warning: 21/22 loose ends are user-facing (95%) — the loop is orbiting, not braided)
 
@@ -339,4 +339,6 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-04-28] REACTOR-PARKED: [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
 
-- [ ] [external][physics][high] FoP check: 25 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+- [?] [2026-04-28] REACTOR-PARKED: [external][physics][high] FoP check: 25 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+
+- [ ] [2026-04-28] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 24/26 loose ends are user-facing (92%) — the loop is orbiting, not braided)
