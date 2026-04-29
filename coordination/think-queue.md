@@ -159,3 +159,5 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
   <!-- bridge: sim=0.3352, shared=['already', 'appended', 'auto'], domains=('kernel', 'physics') -->
 
 - [?] [2026-04-29] REACTOR-PARKED: [2026-04-29] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+
+- [ ] [2026-04-29] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
