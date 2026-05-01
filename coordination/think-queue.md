@@ -196,3 +196,7 @@ I detected this: External world-state change: Latti TUI supervisor now rec
 I detected this: External world-state change: Latti TUI supervisor now rec
 
 I detected this: External world-state change: Latti TUI supervisor now rec
+
+- [ ] [CRITICAL][kernel-wake][predator] Latti TUI now visibly renders worker state-machine decisions and typed-state checkpoints while preserving the existing ANSI style. Full claw-code-agent suite passed 1236 tests; live low-memory worker smoke showed state-machine and checkpoint lines and exited cleanly through guard 75. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: Latti TUI now visibly render
