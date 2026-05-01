@@ -187,3 +187,9 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 - [x] [2026-05-01] AUTO-RECONCILE (nba.schedule_loaded): [2026-05-01] REACTOR-PARKED: [maintenance][high] NBA engine error: Score fetch 2026-04-30: ESPN schedule fetch failed: fetch failed (attempts=3) — kernel:nba
 
 - [?] [2026-05-01] REACTOR-PARKED: [2026-05-01] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+
+- [ ] [CRITICAL][kernel-wake][predator] Latti TUI supervisor now receives state-machine decision and session checkpoint telemetry from worker event JSONL; full claw-code-agent suite passed 1235 tests and live worker smoke confirmed events crossed process boundary. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: Latti TUI supervisor now rec
+
+I detected this: External world-state change: Latti TUI supervisor now rec
