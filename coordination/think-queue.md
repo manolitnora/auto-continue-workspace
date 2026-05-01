@@ -173,3 +173,14 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 - [?] [2026-05-01] REACTOR-PARKED: [2026-05-01] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [?] [2026-05-01] REACTOR-PARKED: [external][physics][high] FoP check: 28 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+
+- [ ] [2026-05-01] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Session 2026-04-19T13:17Z saved — architecture + values + claims registry)
+
+
+<!-- synthesis-engine 2026-05-01 -->
+
+- [?] [2026-05-01] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `index.ts` in the `verra-kernel` graph has 162 edges (file: `src/index.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'index.ts'` gives its structural 
+
+- [?] [2026-05-01] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 138 edges (file: `src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAudit()'` gives its
+
+- [?] [2026-05-01] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.94 — Forward citation watch is live: 2 active source(s): Singh 2020 — Trace dynamics + division algebras (f (arXiv:2009.05574) — active, citations found; Adhikari-Cao mass gap foundational paper (arXiv:220
