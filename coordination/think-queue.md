@@ -172,4 +172,4 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-05-01] REACTOR-PARKED: [2026-05-01] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
-- [ ] [external][physics][high] FoP check: 28 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+- [?] [2026-05-01] REACTOR-PARKED: [external][physics][high] FoP check: 28 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
