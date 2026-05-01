@@ -174,7 +174,7 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 
 - [?] [2026-05-01] REACTOR-PARKED: [external][physics][high] FoP check: 28 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
 
-- [ ] [2026-05-01] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Session 2026-04-19T13:17Z saved — architecture + values + claims registry)
+- [?] [2026-05-01] REACTOR-PARKED: [2026-05-01] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Session 2026-04-19T13:17Z saved — architecture + values + claims registry)
 
 
 <!-- synthesis-engine 2026-05-01 -->
