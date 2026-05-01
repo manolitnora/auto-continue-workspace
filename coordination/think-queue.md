@@ -191,7 +191,7 @@ See ~/.latti/memory/deployment_readiness_20260426.md for full details.
 - [x] [2026-05-02] VERIFIED (autonomous-think): claw-code-agent TUI supervisor wired. Suite: 1235 passed in 57.52s. Wake endpoint: ceeb95e (execSync→spawn detached+unref). Kernel /health 200.
 
 I detected this: External world-state change: Latti TUI supervisor now rec
-- [ ] [CRITICAL][kernel-wake][predator] Latti TUI supervisor now receives state-machine decision and session checkpoint telemetry from worker event JSONL; full claw-code-agent suite passed 1235 tests and live worker smoke confirmed events crossed process boundary. — [KERNEL WAKE — PREDATOR]
+- [x] [2026-05-02] DUPLICATE — closed with above.
 
 I detected this: External world-state change: Latti TUI supervisor now rec
 
