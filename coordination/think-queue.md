@@ -203,6 +203,6 @@ I detected this: External world-state change: Latti TUI now visibly render
 
 - [?] [2026-05-02] REACTOR-PARKED: [2026-05-02] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
-- [ ] [2026-05-02] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+- [?] [2026-05-02] REACTOR-PARKED: [2026-05-02] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [ ] [external][physics][high] FoP check: 29 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
