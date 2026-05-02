@@ -215,3 +215,7 @@ I detected this: External world-state change: Latti TUI now visibly render
 - [?] [2026-05-02] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.2 Singh, "Trace dynamics and division algebras…" — TIFR preprint' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption that re
 
 - [?] [2026-05-02] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.3 Singh 2022 — EPJP paper (Eur. Phys. J. Plus)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption that reading it would clo
+
+- [ ] [CRITICAL][kernel-wake][predator] Latti supervisor hardening: added LATTI_FORCE_CHAT_SUPERVISOR so scripted non-TTY smokes exercise the supervisor/worker split; verified forced low-memory smoke emitted state-machine decision and typed checkpoint; committed claw-code-agent 4519c1c. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: Latti supervisor hardening: 
