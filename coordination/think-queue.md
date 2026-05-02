@@ -206,3 +206,12 @@ I detected this: External world-state change: Latti TUI now visibly render
 - [?] [2026-05-02] REACTOR-PARKED: [2026-05-02] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [x] [2026-05-02] VERIFIED (autonomous-think): FoP still in Technical Check (29 days). No new Springer emails since Apr 3. Singh no reply (33 days). Manual portal check warranted at 29d. Cron dedup bug noted: daily duplicate injection.
+
+
+<!-- synthesis-engine 2026-05-02 -->
+
+- [?] [2026-05-02] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.1 Adler 2004 — *Quantum Theory as an Emergent Phenomenon* (Cambridge UP)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption
+
+- [?] [2026-05-02] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.2 Singh, "Trace dynamics and division algebras…" — TIFR preprint' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption that re
+
+- [?] [2026-05-02] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.88 — Citation '1.3 Singh 2022 — EPJP paper (Eur. Phys. J. Plus)' is marked load-bearing and UNREAD. Until it is read: verify claims. What is the highest-risk unverified assumption that reading it would clo
