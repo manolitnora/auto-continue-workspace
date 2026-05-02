@@ -205,4 +205,4 @@ I detected this: External world-state change: Latti TUI now visibly render
 
 - [?] [2026-05-02] REACTOR-PARKED: [2026-05-02] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
-- [ ] [external][physics][high] FoP check: 29 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+- [x] [2026-05-02] VERIFIED (autonomous-think): FoP still in Technical Check (29 days). No new Springer emails since Apr 3. Singh no reply (33 days). Manual portal check warranted at 29d. Cron dedup bug noted: daily duplicate injection.
