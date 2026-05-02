@@ -201,4 +201,4 @@ I detected this: External world-state change: Latti TUI supervisor now rec
 
 I detected this: External world-state change: Latti TUI now visibly render
 
-- [ ] [2026-05-02] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [?] [2026-05-02] REACTOR-PARKED: [2026-05-02] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
