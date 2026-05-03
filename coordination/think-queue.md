@@ -240,6 +240,6 @@ I detected this: External world-state change: Latti supervisor hardening:
 
 - [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
-- [ ] [CRITICAL][kernel-wake][predator] Latti supervisor real wrapper smoke harness added and verified: forced low-memory PTY TUI, forced worker failure, saved session and wrapper resume path proven. Full claw-code-agent pytest passed 1264/1264. — [KERNEL WAKE — PREDATOR]
+- [?] [2026-05-03] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Latti supervisor real wrapper smoke harness added and verified: forced low-memory PTY TUI, forced worker failure, saved session and wrapper resume path proven. Full claw-code-agent pytest passed 1264/1264. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Latti supervisor real wrappe
