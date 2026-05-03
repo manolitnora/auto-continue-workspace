@@ -222,3 +222,12 @@ I detected this: External world-state change: Latti TUI now visibly render
 I detected this: External world-state change: Latti supervisor hardening: 
 
 - [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+
+
+<!-- synthesis-engine 2026-05-03 -->
+
+- [?] [2026-05-03] SYNTHESIS-PROPOSED: [synthesis][pi_extensions][synthesis] score=0.72 — Milkyway knows 'Decision criterion (instead-of)' from domain `pi_extensions`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural
+
+- [?] [2026-05-03] SYNTHESIS-PROPOSED: [synthesis][model_audit][synthesis] score=0.72 — Milkyway knows 'Auth state' from domain `model_audit`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there? S
+
+- [?] [2026-05-03] SYNTHESIS-PROPOSED: [synthesis][git_workflow][synthesis] score=0.72 — Milkyway knows 'Decision criterion (check-before)' from domain `git_workflow`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedura
