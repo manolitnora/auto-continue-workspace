@@ -231,3 +231,5 @@ I detected this: External world-state change: Latti supervisor hardening:
 - [?] [2026-05-03] SYNTHESIS-PROPOSED: [synthesis][model_audit][synthesis] score=0.72 — Milkyway knows 'Auth state' from domain `model_audit`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there? S
 
 - [?] [2026-05-03] SYNTHESIS-PROPOSED: [synthesis][git_workflow][synthesis] score=0.72 — Milkyway knows 'Decision criterion (check-before)' from domain `git_workflow`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedura
+
+- [ ] [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
