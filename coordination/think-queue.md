@@ -233,3 +233,5 @@ I detected this: External world-state change: Latti supervisor hardening:
 - [?] [2026-05-03] SYNTHESIS-PROPOSED: [synthesis][git_workflow][synthesis] score=0.72 — Milkyway knows 'Decision criterion (check-before)' from domain `git_workflow`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedura
 
 - [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+
+- [ ] [external][physics][high] FoP check: 30 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
