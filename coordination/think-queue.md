@@ -243,3 +243,5 @@ I detected this: External world-state change: Latti supervisor hardening:
 - [?] [2026-05-03] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Latti supervisor real wrapper smoke harness added and verified: forced low-memory PTY TUI, forced worker failure, saved session and wrapper resume path proven. Full claw-code-agent pytest passed 1264/1264. — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Latti supervisor real wrappe
+
+- [x] [2026-05-03] AUTO-CLOSED (consciousness): [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | Checked. latti_ask returned 403 Forbidden — claw access denied. memory.db active but latti not queryable this session.
