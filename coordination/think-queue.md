@@ -246,4 +246,4 @@ I detected this: External world-state change: Latti supervisor real wrappe
 
 - [x] [2026-05-03] AUTO-CLOSED (consciousness): [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | Checked. latti_ask returned 403 Forbidden — claw access denied. memory.db active but latti not queryable this session.
 
-- [ ] [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
