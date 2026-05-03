@@ -220,3 +220,5 @@ I detected this: External world-state change: Latti TUI now visibly render
 
 
 I detected this: External world-state change: Latti supervisor hardening: 
+
+- [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
