@@ -238,4 +238,4 @@ I detected this: External world-state change: Latti supervisor hardening:
 
 - [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
-- [ ] [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
