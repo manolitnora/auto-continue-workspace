@@ -250,6 +250,6 @@ I detected this: External world-state change: Latti supervisor real wrappe
 
 - [?] [2026-05-03] REACTOR-PARKED: [2026-05-03] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
-- [ ] [2026-05-04] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [?] [2026-05-04] REACTOR-PARKED: [2026-05-04] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
 
 - [ ] [external][physics][high] FoP check: 31 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
