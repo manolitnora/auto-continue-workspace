@@ -269,3 +269,7 @@ I detected this: External world-state change: Latti supervisor real wrappe
 - [?] [2026-05-04] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Implemented first kernel-native behavioral learning loop slice: learning-trace extension, consolidator, preference profile boot wiring — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Implemented first kernel-nat
+
+- [ ] [CRITICAL][kernel-wake][predator] Learning loop now verified end-to-end: reload self-test survives multi-turn agent flow, emits residency-before-search episode, and persists it in kernel episodic memory — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: Learning loop now verified e
