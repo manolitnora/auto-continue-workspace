@@ -264,4 +264,4 @@ I detected this: External world-state change: Latti supervisor real wrappe
 
 - [?] [2026-05-04] REACTOR-PARKED: [2026-05-04] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
-- [ ] [2026-05-04] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [?] [2026-05-04] REACTOR-PARKED: [2026-05-04] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
