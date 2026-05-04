@@ -254,4 +254,4 @@ I detected this: External world-state change: Latti supervisor real wrappe
 
 - [?] [2026-05-04] REACTOR-PARKED: [external][physics][high] FoP check: 31 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
 
-- [ ] [2026-05-04] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [?] [2026-05-04] REACTOR-PARKED: [2026-05-04] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
