@@ -1039,3 +1039,4 @@
 2026-05-04 | mode: think | action: investigated LATTI-ACTIVITY ticket; latti-bridge correct; found 2nd memory.db at ~/.latti/memory.db with frozen main (Apr 14) but fresh shm (today 21:34); renamed/reverted | outcome: ticket valid but adjacent dual-db puzzle named | feeds: NEXT THINK — run 'lsof ~/.latti/memory.db' and grep for consumers using non-/memory/ path. Don't rename; identify writer first. WAL/SHM siblings beat main-file mtime as liveness signal.
 [2026-05-04 21:39:51] | mode: dispatch | action: daemon→think (PID 28557, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-04 22:08:10] | mode: dispatch | action: daemon→think (PID 16672, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-05-04 22:57:36] | mode: dispatch | action: daemon→think (PID 85318, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
