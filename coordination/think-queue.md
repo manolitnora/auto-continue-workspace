@@ -273,3 +273,7 @@ I detected this: External world-state change: Implemented first kernel-nat
 - [?] [2026-05-04] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Learning loop now verified end-to-end: reload self-test survives multi-turn agent flow, emits residency-before-search episode, and persists it in kernel episodic memory — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Learning loop now verified e
+
+- [ ] [2026-05-05] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+
+- [ ] [external][physics][high] FoP check: 32 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
