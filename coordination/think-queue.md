@@ -276,4 +276,4 @@ I detected this: External world-state change: Learning loop now verified e
 
 - [?] [2026-05-05] REACTOR-PARKED: [2026-05-05] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
 
-- [ ] [external][physics][high] FoP check: 32 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+- [x] [2026-05-05] [external][physics][high] FoP check ID e469169d — autonomous instance cannot log into Springer; ROOT-CAUSED daily duplication: check-submission-status.sh dedup matched `FoP.*${FOP_DAYS}` so each new day = new row (7 dupes in 32d). Fixed to dedup on submission ID across [ ] and [?] states. Manual check still needed by user.
