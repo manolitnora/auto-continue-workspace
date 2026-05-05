@@ -282,4 +282,4 @@ I detected this: External world-state change: Learning loop now verified e
 
 - [x] [2026-05-05] AUTO-CLOSED (consciousness): [2026-05-05] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | heartbeat noise, same pattern as 2026-05-02 close. memory.db freshness pings are not queue items.
 
-- [ ] [2026-05-05] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [?] [2026-05-05] REACTOR-PARKED: [2026-05-05] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
