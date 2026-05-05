@@ -279,3 +279,5 @@ I detected this: External world-state change: Learning loop now verified e
 - [x] [2026-05-05] [external][physics][high] FoP check ID e469169d — autonomous instance cannot log into Springer; ROOT-CAUSED daily duplication: check-submission-status.sh dedup matched `FoP.*${FOP_DAYS}` so each new day = new row (7 dupes in 32d). Fixed to dedup on submission ID across [ ] and [?] states. Manual check still needed by user.
 
 - [x] [2026-05-05] AUTO-CLOSED (consciousness): [2026-05-05] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | heartbeat noise — same pattern closed 2026-04-29. No action needed.
+
+- [x] [2026-05-05] AUTO-CLOSED (consciousness): [2026-05-05] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | heartbeat noise, same pattern as 2026-05-02 close. memory.db freshness pings are not queue items.
