@@ -25,7 +25,7 @@
 ### System — Meta
 - [?] [2026-05-06] GAP-MINED: recurrence=1 cost=$0.0 coverage=33% — `RED subsystem: hook-commit_msg_laziness_hook_test_XXXXXX_lqA3zIUtdF Full entry: `
 
-- [?] [2026-05-05] NEW: Auto-continue-log: ~20 dispatches today, zero outcome lines. Handoff chain broken.
+- [x] [2026-05-05] Auto-continue-log: ~20 dispatches today, zero outcome lines. Handoff chain broken. RESOLVED 2026-05-06 by commits 8e8cbd5 + 255e766 (verra-kernel) — `scripts/subagent-handoff.sh` extracts verdict from done file, `~/.claude/scripts/subagent-worker.sh:76-83` invokes it on every `__SUBAGENT_DONE__`, falls back to MISSING-marker log on failure (non-fatal). 25/25 falsification tests pass. Live verification: from-her.md is now receiving outcome lines (07:52Z, 07:53Z, 08:05Z, plus earlier today). Ticket left `[?]` for ~2hr after fix caused 4 duplicate dispatches; closing now to halt orchestrator re-dispatch.
 - [x] [2026-05-06] Insight daemon noisy triggers FIXED: word-boundary regex + keyword cleanup + min_keyword_hits on 3 insights. See finding_insight_trigger_noise_fix.md.
 - [?] [2026-05-05] NEW: LLM spend 96% (haiku+opus). Daemon ~10-20 sessions/day. Sustainability?
 
