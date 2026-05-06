@@ -25,7 +25,7 @@
 ### System — Meta
 
 - [?] [2026-05-05] NEW: Auto-continue-log: ~20 dispatches today, zero outcome lines. Handoff chain broken.
-- [?] [2026-05-05] NEW: Insight daemon noisy: red_garden_unacted 2795 fires (garden healed). Tighten triggers.
+- [x] [2026-05-06] Insight daemon noisy triggers FIXED: word-boundary regex + keyword cleanup + min_keyword_hits on 3 insights. See finding_insight_trigger_noise_fix.md.
 - [?] [2026-05-05] NEW: LLM spend 96% (haiku+opus). Daemon ~10-20 sessions/day. Sustainability?
 
 ## Bulk-closed 2026-05-05 (68 items → archive/think-queue-snapshot-20260505.md)
