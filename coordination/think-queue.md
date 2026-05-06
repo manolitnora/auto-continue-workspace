@@ -63,3 +63,5 @@ Latti heartbeats (~25), latti activity dupes (~15), dream proposals (~10), synth
 
 - [?] [2026-05-06] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `physics`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pa
 - [x] [2026-05-06] AUTO-RECONCILE (nba.schedule_loaded): [maintenance][high] NBA engine error: ESPN schedule fetch failed: fetch failed (attempts=3) — kernel:nba
+
+- [ ] [2026-05-06] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 18/22 loose ends are user-facing (82%) — the loop is orbiting, not braided)
