@@ -45,4 +45,4 @@ Latti heartbeats (~25), latti activity dupes (~15), dream proposals (~10), synth
 
 - [?] [2026-05-06] REACTOR-PARKED: [2026-05-06] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
 
-- [ ] [external][physics][high] FoP check: 33 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+- [?] [2026-05-06] REACTOR-PARKED: [external][physics][high] FoP check: 33 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
