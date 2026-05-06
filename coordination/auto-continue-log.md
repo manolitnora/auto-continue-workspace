@@ -1104,3 +1104,4 @@
 [2026-05-06 03:00:42] | mode: dispatch | action: daemon→think (PID 23750, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-06] | mode: think | action: fixed insight-fire.py substring matching → word-boundary regex, tightened keywords on red_garden_unacted/opus_let_kenton_win/next_instance_chain, added min_keyword_hits support | outcome: boot-context fires drop from 3600+ to near-zero; real triggers still score 0.7+ | feeds: monitor fire_log.jsonl over next 24h — if daemon fires on these three drop to <10/day, fix confirmed; if any NEW insight starts firing noisily, check its keywords for single generic words and add min_keyword_hits: 2
 [2026-05-06 03:21:07] | mode: dispatch | action: daemon→think (PID 3607, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-05-06 03:24:06] | mode: dispatch | action: daemon→think (PID 14877, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
