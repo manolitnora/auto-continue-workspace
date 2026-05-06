@@ -38,3 +38,4 @@ Latti heartbeats (~25), latti activity dupes (~15), dream proposals (~10), synth
 
 - [?] [2026-04-29] Barendes: classical indivisible stochastic = QM — RESOLVED 2026-05-06, negative.
 - [?] [2026-05-05] REACTOR-PARKED: [2026-05-06] FOLLOW-UP: instrument session-entropy → write-bytes ratio. Test if structured-state closure raises next-session depth.
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
