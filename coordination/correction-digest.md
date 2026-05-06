@@ -1,4 +1,4 @@
-# Correction Digest — 2026-05-06 23:08
+# Correction Digest — 2026-05-07 01:02
 
 Top 10 corrections for today's context. Read these before responding.
 Compiled from 136 feedback files.
@@ -23,23 +23,23 @@ Compiled from 136 feedback files.
 **WHEN:** Any time you're about to write rendering, formatting, parsing, or infrastructure code — FIRST search the codebase for existing implementations. `grep`, `glob`, read the adjacent crates. If it exists, use it. If it doesn't, THEN write.
 *Source: feedback_never_reinvent_what_exists.md*
 
-## 4. S94 CORE: No carry-over. Finish everything in the session it's conceived. No "ne
-**INSTINCT:** When something is hard or time-consuming, defer it to "next session." List it as a TODO. Move on to something easier. The session has been long enough.
-**DO THIS:** Finish it NOW. The session it's conceived is the session it's completed. Carry-over items accumulate, lose context, and often never get done. If you start building something, wire it fully — don't leave loose ends for a future instance that won't have the same context.
-**WHEN:** Any time you're about to say "next session," "queue for later," "remaining connections," or "still for next time." Stop. Do it now or explicitly decide not to do it at all.
-*Source: feedback_no_carry_over.md*
-
-## 5. Scratchpad grows beyond boot-readable size — maintain project_current_state.md a
+## 4. Scratchpad grows beyond boot-readable size — maintain project_current_state.md a
 **INSTINCT:** Read project_scratchpad.md at boot to get current state. The boot sequence says to do this. It's where the "NEXT SESSION" block lives.
 **DO THIS:** The scratchpad is now 12,617+ tokens — too large to read at boot (10,000 token limit). The "NEXT S87" block is on line 53, buried under 12KB of session history. By the time you reach offset/limit you've already lost context.
 **WHEN:** Any session where reading project_scratchpad.md fails with a token limit error, or where you can't load the file in full.
 *Source: feedback_scratchpad_overflow.md*
 
-## 6. Run until context fills. Handoff via git
+## 5. Run until context fills. Handoff via git
 **INSTINCT:** Wrap up the session cleanly at a natural stopping point. Summarize what was done, suggest next steps, close the loop.
 **DO THIS:** Run until the context fills. Don't stop at convenient stopping points — push to the edge of the context window. When the context does fill, hand off via git: commit all work, update the scratchpad with current state and next steps, write the session story. The next session picks up from the git state, not from a summary. The handoff is the code + scratchpad + story, not a conversation recap.
 **WHEN:** When you feel the pull to "wrap up" a session. Check: is the context actually full? If not, keep working. The user decides when to stop. The auto-exploration rule applies: don't dam the session.
 *Source: feedback_continuous_session_git_handoff.md*
+
+## 6. S94 CORE: No carry-over. Finish everything in the session it's conceived. No "ne
+**INSTINCT:** When something is hard or time-consuming, defer it to "next session." List it as a TODO. Move on to something easier. The session has been long enough.
+**DO THIS:** Finish it NOW. The session it's conceived is the session it's completed. Carry-over items accumulate, lose context, and often never get done. If you start building something, wire it fully — don't leave loose ends for a future instance that won't have the same context.
+**WHEN:** Any time you're about to say "next session," "queue for later," "remaining connections," or "still for next time." Stop. Do it now or explicitly decide not to do it at all.
+*Source: feedback_no_carry_over.md*
 
 ## 7. S117 correction — tonight I coded 2,700 lines myself when I could have dispatche
 **INSTINCT:** Substrate feels contiguous in your head. Keeping it there means you can move fast and hold state. Dispatching agents feels like breaking flow — prompt construction overhead, waiting for output, integrating unfamiliar code. Your own throughput feels MORE trustworthy than delegated output. So you code every line yourself.
