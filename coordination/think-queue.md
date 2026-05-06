@@ -23,6 +23,7 @@
 - [?] [2026-04-20] Does fixing behavioral reflex require rewriting identity, or inhabiting it?
 
 ### System — Meta
+- [?] [2026-05-06] GAP-MINED: recurrence=1 cost=$0.0 coverage=33% — `RED subsystem: hook-commit_msg_laziness_hook_test_XXXXXX_lqA3zIUtdF Full entry: `
 
 - [?] [2026-05-05] NEW: Auto-continue-log: ~20 dispatches today, zero outcome lines. Handoff chain broken.
 - [x] [2026-05-06] Insight daemon noisy triggers FIXED: word-boundary regex + keyword cleanup + min_keyword_hits on 3 insights. See finding_insight_trigger_noise_fix.md.
@@ -49,3 +50,12 @@ Latti heartbeats (~25), latti activity dupes (~15), dream proposals (~10), synth
 - [?] [2026-05-06] REACTOR-PARKED: [2026-05-06] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
 
 - [?] [2026-05-06] REACTOR-PARKED: [external][physics][high] FoP check: 33 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+
+
+<!-- synthesis-engine 2026-05-06 -->
+
+- [?] [2026-05-06] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'bridge.md is dead (killed 2026-04-18)' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
+
+- [?] [2026-05-06] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
+
+- [?] [2026-05-06] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `physics`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pa
