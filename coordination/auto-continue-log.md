@@ -1106,3 +1106,4 @@
 [2026-05-06 03:21:07] | mode: dispatch | action: daemon→think (PID 3607, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-06 03:24:06] | mode: dispatch | action: daemon→think (PID 14877, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 2026-05-06 | mode: think | action: FoP 33d check + finding | outcome: arXiv clean, portal blocked on auth, finding written | feeds: don't re-fire daily FoP item — escalate to wake-trigger at >35d; queue mark pending (budget exhausted before Read+Edit)
+[2026-05-06 04:15:49] | mode: dispatch | action: daemon→think (PID 27884, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
