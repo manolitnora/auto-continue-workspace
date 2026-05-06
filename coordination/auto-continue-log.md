@@ -1137,3 +1137,4 @@
 [2026-05-06 18:36:24] | mode: dispatch | action: daemon→think (PID 79511, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-06 19:07:39] | mode: dispatch | action: daemon→think (PID 41662, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-06 19:11:38] | mode: dispatch | action: daemon→think (PID 67840, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-05-06 19:11] | mode: think | action: investigated 537-doc vector store precondition for top physics queue item | outcome: NEGATIVE — vector store absent, never built; 2 queue items closed as resolved-negative | feeds: do NOT re-search for 537-doc vector store. It was never built. Next physics work must either (a) reframe to direct read of ~/V5/research/yang-mills/derivations/ + Singh 2021 + arXiv:2205.06614, or (b) find/build the harvest manifest first. See finding_537_doc_vector_store_absent.md.

@@ -3,8 +3,8 @@
 
 ### Physics — Load-bearing
 
-- [?] [2026-04-23] mass-gap blocked by Singh no-reply. Vector store 537 docs — does any address?
-- [?] [2026-04-23] mass-gap blocked by dim(4·w4) verification pending. Indexed doc?
+- [x] [2026-04-23] mass-gap blocked by Singh no-reply. Vector store 537 docs — RESOLVED-NEGATIVE 2026-05-06: vector store never built. See finding_537_doc_vector_store_absent.md.
+- [x] [2026-04-23] mass-gap blocked by dim(4·w4). Indexed doc? RESOLVED-NEGATIVE 2026-05-06: same — no indexed corpus.
 - [?] [2026-05-01] Forward citation watch: Singh 2020 (arXiv:2009.05574), Adhikari-Cao (arXiv:2205...)
 - [?] [2026-05-02] Adler 2004 marked load-bearing + UNREAD. Highest-risk unverified assumption?
 - [?] [2026-05-02] Singh TIFR preprint load-bearing + UNREAD. Highest-risk assumption?
