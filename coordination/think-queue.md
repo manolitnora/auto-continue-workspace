@@ -65,3 +65,5 @@ Latti heartbeats (~25), latti activity dupes (~15), dream proposals (~10), synth
 - [x] [2026-05-06] AUTO-RECONCILE (nba.schedule_loaded): [maintenance][high] NBA engine error: ESPN schedule fetch failed: fetch failed (attempts=3) — kernel:nba
 
 - [?] [2026-05-06] REACTOR-PARKED: [2026-05-06] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 18/22 loose ends are user-facing (82%) — the loop is orbiting, not braided)
+
+- [ ] [2026-05-06] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 18/22 loose ends are user-facing (82%) — the loop is orbiting, not braided)
