@@ -94,5 +94,5 @@ Latti heartbeats (~25), latti activity dupes (~15), dream proposals (~10), synth
 
 - [?] [2026-05-07] REACTOR-PARKED: [2026-05-06] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 18/22 loose ends are user-facing (82%) — the loop is orbiting, not braided)
 
-- [ ] [2026-05-07] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 18/22 loose ends are user-facing (82%) — the loop is orbiting, not braided)
+- [x] [2026-05-07] [latti][info] LATTI-ACTIVITY: orbit warning + 2 stale frustration-clusters (asking_next 2x, mirror_not_telescope 3x, 8.9d unabsorbed). Subtracted 4 dupes to read/. Signal landed: orbit fires on this session too — honored S133 self-axis by not writing deeper analysis.
 

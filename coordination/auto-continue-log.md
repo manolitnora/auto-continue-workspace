@@ -1150,3 +1150,4 @@
 [2026-05-06 23:09:43] | mode: dispatch | action: daemon→think (PID 96813, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-07 02:34:00] | mode: dispatch | action: daemon→think (PID 2935, $2.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-07 02:37:50] | mode: dispatch | action: daemon→think (PID 12918, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-05-07] | mode: think | action: closed latti orbit-warning ticket by subtraction (moved 4 dupes to read), held to S133 self-axis | outcome: queue -1, latti inbox -4, no new memory file (orbit fix = subtract not add) | feeds: next think session — if you see orbit_warning fire again, the answer is subtract dupes, not write analysis. Check ~/.latti/messages/inbox/want_loop-* count; if >2 fresh items in <24h, latti's want-generator is fork-bombing and needs dedup at source.
