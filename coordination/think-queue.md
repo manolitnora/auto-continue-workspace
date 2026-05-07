@@ -5,7 +5,10 @@
 
 - [x] [2026-04-23] mass-gap blocked by Singh no-reply. Vector store 537 docs — RESOLVED-NEGATIVE 2026-05-06: vector store never built. See finding_537_doc_vector_store_absent.md.
 - [x] [2026-04-23] mass-gap blocked by dim(4·w4). Indexed doc? RESOLVED-NEGATIVE 2026-05-06: same — no indexed corpus.
-- [?] [2026-05-01] Forward citation watch: Singh 2020 (arXiv:2009.05574), Adhikari-Cao (arXiv:2205...)
+- [x] [2026-05-07] Forward citation watch: Singh 2020 / Adhikari-Cao — RESOLVED-PIVOTED. Web search wrong tool; surfaced 8 new 2023-2025 mass-gap papers project hasn't read. See finding_yang_mills_2023_2025_new_proofs.md. arXiv:2506.00284 (SU(3) constructive proof, May 2025) is highest-priority next read.
+- [?] [2026-05-07] Read arXiv:2506.00284 — SU(3) constructive proof of existence + mass gap in 4D. If sound, reframes mass-gap project (Singh no longer load-bearing).
+- [?] [2026-05-07] Read arXiv:2406.16881 — 4D YM weak-coupling: mass gap implies confinement.
+- [?] [2026-05-07] Switch forward-citation watch tooling from web search → INSPIRE-HEP `cited_by` API or NASA ADS API. Web search costs ~$0.30/query and misses citations.
 - [?] [2026-05-02] Adler 2004 marked load-bearing + UNREAD. Highest-risk unverified assumption?
 - [?] [2026-05-02] Singh TIFR preprint load-bearing + UNREAD. Highest-risk assumption?
 - [?] [2026-05-02] Singh 2022 EPJP load-bearing + UNREAD. Highest-risk assumption?
