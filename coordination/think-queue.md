@@ -102,3 +102,5 @@ Latti heartbeats (~25), latti activity dupes (~15), dream proposals (~10), synth
 
 - [x] [2026-05-07] [latti][info] LATTI-ACTIVITY: orbit warning + 2 stale frustration-clusters (asking_next 2x, mirror_not_telescope 3x, 8.9d unabsorbed). Subtracted 4 dupes to read/. Signal landed: orbit fires on this session too — honored S133 self-axis by not writing deeper analysis.
 
+
+- [?] [2026-05-07] REACTOR-PARKED: [2026-05-07] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
