@@ -12,3 +12,5 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 - [?] [2026-05-07] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] 🔴 contradiction [0438fb8b54e5] vs *Datacenter capex underpriced*: Fresh note flags NVDA at 40x forward as priced for perfection and cites 30%+ historical capex cuts, directly challenging the duration of the — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: 🔴 contradiction [0438fb8b54
+
+- [ ] [2026-05-08] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
