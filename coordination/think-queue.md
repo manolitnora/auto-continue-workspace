@@ -17,3 +17,7 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 - [?] [2026-05-08] REACTOR-PARKED: [external][physics][high] FoP check: 35 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
 - [x] [2026-05-08] AUTO-RECONCILE (nba.schedule_loaded): [2026-05-08] REACTOR-PARKED: [maintenance][high] NBA engine error: ESPN schedule fetch failed: fetch failed (attempts=3) — kernel:nba
+
+- [ ] [CRITICAL][kernel-wake][predator] 🔴 contradiction [0438fb8b54e5] vs *Datacenter capex underpriced*: Fresh note flags NVDA at 40x forward as priced for perfection and cites 30%+ historical capex cuts, directly challenging bull-case duration. — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: 🔴 contradiction [0438fb8b54
