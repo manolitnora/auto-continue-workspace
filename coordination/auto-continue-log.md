@@ -1196,3 +1196,4 @@
 [2026-05-08 03:31:36] | mode: dispatch | action: daemon→think (PID 8681, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-08 03:37:47] | mode: dispatch | action: daemon→think (PID 29915, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-08] | mode: think | action: diagnosed insight_yaml_gating_unenforced — fires_when in YAMLs is doc, score_insight is keyword-only | outcome: structural gap named, three remediation options laid out | feeds: NEXT — pick (1) build predicate evaluator in insights-fire.py:54 OR (2) class-suppress daemon fires without user co-fire OR (3) accept keyword-only and rewrite YAMLs. Do NOT tune individual keywords — fire×feedback already showed it's whack-a-mole. See finding_insight_yaml_gating_unenforced.md
+[2026-05-08 04:09:43] | mode: dispatch | action: daemon→think (PID 88597, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
