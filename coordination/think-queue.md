@@ -13,4 +13,6 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
-- [ ] [2026-05-08] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [?] [2026-05-08] REACTOR-PARKED: [2026-05-08] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+
+- [ ] [external][physics][high] FoP check: 35 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
