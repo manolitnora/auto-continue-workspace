@@ -29,4 +29,11 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 - [?] [2026-05-08] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 139 edges (file: `src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAudit()'` gives its
 
-- [ ] [2026-05-09] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [?] [2026-05-09] REACTOR-PARKED: [2026-05-09] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+
+
+<!-- synthesis-engine 2026-05-09 -->
+
+- [?] [2026-05-09] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.72 — Forward citation watch is live: 2 active source(s): Singh 2020 — Trace dynamics + division algebras (f (arXiv:2009.05574) — active, citations found; Adhikari-Cao mass gap foundational paper (arXiv:220
+
+- [?] [2026-05-09] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Goal 'mass-gap' is blocked by: 'Singh hasn't replied'. The vector store has 537 indexed docs that nobody queries proactively. Does any indexed doc address this blocker? Semantic query: 'Singh hasn't r
