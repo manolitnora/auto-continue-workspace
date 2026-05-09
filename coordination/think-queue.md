@@ -28,3 +28,5 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 - [?] [2026-05-08] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `index.ts` in the `verra-kernel` graph has 167 edges (file: `src/index.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'index.ts'` gives its structural 
 
 - [?] [2026-05-08] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 139 edges (file: `src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAudit()'` gives its
+
+- [ ] [2026-05-09] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
