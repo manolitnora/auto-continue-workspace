@@ -43,3 +43,12 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 - [?] [2026-05-10] REACTOR-PARKED: [2026-05-10] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
 - [?] [2026-05-11] REACTOR-PARKED: [2026-05-11] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+
+
+<!-- synthesis-engine 2026-05-11 -->
+
+- [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][pi_extensions][synthesis] score=0.72 — Milkyway knows 'Decision criterion (instead-of)' from domain `pi_extensions`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural
+
+- [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][model_audit][synthesis] score=0.72 — Milkyway knows 'Auth state' from domain `model_audit`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there? S
+
+- [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][git_workflow][synthesis] score=0.72 — Milkyway knows 'Decision criterion (instead-of)' from domain `git_workflow`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
