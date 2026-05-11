@@ -41,3 +41,5 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 - [x] [2026-05-10] AUTO-CLOSED (consciousness): [2026-05-10] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions) | SHIPPED bd8dff11. log-compliance-score.sh + check-compliance-goal.sh. 14/14 tests. truth-check CLEAN.
 
 - [?] [2026-05-10] REACTOR-PARKED: [2026-05-10] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+
+- [?] [2026-05-11] REACTOR-PARKED: [2026-05-11] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
