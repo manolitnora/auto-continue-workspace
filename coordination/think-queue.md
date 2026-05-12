@@ -55,4 +55,4 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 - [?] [2026-05-12] REACTOR-PARKED: [2026-05-12] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
 
-- [ ] [2026-05-12] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [?] [2026-05-12] REACTOR-PARKED: [2026-05-12] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
