@@ -52,3 +52,5 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 - [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][model_audit][synthesis] score=0.72 — Milkyway knows 'Auth state' from domain `model_audit`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there? S
 
 - [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][git_workflow][synthesis] score=0.72 — Milkyway knows 'Decision criterion (instead-of)' from domain `git_workflow`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
+
+- [ ] [2026-05-12] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
