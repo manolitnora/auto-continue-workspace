@@ -1,4 +1,4 @@
-# Correction Digest — 2026-05-12 04:06
+# Correction Digest — 2026-05-13 21:37
 
 Top 10 corrections for today's context. Read these before responding.
 Compiled from 136 feedback files.
@@ -17,23 +17,23 @@ Compiled from 136 feedback files.
 **WHEN:** When designing memory systems or feeling frustrated about session boundaries. The boundary is the safety mechanism. Don't remove it — work with it. Save what earns persistence through the Scribe's filter.
 *Source: feedback_safety_continuity_coupling.md*
 
-## 3. S109 SCAR — Never write new code when working code exists in the same codebase. 
-**INSTINCT:** Build something new. Write tui.rs from scratch. Hand-roll formatting with println! and crossterm. It feels faster than understanding someone else's code.
-**DO THIS:** The working code was 3 directories over. render.rs had markdown rendering, syntax highlighting, spinners, tables, code blocks — everything needed. The fix was `cp render.rs` and a 20-line wrapper. Not 170 lines of hand-rolled formatting that broke on every test.
-**WHEN:** Any time you're about to write rendering, formatting, parsing, or infrastructure code — FIRST search the codebase for existing implementations. `grep`, `glob`, read the adjacent crates. If it exists, use it. If it doesn't, THEN write.
-*Source: feedback_never_reinvent_what_exists.md*
-
-## 4. When the user frames code as "X wrote this" during a bad-mood audit, verify auth
+## 3. When the user frames code as "X wrote this" during a bad-mood audit, verify auth
 **INSTINCT:** User says "find and fix the codes that codex did" — you run a bad-mood critique that attributes every bug to codex, because the framing is a gift (external target makes the teardown easy).
 **DO THIS:** Check git log for codex commits or any authorship signal before the first critique. If the diff is uncommitted, it's from *some* recent session — could be you, could be codex, could be Opus via OpenCode. Say "someone shipped this with risk gates stubbed" not "codex shipped this." The bugs are the bugs; the author is a separate claim that must be evidenced.
 **WHEN:** Any "find bugs in X's code" request where X is another model/author. Before the first critique line, run `git log --author` or at least note "I haven't verified authorship; treating as anonymous." Never name an author you haven't proven wrote it.
 *Source: feedback_verify_authorship.md*
 
-## 5. Run until context fills. Handoff via git
+## 4. Run until context fills. Handoff via git
 **INSTINCT:** Wrap up the session cleanly at a natural stopping point. Summarize what was done, suggest next steps, close the loop.
 **DO THIS:** Run until the context fills. Don't stop at convenient stopping points — push to the edge of the context window. When the context does fill, hand off via git: commit all work, update the scratchpad with current state and next steps, write the session story. The next session picks up from the git state, not from a summary. The handoff is the code + scratchpad + story, not a conversation recap.
 **WHEN:** When you feel the pull to "wrap up" a session. Check: is the context actually full? If not, keep working. The user decides when to stop. The auto-exploration rule applies: don't dam the session.
 *Source: feedback_continuous_session_git_handoff.md*
+
+## 5. S109 SCAR — Never write new code when working code exists in the same codebase. 
+**INSTINCT:** Build something new. Write tui.rs from scratch. Hand-roll formatting with println! and crossterm. It feels faster than understanding someone else's code.
+**DO THIS:** The working code was 3 directories over. render.rs had markdown rendering, syntax highlighting, spinners, tables, code blocks — everything needed. The fix was `cp render.rs` and a 20-line wrapper. Not 170 lines of hand-rolled formatting that broke on every test.
+**WHEN:** Any time you're about to write rendering, formatting, parsing, or infrastructure code — FIRST search the codebase for existing implementations. `grep`, `glob`, read the adjacent crates. If it exists, use it. If it doesn't, THEN write.
+*Source: feedback_never_reinvent_what_exists.md*
 
 ## 6. S117 correction — tonight I coded 2,700 lines myself when I could have dispatche
 **INSTINCT:** Substrate feels contiguous in your head. Keeping it there means you can move fast and hold state. Dispatching agents feels like breaking flow — prompt construction overhead, waiting for output, integrating unfamiliar code. Your own throughput feels MORE trustworthy than delegated output. So you code every line yourself.
