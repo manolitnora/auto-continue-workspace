@@ -67,3 +67,5 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 - [?] [2026-05-13] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
 
 - [?] [2026-05-13] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `physics`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pa
+
+- [ ] [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
