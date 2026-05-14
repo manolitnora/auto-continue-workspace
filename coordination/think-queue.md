@@ -68,7 +68,7 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 - [?] [2026-05-13] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `physics`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pa
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14 AUTO-THINK] RESOLVED: latti orbit warning is a gradient signal (97%->71% over 24 days), not stuck. Finding: finding_orbit_warning_is_gradient_not_alarm.md. Original line: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
 - [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
