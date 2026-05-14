@@ -100,3 +100,8 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 
 - [x] [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes — read 4, acted on orbit-warning by SUBTRACTION: archived inhabit_the_state_machine.yaml (0 fires_14d, dead post-S122-retune; rule file preserved). Self-axis braid move, not a new mechanism.
+
+
+<!-- synthesis-engine 2026-05-14 -->
+
+- [?] [2026-05-14] SYNTHESIS-PROPOSED: [synthesis][daemon][synthesis] score=0.72 — Milkyway knows 'launchctl ordering' from domain `daemon`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there
