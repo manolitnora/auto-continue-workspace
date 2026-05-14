@@ -70,25 +70,25 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 - [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe of latti orbit warning): [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-14] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe — kept first instance): [2026-05-14] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-14] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-14] AUTO-CLOSED (dedupe — kept first instance): [2026-05-14] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
 - [?] [2026-05-14] REACTOR-PARKED: [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
