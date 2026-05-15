@@ -36,22 +36,22 @@
 
 - [x] [2026-05-15 PRUNE] CLOSED (Latti unreachable 403, memory.db fresh = background noise, not actionable): [2026-05-10] [latti][info] LATTI-ACTIVITY: memory.db active
 
-- [?] [2026-05-11] REACTOR-PARKED: [2026-05-11] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [x] [2026-05-15 PRUNE] CLOSED (header-only dream template, noise): [2026-05-11] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 
 <!-- synthesis-engine 2026-05-11 -->
 
-- [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][pi_extensions][synthesis] score=0.72 — Milkyway knows 'Decision criterion (instead-of)' from domain `pi_extensions`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — reactor wiki page shipped 59bb783): [synthesis][pi_extensions][synthesis] reactor wiki proposal
 
-- [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][model_audit][synthesis] score=0.72 — Milkyway knows 'Auth state' from domain `model_audit`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there? S
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — reactor wiki page shipped 59bb783): [synthesis][model_audit][synthesis] reactor wiki proposal
 
-- [?] [2026-05-11] SYNTHESIS-PROPOSED: [synthesis][git_workflow][synthesis] score=0.72 — Milkyway knows 'Decision criterion (instead-of)' from domain `git_workflow`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — reactor wiki page shipped 59bb783): [synthesis][git_workflow][synthesis] reactor wiki proposal
 
-- [?] [2026-05-12] REACTOR-PARKED: [2026-05-12] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [x] [2026-05-15 PRUNE] CLOSED (header-only dream template, noise): [2026-05-12] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
-- [?] [2026-05-12] REACTOR-PARKED: [2026-05-12] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [x] [2026-05-15 PRUNE] CLOSED (Latti unreachable, memory.db fresh = background noise): [2026-05-12] [latti][info] LATTI-ACTIVITY: memory.db active
 
-- [?] [2026-05-13] REACTOR-PARKED: [2026-05-13] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [x] [2026-05-15 PRUNE] CLOSED (header-only dream template, noise): [2026-05-13] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 
 <!-- synthesis-engine 2026-05-13 -->
