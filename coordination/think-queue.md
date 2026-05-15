@@ -105,3 +105,5 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 <!-- synthesis-engine 2026-05-14 -->
 
 - [?] [2026-05-14] SYNTHESIS-PROPOSED: [synthesis][daemon][synthesis] score=0.72 — Milkyway knows 'launchctl ordering' from domain `daemon`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there
+
+- [ ] [2026-05-15] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
