@@ -56,11 +56,11 @@
 
 <!-- synthesis-engine 2026-05-13 -->
 
-- [?] [2026-05-13] SYNTHESIS-PROPOSED: [synthesis][kernel][synthesis] score=0.72 — Milkyway knows 'bridge.md is dead (killed 2026-04-18)' from domain `kernel`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — reactor wiki page shipped 59bb783): [synthesis][kernel][synthesis] reactor wiki proposal
 
-- [?] [2026-05-13] SYNTHESIS-PROPOSED: [synthesis][nba_slate][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `nba_slate`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural 
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — reactor wiki page shipped 59bb783): [synthesis][nba_slate][synthesis] reactor wiki proposal
 
-- [?] [2026-05-13] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Milkyway knows 'Decision criterion (but-if-clause)' from domain `physics`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pa
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — reactor wiki page shipped 59bb783): [synthesis][physics][synthesis] reactor wiki proposal
 
 - [x] [2026-05-14 AUTO-THINK] RESOLVED: latti orbit warning is a gradient signal (97%->71% over 24 days), not stuck. Finding: finding_orbit_warning_is_gradient_not_alarm.md. Original line: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
@@ -84,13 +84,13 @@
 
 - [x] [2026-05-14] AUTO-CLOSED (dedupe — kept first instance): [2026-05-14] REACTOR-PARKED: [2026-05-13] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
 
-- [?] [2026-05-14] REACTOR-PARKED: [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-15 PRUNE] CLOSED (orbit-warning addressed by SUBTRACTION on 2026-05-14, line 102; this is dupe noise): [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes
 
-- [?] [2026-05-14] REACTOR-PARKED: [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-15 PRUNE] CLOSED (dupe of orbit-warning, already resolved): [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes
 
-- [?] [2026-05-14] REACTOR-PARKED: [2026-05-14] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [x] [2026-05-15 PRUNE] CLOSED (header-only dream template, noise): [2026-05-14] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
-- [?] [2026-05-14] REACTOR-PARKED: [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes (top: Self: orbit warning: 6/8 loose ends are user-facing (75%) — the loop is orbiting, not braided)
+- [x] [2026-05-15 PRUNE] CLOSED (dupe of orbit-warning, already resolved): [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes
 
 
 - [x] [2026-05-14] [latti][info] LATTI-ACTIVITY: 5 unread want-loop notes — read 4, acted on orbit-warning by SUBTRACTION: archived inhabit_the_state_machine.yaml (0 fires_14d, dead post-S122-retune; rule file preserved). Self-axis braid move, not a new mechanism.
