@@ -14,9 +14,7 @@
 - [?] [2026-05-08] REACTOR-PARKED: [external][physics][high] FoP check: 35 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
 - [x] [2026-05-08] AUTO-RECONCILE (nba.schedule_loaded): [2026-05-08] REACTOR-PARKED: [maintenance][high] NBA engine error: ESPN schedule fetch failed: fetch failed (attempts=3) — kernel:nba
 
-- [?] [2026-05-08] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] 🔴 contradiction [0438fb8b54e5] vs *Datacenter capex underpriced*: Fresh note flags NVDA at 40x forward as priced for perfection and cites 30%+ historical capex cuts, directly challenging bull-case duration. — [KERNEL WAKE — PREDATOR]
-
-I detected this: External world-state change: 🔴 contradiction [0438fb8b54
+- [x] [2026-05-15 PRUNE] CLOSED (stale, 7d old market signal, dupe ×3): [CRITICAL][kernel-wake][predator] 🔴 contradiction [0438fb8b54e5] vs *Datacenter capex underpriced* (NVDA 40x forward) — [KERNEL WAKE — PREDATOR]
 
 
 <!-- synthesis-engine 2026-05-08 -->
@@ -25,7 +23,7 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 - [?] [2026-05-08] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 139 edges (file: `src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAudit()'` gives its
 
-- [?] [2026-05-09] REACTOR-PARKED: [2026-05-09] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [x] [2026-05-15 PRUNE] CLOSED (header-only dream template, noise): [2026-05-09] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 
 <!-- synthesis-engine 2026-05-09 -->
