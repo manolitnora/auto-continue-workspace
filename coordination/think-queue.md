@@ -107,4 +107,4 @@
 - [?] [2026-05-15] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Fixed pi tool-router stripping escalation/rabbithole extension tools; verified active tool list includes missing tools after reload — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Fixed pi tool-router strippi
-- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [?] [2026-05-15] REACTOR-PARKED: [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
