@@ -19,9 +19,9 @@
 
 <!-- synthesis-engine 2026-05-08 -->
 
-- [?] [2026-05-08] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `index.ts` in the `verra-kernel` graph has 167 edges (file: `src/index.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'index.ts'` gives its structural 
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — wiki page shipped 94ac0df): [synthesis][kernel][graphify] God node `index.ts` (167 edges)
 
-- [?] [2026-05-08] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 139 edges (file: `src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAudit()'` gives its
+- [x] [2026-05-15 PRUNE] CLOSED (resolved — wiki page shipped 43cafd1): [synthesis][kernel][graphify] God node `logAudit()` (139 edges)
 
 - [x] [2026-05-15 PRUNE] CLOSED (header-only dream template, noise): [2026-05-09] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
