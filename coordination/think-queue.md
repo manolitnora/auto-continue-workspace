@@ -28,13 +28,13 @@
 
 <!-- synthesis-engine 2026-05-09 -->
 
-- [?] [2026-05-09] SYNTHESIS-PROPOSED: [synthesis][physics][known-unknown] score=0.72 — Forward citation watch is live: 2 active source(s): Singh 2020 — Trace dynamics + division algebras (f (arXiv:2009.05574) — active, citations found; Adhikari-Cao mass gap foundational paper (arXiv:220
+- [x] [2026-05-15 PRUNE] CLOSED (informational, not a pipeline task — citation watch already live): [synthesis][physics][known-unknown] score=0.72 — Forward citation watch is live (Singh 2020, Adhikari-Cao)
 
-- [?] [2026-05-09] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.72 — Goal 'mass-gap' is blocked by: 'Singh hasn't replied'. The vector store has 537 indexed docs that nobody queries proactively. Does any indexed doc address this blocker? Semantic query: 'Singh hasn't r
+- [x] [2026-05-15 PRUNE] CLOSED (informational suggestion, not actionable): [synthesis][physics][synthesis] score=0.72 — vector-store query proposal for 'mass-gap blocker'
 
 - [x] [2026-05-10] AUTO-CLOSED (consciousness): [2026-05-10] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions) | SHIPPED bd8dff11. log-compliance-score.sh + check-compliance-goal.sh. 14/14 tests. truth-check CLEAN.
 
-- [?] [2026-05-10] REACTOR-PARKED: [2026-05-10] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [x] [2026-05-15 PRUNE] CLOSED (Latti unreachable 403, memory.db fresh = background noise, not actionable): [2026-05-10] [latti][info] LATTI-ACTIVITY: memory.db active
 
 - [?] [2026-05-11] REACTOR-PARKED: [2026-05-11] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
 
