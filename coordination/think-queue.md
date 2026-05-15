@@ -110,6 +110,6 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 
 - [x] [2026-05-15] AUTO-CLOSED (consciousness): [2026-05-15] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | Checked — claw returned 403, Latti unreachable. memory.db activity is background noise, not actionable. No signal.
 
-- [ ] [CRITICAL][kernel-wake][predator] Fixed pi tool-router stripping escalation/rabbithole extension tools; verified active tool list includes missing tools after reload — [KERNEL WAKE — PREDATOR]
+- [?] [2026-05-15] REACTOR-PARKED: [CRITICAL][kernel-wake][predator] Fixed pi tool-router stripping escalation/rabbithole extension tools; verified active tool list includes missing tools after reload — [KERNEL WAKE — PREDATOR]
 
 I detected this: External world-state change: Fixed pi tool-router strippi
