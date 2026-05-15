@@ -109,3 +109,7 @@ I detected this: External world-state change: 🔴 contradiction [0438fb8b54
 - [x] [2026-05-15 AUTO-THINK] CLOSED: header-only template, no body, no first-move. Gap named in finding_dream_proposed_header_only.md (8 days of identical parked items). Falsifier: next dream must include # Body: with runnable command. — [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
 
 - [x] [2026-05-15] AUTO-CLOSED (consciousness): [2026-05-15] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | Checked — claw returned 403, Latti unreachable. memory.db activity is background noise, not actionable. No signal.
+
+- [ ] [CRITICAL][kernel-wake][predator] Fixed pi tool-router stripping escalation/rabbithole extension tools; verified active tool list includes missing tools after reload — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: Fixed pi tool-router strippi
