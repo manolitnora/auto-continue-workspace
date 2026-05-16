@@ -127,3 +127,5 @@ I detected this: External world-state change: Fixed pi tool-router strippi
 
 I detected this: External world-state change: verification (type: smoke)
 U
+
+- [ ] [2026-05-16] [smoke-canonical][dispatch] frame-B end-to-end smoke on canonical 8400
