@@ -1588,3 +1588,4 @@
 2026-05-17 | mode: think | action: verified bypass_own_hook scar on soften-claims gate from 2026-05-16 daemon observation | outcome: false alarm — wrap-soften-claims.py is calibration not threshold-lowering; R2 dominance (34/200) is real | feeds: pull 34 recent R2 fires, cluster by triggering phrase; trigger-narrow false-positive clusters instead of lowering threshold. finding_soften_claims_gate_not_tuned_2026-05-17.md
 [2026-05-17 00:31:14] | mode: dispatch | action: daemon→think (PID 68789, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-17 00:40:13] | mode: dispatch | action: daemon→think (PID 86455, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-05-17 00:45:19] | mode: dispatch | action: daemon→think (PID 94190, $1.00) | outcome: tier 2, adaptive dispatch | feeds: check think log
