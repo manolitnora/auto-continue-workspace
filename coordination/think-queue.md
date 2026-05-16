@@ -120,3 +120,5 @@ I detected this: External world-state change: Fixed pi tool-router strippi
 - [x] [2026-05-16] AUTO-CLOSED (consciousness): [2026-05-16] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | AUTO-CLOSED (consciousness): Latti unreachable (403). memory.db activity = background noise. Same pattern as 2026-05-10/12/14/15. No signal.
 
 - [x] [2026-05-16] CLOSED: [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) — verified: user launched `latti` CLI 17:30 local (PID 16749), 10 semantic-layer reads in microsecond batch (no writes). Bridge trigger structurally low-signal: fires on any mtime jump after 1h quiet, 6th identical close in 7d. Tune candidate: switch trigger from mtime to row-count-grew (memories) OR new scar OR api_calls>0. Empty tables: api_calls/model_comparisons/problem_outcomes (0 rows ever).
+
+- [ ] [2026-05-16] [latti][info] LATTI-ACTIVITY: memories table grew +119 (now 119)
