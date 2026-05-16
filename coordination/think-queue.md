@@ -149,3 +149,7 @@ U
 - [x] CLOSED (broken-copy leftover): [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778963359817
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778963361040
+
+- [ ] [2026-05-16] [test][dispatch] env-wins
+
+- [ ] [2026-05-16] [test][dispatch] env-wins
