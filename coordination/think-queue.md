@@ -135,3 +135,5 @@ U
 - [x] [2026-05-16] [smoke-canonical-rerun][dispatch] frame-B smoke verify 172905 → self-generated test artifact from above probe
 
 - [x] [2026-05-16] [sse-smoke][dispatch] frame-B SSE mid-stream 172905 → self-generated test artifact from above probe
+
+- [ ] [2026-05-16] [browser][dispatch] Frame-D browser-simulated dispatch
