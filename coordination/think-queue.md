@@ -139,3 +139,5 @@ U
 - [?] [2026-05-16] REACTOR-PARKED: [2026-05-16] [browser][dispatch] Frame-D browser-simulated dispatch
 
 - [ ] [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778962798866
+
+- [ ] [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778962874070
