@@ -141,3 +141,5 @@ U
 - [ ] [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778962798866
 
 - [ ] [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778962874070
+
+- [ ] [2026-05-16] [browser][dispatch] N3 playwright SPA render proof
