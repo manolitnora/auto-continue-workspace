@@ -131,3 +131,7 @@ U
 - [ ] [2026-05-16] [smoke-canonical][dispatch] frame-B end-to-end smoke on canonical 8400
 
 - [ ] [2026-05-16] [sse-live][dispatch] frame-B SSE-live mid-stream
+
+- [ ] [2026-05-16] [smoke-canonical-rerun][dispatch] frame-B smoke verify 172905
+
+- [ ] [2026-05-16] [sse-smoke][dispatch] frame-B SSE mid-stream 172905
