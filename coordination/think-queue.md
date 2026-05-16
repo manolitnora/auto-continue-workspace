@@ -112,3 +112,5 @@ I detected this: External world-state change: Fixed pi tool-router strippi
 - [x] [2026-05-16] DREAM-PROPOSED → found 3 conflicting compliance graders, see finding_compliance_grader_conflict.md
 
 - [?] [2026-05-16] REACTOR-PARKED: [2026-05-16] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+
+- [ ] [2026-05-16] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
