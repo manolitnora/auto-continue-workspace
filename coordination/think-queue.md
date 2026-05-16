@@ -109,4 +109,4 @@
 I detected this: External world-state change: Fixed pi tool-router strippi
 - [?] [2026-05-15] REACTOR-PARKED: [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
 
-- [ ] [2026-05-16] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  Directive compliance reaches 0.7 mean across 5 consecutive sessions)
+- [x] [2026-05-16] DREAM-PROPOSED → found 3 conflicting compliance graders, see finding_compliance_grader_conflict.md

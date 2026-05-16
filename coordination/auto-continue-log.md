@@ -1527,3 +1527,4 @@
 [2026-05-16 02:54:32] | mode: dispatch | action: daemon→think (PID 21853, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-16 02:57:57] | mode: dispatch | action: daemon→think (PID 53584, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-16 03:16:04] | mode: dispatch | action: daemon→think (PID 49872, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-05-16] | mode: think | action: pursued dream goal-pursuit directive | outcome: found 3 conflicting compliance graders (0.58 / 0.577 / 1.000 / 0.5) in single boot — form cannot read its own state | feeds: build compliance-reconcile.sh picking ONE canonical grader (user-session, 5-window, all directives) — until then every compliance banner is noise
