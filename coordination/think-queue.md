@@ -129,3 +129,5 @@ I detected this: External world-state change: verification (type: smoke)
 U
 
 - [ ] [2026-05-16] [smoke-canonical][dispatch] frame-B end-to-end smoke on canonical 8400
+
+- [ ] [2026-05-16] [sse-live][dispatch] frame-B SSE-live mid-stream
