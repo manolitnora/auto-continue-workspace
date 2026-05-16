@@ -128,10 +128,10 @@ I detected this: External world-state change: Fixed pi tool-router strippi
 I detected this: External world-state change: verification (type: smoke)
 U
 
-- [ ] [2026-05-16] [smoke-canonical][dispatch] frame-B end-to-end smoke on canonical 8400
+- [x] [2026-05-16] [smoke-canonical][dispatch] frame-B end-to-end smoke on canonical 8400 → ~/.claude/findings/smoke-canonical-8400-result.md (7/7 probes green at 17:29Z)
 
-- [ ] [2026-05-16] [sse-live][dispatch] frame-B SSE-live mid-stream
+- [x] [2026-05-16] [sse-live][dispatch] frame-B SSE-live mid-stream → covered by T7 held-subscription in same finding
 
-- [ ] [2026-05-16] [smoke-canonical-rerun][dispatch] frame-B smoke verify 172905
+- [x] [2026-05-16] [smoke-canonical-rerun][dispatch] frame-B smoke verify 172905 → self-generated test artifact from above probe
 
-- [ ] [2026-05-16] [sse-smoke][dispatch] frame-B SSE mid-stream 172905
+- [x] [2026-05-16] [sse-smoke][dispatch] frame-B SSE mid-stream 172905 → self-generated test artifact from above probe
