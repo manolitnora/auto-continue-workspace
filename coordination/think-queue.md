@@ -161,8 +161,10 @@ U
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778963903412
 
-- [ ] [2026-05-16] [test][dispatch] env-wins
+- [x] CLOSED (broken-copy run leak, fence pending): [2026-05-16] [test][dispatch] env-wins
 
 - [ ] [2026-05-16] [framework][medium] Port P2 session-scoping + per-artifact dedup from soften-claims-gate.py into ~/.claude/scripts/laziness-detector.py — R2 dominance is fixture replay (finding_r2_dominance_is_fixture_replay_not_applause.md)
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778963997506
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778964059567
