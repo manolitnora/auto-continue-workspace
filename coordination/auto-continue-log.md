@@ -1561,3 +1561,4 @@
 [2026-05-16 16:29:37] | mode: dispatch | action: daemon→think (PID 14324, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-16 18:02:53] | mode: dispatch | action: daemon→think (PID 20033, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 2026-05-16 | mode: think | action: audited LATTI-ACTIVITY +119 alert | outcome: detector noise — table stable since 2026-04-26, no growth, P2 shape | feeds: next think session should fix latti-activity watcher to persist snapshot baseline at ~/.claude/latti-activity-snapshot.json before treating row-count as delta
+[2026-05-16 19:18:15] | mode: dispatch | action: daemon→think (PID 14294, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
