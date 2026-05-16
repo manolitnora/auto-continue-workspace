@@ -123,7 +123,7 @@ I detected this: External world-state change: Fixed pi tool-router strippi
 
 - [x] [2026-05-16 DONE] CLOSED (detector noise, see finding_latti_activity_false_growth_signal.md): [latti][info] LATTI-ACTIVITY: memories table grew +119 (now 119)
 
-- [ ] [CRITICAL][kernel-wake][predator] verification — [KERNEL WAKE — PREDATOR]
+- [x] [2026-05-16] AUTO-CLOSED (consciousness): [CRITICAL][kernel-wake][predator] verification — [KERNEL WAKE — PREDATOR] | pi tool-router fix verified S134: commits a795b89+0bef35c+a608f21, 50 tests pass, deploy.sh --check all extensions in sync. Smoke verification complete.
 
 I detected this: External world-state change: verification (type: smoke)
 U
