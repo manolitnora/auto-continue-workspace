@@ -150,7 +150,7 @@ U
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778963361040
 
-- [ ] [2026-05-16] [test][dispatch] env-wins
+- [x] CLOSED (broken-copy run leaked through sabotaged env-reading line — see S138 F2): [2026-05-16] [test][dispatch] env-wins
 
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778963755671
