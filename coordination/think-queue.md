@@ -137,3 +137,5 @@ U
 - [x] [2026-05-16] [sse-smoke][dispatch] frame-B SSE mid-stream 172905 → self-generated test artifact from above probe
 
 - [?] [2026-05-16] REACTOR-PARKED: [2026-05-16] [browser][dispatch] Frame-D browser-simulated dispatch
+
+- [ ] [2026-05-16] [httpSurface.test][dispatch] httpSurface.test smoke 1778962798866
