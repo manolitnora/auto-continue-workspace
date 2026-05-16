@@ -113,4 +113,4 @@ I detected this: External world-state change: Fixed pi tool-router strippi
 
 - [?] [2026-05-16] REACTOR-PARKED: [2026-05-16] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
 
-- [ ] [2026-05-16] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh)
+- [x] [2026-05-16] AUTO-CLOSED (consciousness): [2026-05-16] [latti][info] LATTI-ACTIVITY: memory.db active (1h+ fresh) | Same pattern as 2026-05-10/12/14/15 — Latti unreachable (403), memory.db activity is background noise, not actionable. No signal.
