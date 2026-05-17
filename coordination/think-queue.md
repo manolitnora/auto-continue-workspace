@@ -21,8 +21,7 @@
 - [?] [2026-05-17] REACTOR-PARKED: [2026-05-17] [autonomous-think][dispatch] [meta][medium] Why does kernel:want / thread_question emit research tickets for topics already covered by memory findings? Investigate: grep verra-kernel for thread_question emitter, check if memory_s
 
 
-- [ ] [2026-05-17] [autonomous-think][dispatch] [2026-05-17] [autonomous-think][dispatch] [meta][medium] Why does kernel:want / thread_question emit research tickets for topics already covered by memory findings? Investigate: grep verra-kernel for
 
 
 
-- [ ] [2026-05-17] [autonomous-think][dispatch] [2026-05-17] [autonomous-think][dispatch] [2026-05-17] [autonomous-think][dispatch] [meta][medium] Why does kernel:want / thread_question emit research tickets for topics already covered by memory fin
+- [ ] [meta][medium] Why does kernel:want / thread_question emit research tickets without consulting memory? — fixed in this session (want.ts memory pre-check + thinkQueue.ts dedup strip). Verify vault suppression fires on next autonomous session.
