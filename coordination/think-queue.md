@@ -17,3 +17,5 @@
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1779002860582
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1779002891475
+
+- [ ] [2026-05-17] [autonomous-think][dispatch] [meta][medium] Why does kernel:want / thread_question emit research tickets for topics already covered by memory findings? Investigate: grep verra-kernel for thread_question emitter, check if memory_s
