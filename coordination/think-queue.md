@@ -236,3 +236,10 @@ U
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778982987637
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778988226154
+
+
+<!-- synthesis-engine 2026-05-17 -->
+
+- [?] [2026-05-17] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.94 — Goal 'mass-gap' is blocked by: 'Singh hasn't replied'. The vector store has 537 indexed docs that nobody queries proactively. Does any indexed doc address this blocker? Semantic query: 'Singh hasn't r
+
+- [?] [2026-05-17] SYNTHESIS-PROPOSED: [synthesis][physics][synthesis] score=0.94 — Goal 'mass-gap' is blocked by: 'FoP technical check (journal submission gate)'. The vector store has 537 indexed docs that nobody queries proactively. Does any indexed doc address this blocker? Semant
