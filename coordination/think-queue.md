@@ -9,4 +9,9 @@
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1779001488674
 
 
-- [?] [2026-05-17] REACTOR-PARKED: [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [x] CLOSED 2026-05-17 (duplicate of line 1 / finding_external_prediction_sources_gap.md — kernel:want emitted ticket without consulting memory findings; see meta follow-up): [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+
+- [ ] [meta][medium] Why does kernel:want / thread_question emit research tickets for topics already covered by memory findings? Investigate: grep verra-kernel for thread_question emitter, check if memory_search runs before emit, propose dedup. Evidence: 2026-05-17 same topic emitted twice within hours.
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1779002860582
