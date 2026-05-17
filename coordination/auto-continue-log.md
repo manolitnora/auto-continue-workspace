@@ -1679,3 +1679,5 @@
 [2026-05-17 09:57:12] | mode: dispatch | action: daemon→think (PID 94320, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-17 10:02:39] | mode: dispatch | action: daemon→think (PID 11633, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-17 10:06:00] | mode: dispatch | action: daemon→think (PID 23360, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+[2026-05-17 10:11:04] | mode: dispatch | action: daemon→think (PID 41352, $1.00) | outcome: tier 2, adaptive dispatch | feeds: check think log
+[2026-05-17] | mode: think | action: named want-engine memory pre-check substrate gap (kernel vault vs ~/.claude auto-memory dir) | outcome: finding_want_memory_precheck_gap.md written; root cause is dual-store with no bridge, not absence of pre-check | feeds: next think session — pick fix path (a) write findings to kernel vault on creation OR (b) extend vault.recall with auto-memory grep adapter; also fix REACTOR-PARKED items so picker stops re-stacking [dispatch] prefixes

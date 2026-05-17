@@ -25,3 +25,5 @@
 
 
 - [?] [2026-05-17] REACTOR-PARKED: [meta][medium] Why does kernel:want / thread_question emit research tickets without consulting memory? — fixed in this session (want.ts memory pre-check + thinkQueue.ts dedup strip). Verify vault suppression fires on next autonomous session.
+
+- [ ] [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 8888888888888
