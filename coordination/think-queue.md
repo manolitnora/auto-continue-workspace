@@ -222,3 +222,15 @@ U
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778978571020
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778978633632
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778979744406
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778979906960
+
+- [x] [2026-05-17] AUTO-CLOSED (consciousness): [2026-05-17] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing (goal:  _Add your own here — long-arc things you want me tracking_) | Dream 2026-05-16 already marked done (NO_VIABLE_FIX, compliance grader conflict resolved). This ticket is a re-run of the same dream with template placeholder goal — no real action target. Closed as dupe.
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778980901420
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778980963555
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778982987637
