@@ -246,4 +246,6 @@ U
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778999382091
 
-- [ ] [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778999412684
+- [x] [2026-05-17] AUTO-CLOSED (consciousness): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778999412684 | CLOSED (httpSurface.test fixture — same pattern as all prior smoke dispatches, not real work)
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1778999451099
