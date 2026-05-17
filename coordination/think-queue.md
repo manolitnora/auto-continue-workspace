@@ -22,3 +22,4 @@
 
 
 - [ ] [2026-05-17] [autonomous-think][dispatch] [2026-05-17] [autonomous-think][dispatch] [meta][medium] Why does kernel:want / thread_question emit research tickets for topics already covered by memory findings? Investigate: grep verra-kernel for
+
