@@ -1,4 +1,4 @@
-- [?] [2026-05-17] REACTOR-PARKED: [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
+- [x] 2026-05-17 [research][medium] External prediction sources → finding_external_prediction_sources_gap.md (current 2 sources both market-derived; recommend sharp/public split next, not third power ranking)
 
 - [ ] [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1779001257778
 
@@ -9,3 +9,4 @@
 - [x] CLOSED (httpSurface.test fixture): [2026-05-17] [httpSurface.test][dispatch] httpSurface.test smoke 1779001488674
 
 
+- [ ] [research][medium] Research ticket from researcher: "External prediction sources" (priority=medium) — kernel:want (thread_question)
