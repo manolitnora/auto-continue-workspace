@@ -1665,3 +1665,4 @@
 [2026-05-17 09:02:14] | mode: dispatch | action: daemon→think (PID 62324, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-17 09:09:52] | mode: dispatch | action: daemon→think (PID 91522, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
 [2026-05-17 09:12:04] | mode: dispatch | action: daemon→think (PID 99740, $1.00) | outcome: tier 1, adaptive dispatch | feeds: check think log
+2026-05-17 | mode: think | action: external prediction sources gap analysis | outcome: identified redundancy (Odds API + BPI both market-derived ~0.93 corr); recommended sharp/public split as next add | feeds: NEXT session — don't add 3rd power ranking; build server/sharp-public-fetcher.ts mirroring odds-fetcher.ts shape
