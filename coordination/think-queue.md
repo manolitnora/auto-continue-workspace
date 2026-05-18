@@ -55,3 +55,5 @@
 
 
 - [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement any missing tests. The goal is real coverage — not just happy-path, but error paths, malf
+
+- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement any missing tests. Goal is real coverage — not just happy-path, but error paths, malforme
