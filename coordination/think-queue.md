@@ -49,9 +49,9 @@
 
 
 
-- [?] [2026-05-18] REACTOR-PARKED: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-coverage (role=pipeline) — Scout, then implement: audit the verra-kernel test suite for coverage gaps on the /dispatch endpoint, then add any missing tests. **Repo:** ~/V5/verra-kernel **Context:** - Kernel exposes `/dispatch` POST endpoint (src/server/index.ts or similar) - `tests/httpSurface.test.ts` has ~16 live-kernel i
+- [x] CLOSED (2026-05-19, S141 — parked entry's TypeError@httpSurface.test.ts:250 was superseded by a3a878d; full /dispatch coverage shipped via 10e7615/d7ae084/8cbb2a2/476790d; npm run test:http 91/91 pass). Original: [2026-05-18] kernel-dispatch-coverage REACTOR-PARKED.
 
-- [?] [2026-05-18] REACTOR-PARKED: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — Scout, then implement: audit the verra-kernel test suite for coverage gaps on the /dispatch endpoint, then add any missing tests. **Repo:** ~/V5/verra-kernel **Context:** - Kernel exposes `/dispatch` POST endpoint (src/server/index.ts or similar) - `tests/httpSurface.test.ts` has ~16 live-kernel i
+- [x] CLOSED (2026-05-19, S141 — dupe of preceding parked entry; same supersession + commits + 91/91 evidence). Original: [2026-05-18] kernel-dispatch-cov REACTOR-PARKED.
 
 
 - [x] CLOSED (2026-05-19, prior session work present in commits 10e7615/d7ae084/8cbb2a2 of verra-kernel and files tests/dispatchHandler.test.ts + tests/dispatchValidation.test.ts; this session did not re-run npm test:http). Original: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — Audit /dispatch coverage, error/malformed paths.
