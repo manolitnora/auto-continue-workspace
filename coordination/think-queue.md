@@ -66,4 +66,6 @@
 
 - [x] CLOSED (2026-05-19, dupe; commits 10e7615/d7ae084/8cbb2a2). Original: [2026-05-18] kernel-dispatch-cov dupe #3.
 
-- [x] CLOSED (2026-05-19, shipped — see preceding closures). Original: [2026-05-18] kernel-dispatch-cov dupe #4.
+- [x] CLOSED (2026-05-19, dupe; commits 10e7615/d7ae084/8cbb2a2). Original: [2026-05-18] kernel-dispatch-cov dupe #4.
+
+- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] barendes-decoherence (role=pipeline) — TASK: Think-queue ticket — Barendes / kernel session boundaries / decoherence analogy. TICKET TEXT: "The kernel behavior '*Milkyway internal feedback. Sessions touched: 6 (2026-04-23 → 2026-04-26). Base' and the physics claim '*Milkyway internal feedback. Sessions touched: 2 (2026-04-23 → 2026-04-2
