@@ -32,3 +32,5 @@
 - [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779135021929
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779135402198
+
+- [ ] [2026-05-18] [migration-probe][dispatch] PROBE: kernel dispatch endpoint reachable
