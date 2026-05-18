@@ -47,3 +47,5 @@
 
 - [ ] [2026-05-18] [latti][info] LATTI-ACTIVITY: training log updated memories table grew +119 (now 119) | ctx: {"timestamp": "2026-04-26T19:20:37.062135+00:00Z", "scar": "scar_verbose_identity", "correction": "Be more concise, less self-referential", "context":
 
+
+- [ ] [2026-05-18] [test-harness][dispatch] kernel-200 path test 1779136809
