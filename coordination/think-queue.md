@@ -62,3 +62,5 @@
 - [?] [2026-05-18] SYNTHESIS-PROPOSED: [synthesis][kernel][graphify] score=0.96 — God node `logAudit()` in the `verra-kernel` graph has 139 edges (file: `src/observe/audit.ts`). It is the most-connected node in its graph but has no wiki page. `graphify query 'logAudit()'` gives its
 
 - [?] [2026-05-18] SYNTHESIS-PROPOSED: [synthesis][pi_extensions][synthesis] score=0.94 — Milkyway knows 'Decision criterion (instead-of)' from domain `pi_extensions`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779080465893
