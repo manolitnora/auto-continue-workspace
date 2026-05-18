@@ -64,6 +64,6 @@
   <!-- bridge: sim=0.3352, shared=['already', 'appended', 'auto'], domains=('kernel', 'physics') -->
 
 
-- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement any missing tests. Real coverage — not just happy-path, but error paths, malformed payloa
+- [x] CLOSED (2026-05-19, shipped — see preceding closures). Original: [2026-05-18] kernel-dispatch-cov dupe #3.
 
-- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement missing tests. Goal is real coverage — not just happy-path, but error paths, malformed pa
+- [x] CLOSED (2026-05-19, shipped — see preceding closures). Original: [2026-05-18] kernel-dispatch-cov dupe #4.
