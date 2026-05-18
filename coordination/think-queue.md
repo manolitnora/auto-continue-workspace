@@ -75,3 +75,7 @@
 - [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779122669915
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779123628052
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779125523010
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779125586317
