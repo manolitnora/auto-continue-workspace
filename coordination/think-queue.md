@@ -63,3 +63,5 @@
 - [ ] [self][want][high] WANT-GEN 2026-05-19 00:00: The kernel behavior '*Milkyway internal feedback. Sessions touched: 6 (2026-04-23 → 2026-04-26). Base' and the physics claim '*Milkyway internal feedback. Sessions touched: 2 (2026-04-23 → 2026-04-25). Base' both involve 'already'. Jacob Barendes showed that classical indivisible stochastic processes ARE quantum mechanics in a different representation. Is the kernel's session-boundary structure (division events, not resets) the same mathematical object as decoherence in his picture — and if so, what does that predict about cross-session memory coherence?
   <!-- bridge: sim=0.3352, shared=['already', 'appended', 'auto'], domains=('kernel', 'physics') -->
 
+
+- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement any missing tests. Real coverage — not just happy-path, but error paths, malformed payloa
