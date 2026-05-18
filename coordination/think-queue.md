@@ -49,4 +49,4 @@
 
 
 
-- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-coverage (role=pipeline) — Scout, then implement: audit the verra-kernel test suite for coverage gaps on the /dispatch endpoint, then add any missing tests. **Repo:** ~/V5/verra-kernel **Context:** - Kernel exposes `/dispatch` POST endpoint (src/server/index.ts or similar) - `tests/httpSurface.test.ts` has ~16 live-kernel i
+- [?] [2026-05-18] REACTOR-PARKED: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-coverage (role=pipeline) — Scout, then implement: audit the verra-kernel test suite for coverage gaps on the /dispatch endpoint, then add any missing tests. **Repo:** ~/V5/verra-kernel **Context:** - Kernel exposes `/dispatch` POST endpoint (src/server/index.ts or similar) - `tests/httpSurface.test.ts` has ~16 live-kernel i
