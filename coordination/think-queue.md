@@ -69,3 +69,5 @@
 - [x] CLOSED (2026-05-19, dupe; commits 10e7615/d7ae084/8cbb2a2). Original: [2026-05-18] kernel-dispatch-cov dupe #4.
 
 - [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] barendes-decoherence (role=pipeline) — TASK: Think-queue ticket — Barendes / kernel session boundaries / decoherence analogy. TICKET TEXT: "The kernel behavior '*Milkyway internal feedback. Sessions touched: 6 (2026-04-23 → 2026-04-26). Base' and the physics claim '*Milkyway internal feedback. Sessions touched: 2 (2026-04-23 → 2026-04-2
+
+- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] barendes-decoherence (role=pipeline) — TASK: Analyze the Barendes/decoherence analogy and write a short analysis document. CONTEXT: Jacob Barendes showed that classical indivisible stochastic processes ARE quantum mechanics in a different representation. The verra-kernel uses "session boundaries" as division events (not resets) — cross-
