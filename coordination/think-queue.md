@@ -54,9 +54,9 @@
 - [?] [2026-05-18] REACTOR-PARKED: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — Scout, then implement: audit the verra-kernel test suite for coverage gaps on the /dispatch endpoint, then add any missing tests. **Repo:** ~/V5/verra-kernel **Context:** - Kernel exposes `/dispatch` POST endpoint (src/server/index.ts or similar) - `tests/httpSurface.test.ts` has ~16 live-kernel i
 
 
-- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement any missing tests. The goal is real coverage — not just happy-path, but error paths, malf
+- [x] CLOSED (2026-05-19, shipped — commits 10e7615, d7ae084, 8cbb2a2 on verra-kernel; tests/dispatchHandler.test.ts + tests/dispatchValidation.test.ts live; test:http 60/60). Original: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — Audit /dispatch coverage, error/malformed paths.
 
-- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement any missing tests. Goal is real coverage — not just happy-path, but error paths, malforme
+- [x] CLOSED (2026-05-19, shipped — see preceding closure). Original: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov dupe #2.
 
 ## WANT GENERATOR — Curiosity-driven questions
 
@@ -65,3 +65,5 @@
 
 
 - [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement any missing tests. Real coverage — not just happy-path, but error paths, malformed payloa
+
+- [ ] [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — ## Task: Audit and expand verra-kernel /dispatch endpoint test coverage **Repo:** ~/V5/verra-kernel **Intent:** Scout the existing test suite for coverage gaps on the `/dispatch` POST endpoint, then implement missing tests. Goal is real coverage — not just happy-path, but error paths, malformed pa
