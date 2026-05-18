@@ -64,3 +64,13 @@
 - [?] [2026-05-18] SYNTHESIS-PROPOSED: [synthesis][pi_extensions][synthesis] score=0.94 — Milkyway knows 'Decision criterion (instead-of)' from domain `pi_extensions`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779080465893
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779080546276
+
+- [?] [2026-05-18] REACTOR-PARKED: [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779080546277
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779080651088
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779080692580
+
+- [x] CLOSED (httpSurface.test fixture): [2026-05-18] [httpSurface.test][dispatch] httpSurface.test smoke 1779080736236
