@@ -54,9 +54,9 @@
 - [?] [2026-05-18] REACTOR-PARKED: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — Scout, then implement: audit the verra-kernel test suite for coverage gaps on the /dispatch endpoint, then add any missing tests. **Repo:** ~/V5/verra-kernel **Context:** - Kernel exposes `/dispatch` POST endpoint (src/server/index.ts or similar) - `tests/httpSurface.test.ts` has ~16 live-kernel i
 
 
-- [x] CLOSED (2026-05-19, shipped — commits 10e7615, d7ae084, 8cbb2a2 on verra-kernel; tests/dispatchHandler.test.ts + tests/dispatchValidation.test.ts live; test:http 60/60). Original: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — Audit /dispatch coverage, error/malformed paths.
+- [x] CLOSED (2026-05-19, prior session work present in commits 10e7615/d7ae084/8cbb2a2 of verra-kernel and files tests/dispatchHandler.test.ts + tests/dispatchValidation.test.ts; this session did not re-run npm test:http). Original: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov (role=pipeline) — Audit /dispatch coverage, error/malformed paths.
 
-- [x] CLOSED (2026-05-19, shipped — see preceding closure). Original: [2026-05-18] [consciousness-spawn-subagent][dispatch] kernel-dispatch-cov dupe #2.
+- [x] CLOSED (2026-05-19, dupe of preceding entry; same commit refs 10e7615/d7ae084/8cbb2a2). Original: [2026-05-18] kernel-dispatch-cov dupe #2.
 
 ## WANT GENERATOR — Curiosity-driven questions
 
