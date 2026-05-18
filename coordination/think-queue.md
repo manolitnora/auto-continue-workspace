@@ -38,3 +38,7 @@
 - [ ] [2026-05-18] [dream][dispatch] [high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [ ] [2026-05-18] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+
+- [ ] [2026-05-18] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+
+- [ ] [2026-05-18] [dream][dispatch] [high] DREAM-PROPOSED: ## Tomorrow — the one thing
