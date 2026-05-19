@@ -99,3 +99,5 @@
 - [ ] [2026-05-19] [insights-daemon-synth][dispatch] synth model=claude-haiku-4-5 budget=0.10 prompt_bytes=2968 timeout=120s
 
 - [ ] [2026-05-19] [insights-daemon-synth][dispatch] synth model=claude-haiku-4-5 budget=0.10 prompt_bytes=2907 timeout=120s
+
+- [ ] [2026-05-19] [consciousness-spawn-subagent][dispatch] kernel-test-gap (role=pipeline) — ## Task: Find and fix the most concrete test gap in the verra-kernel runtime substrate **Goal:** Runtime-first substrate — kernel is the canonical surface, browser + cron + CC are equal clients. Dream synthesis flagged "test" (×18 mentions) circling an unnamed connection. Find the most concrete, bo
