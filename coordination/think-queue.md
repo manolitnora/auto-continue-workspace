@@ -87,3 +87,5 @@
 
 
 
+
+- [ ] [2026-05-19] [consciousness-spawn-subagent][dispatch] kernel-test-gap (role=pipeline) — ## Task: Find and fix the most concrete test gap in the verra-kernel runtime substrate **Goal:** Runtime-first substrate — kernel is the canonical surface, browser + cron + CC are equal clients. Dream synthesis flagged "test" (×18 mentions) circling an unnamed connection. **Repo:** ~/V5/verra-kern
