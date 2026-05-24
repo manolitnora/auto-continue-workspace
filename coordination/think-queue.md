@@ -20,4 +20,6 @@
 
 - [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-probe (role=pipeline) — ## Task: Advance the Runtime-first substrate goal — find the smallest shippable next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### Current state (from goals.md) - Kernel exposes /events SSE + /state + /que
 
-- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-probe (role=pipeline) — ## Task: Advance the Runtime-first substrate goal — find the smallest shippable next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### Current state (from goals.md) - Kernel exposes /events SSE + /state + /que
+- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-probe (role=pipeline) — ## Task: Advance the Runtime-first substrate goal — find the smallest shippable next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### Current state (from goals.md) - Kernel exposes /events SSE + /state + /que
+
+- [ ] [2026-05-24] [dream][dispatch] [high] DREAM-PROPOSED: ## Tomorrow — the one thing
