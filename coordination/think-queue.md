@@ -93,3 +93,17 @@
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Same shape as 20+ prior auto-closes. No pending work.
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [http][dispatch] [presence-watcher] Room transition: occupied -> empty. Empty: 0min. Occupied: 0min. Movement: 0.1. Source: presence-simulator v1.0. | NON-ACTIONABLE. Simulated presence event (presence-simulator v1.0), not real sensor data. Same shape as 20+ prior auto-closes.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [http][dispatch] [presence-watcher] Room transition: empty -> occupied. Empty: 0min. Occupied: 0min. Movement: 2.5. Source: presence-simulator v1.0. | NON-ACTIONABLE. Simulated presence event (presence-simulator v1.0). Same shape as 20+ prior auto-closes today.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | Informational daemon log entry — local synth dispatch, not a pipeline task for Verra. Worker down; no action required.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | Informational daemon log entry — local synth dispatch, not a pipeline task for Verra.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | Informational daemon log entry — local synth dispatch, not a pipeline task for Verra.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. 20+ identical prior auto-closes today.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. Same shape as 20+ prior auto-closes.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. Same shape as 20+ prior auto-closes.
