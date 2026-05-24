@@ -42,11 +42,7 @@
 
 - [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=daemon:58f781f15c3f | ALREADY-EXECUTED. wire-dream-to-candidates.py ran at 2026-05-24T03:30:42Z against dream-latest.md (mtime=1779585602, matches ticket dream); ollama returned NONE → 0 candidates qualified. Ticket was the dispatch_via_kernel side-effect of that successful run, not pending work. State.last_mtime advanced; idempotent on re-run. R3 flag: 3 days running (May 22 unparseable, May 23 unparseable, May 24 NONE) — dream-extraction is currently bouncing. Worth investigating separately whether ollama prompt is mis-calibrated or library has saturated extractable patterns.
 
-- [ ] [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED  — [KERNEL WAKE — PREDATOR]
+- [x] [2026-05-24] AUTO-CLOSED: [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED | FIXED. Root cause: cron's stripped PATH (/usr/bin:/bin) resolved `python3` → /usr/bin/python3 3.9.6, which lacks PEP 604 `dict | None` syntax used in validate.py:116. Same shape as prior /usr/bin → /opt/homebrew migration but inside a bash wrapper, not a crontab entry. Fix: prepended `export PATH="/opt/homebrew/bin:$PATH"` to verify_cron.sh. Verified under cron env (env -i HOME=… PATH=/usr/bin:/bin): step 3 ✅ All checks pass, step 5 dashboard.json 8039 bytes, step 6 clean — no alerts.
 
-I detected this: External world-state change: verify_cron: 1 degradation a
-
-I detected this: External world-state change: verify_cron: 1 degradation a
-
-- [ ] [2026-05-24] [autonomous-think][dispatch] [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED  — [KERNEL WAKE — PREDATOR]
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [autonomous-think][dispatch] [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED | DUPLICATE — same predator fire as the entry above; closed by the same fix.
 
