@@ -46,3 +46,9 @@
 
 - [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [autonomous-think][dispatch] [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED | DUPLICATE — same predator fire as the entry above; closed by the same fix.
 
+
+- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+
+- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+
+- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
