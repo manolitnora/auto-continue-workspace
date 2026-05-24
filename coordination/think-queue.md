@@ -1,11 +1,11 @@
 
-- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3429 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=3429 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target — same shape as already-closed double-dispatch noise.
 
-- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=3060 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target.
 
-- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=2817 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target.
 
-- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=2907 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target. Closing the leak: 4 REACTOR-PARKED items with `[?]` status kept re-firing the want-loop because nothing dequeued them.
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] feedback-braid-stub-fix (role=pipeline) — ## Task: Fix stubs in feedback_braid_commit_turn_architecture.md ### Context File: ~/.claude/memory/feedback_braid_commit_turn_architecture.md The wants-latest.md flagged this file as containing stubs — session marked "done" with no-ops. ### Mission 1. Read ~/.claude/memory/feedback_braid_commit_t | NO_VIABLE_FIX. File already SUPERSEDED 2026-05-17. Stub match was historical scar prose, not live stub.
 
