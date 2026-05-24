@@ -75,4 +75,5 @@
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. Same shape as 20+ prior auto-closes.
 
-- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. Same shape as 20+ prior auto-closes.
+
