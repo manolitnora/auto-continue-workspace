@@ -62,3 +62,5 @@
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [http][dispatch] [presence-watcher] Room transition: empty -> occupied. Empty: 0min. Occupied: 0min. Movement: 3.5. Source: presence-simulator v1.0. | NON-ACTIONABLE. Simulated presence event (presence-simulator v1.0), not real sensor data. Same shape as auto-closed observability logs.
 
 - [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] dream-extract-fix (role=pipeline) — ## Task: Fix dream-extraction bounce in wire-dream-to-candidates.py ### Context `~/.claude/scripts/wire-dream-to-candidates.py` has returned NONE/unparseable for 3 consecutive days (May 22, 23, 24). The script runs nightly via cron, reads `~/.claude/dream-latest.md`, sends a prompt to ollama (qwen2
+
+- [ ] [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=autonomous:a74595784de6
