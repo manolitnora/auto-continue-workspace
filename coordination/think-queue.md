@@ -22,7 +22,7 @@
 
 - [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-probe (role=pipeline) — ## Task: Advance the Runtime-first substrate goal — find the smallest shippable next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### Current state (from goals.md) - Kernel exposes /events SSE + /state + /que
 
-- [ ] [2026-05-24] [dream][dispatch] [high] DREAM-PROPOSED: ## Tomorrow — the one thing
+- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [dream][dispatch] [high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [check-submission-status][dispatch] [external][physics][high] FoP check: 51 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d) | Flagged to user via Telegram — external portal, manual check required.
 
