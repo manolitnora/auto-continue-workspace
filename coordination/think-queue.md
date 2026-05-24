@@ -52,3 +52,13 @@
 - [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log re-emitted by insights-daemon.py:609. Daemon already synthed.
 
 - [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log re-emitted by insights-daemon.py:609. Daemon already synthed.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. Same shape as prior auto-closes.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [http][dispatch] [presence-watcher] Room transition: empty -> occupied. Empty: 0min. Occupied: 0min. Movement: 3.5. Source: presence-simulator v1.0. | NON-ACTIONABLE. Simulated presence event (presence-simulator v1.0), not real sensor data. Same shape as auto-closed observability logs.
+
+- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] dream-extract-fix (role=pipeline) — ## Task: Fix dream-extraction bounce in wire-dream-to-candidates.py ### Context `~/.claude/scripts/wire-dream-to-candidates.py` has returned NONE/unparseable for 3 consecutive days (May 22, 23, 24). The script runs nightly via cron, reads `~/.claude/dream-latest.md`, sends a prompt to ollama (qwen2
