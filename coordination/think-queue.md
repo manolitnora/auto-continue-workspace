@@ -5,9 +5,9 @@
 
 - [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
 
-- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
 
-- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] feedback-braid-stub-fix (role=pipeline) — ## Task: Fix stubs in feedback_braid_commit_turn_architecture.md ### Context File: ~/.claude/memory/feedback_braid_commit_turn_architecture.md The wants-latest.md flagged this file as containing stubs — session marked "done" with no-ops. ### Mission 1. Read ~/.claude/memory/feedback_braid_commit_t
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] feedback-braid-stub-fix (role=pipeline) — ## Task: Fix stubs in feedback_braid_commit_turn_architecture.md ### Context File: ~/.claude/memory/feedback_braid_commit_turn_architecture.md The wants-latest.md flagged this file as containing stubs — session marked "done" with no-ops. ### Mission 1. Read ~/.claude/memory/feedback_braid_commit_t | NO_VIABLE_FIX. File already SUPERSEDED 2026-05-17. Stub match was historical scar prose, not live stub.
 
 ## WANT GENERATOR — Curiosity-driven questions
 
@@ -16,4 +16,4 @@
 
 - [ ] [2026-05-24] [autonomous-think][dispatch] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
 
-- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] feedback-braid-stub-fix (role=pipeline) — ## Task: Fix stubs in feedback_braid_commit_turn_architecture.md ### Context File: ~/.claude/memory/feedback_braid_commit_turn_architecture.md The wants-latest.md flagged this file as containing stubs — session marked "done" with no-ops. ### Mission 1. Read ~/.claude/memory/feedback_braid_commit_
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] feedback-braid-stub-fix (role=pipeline) — ## Task: Fix stubs in feedback_braid_commit_turn_architecture.md ### Context File: ~/.claude/memory/feedback_braid_commit_turn_architecture.md The wants-latest.md flagged this file as containing stubs — session marked "done" with no-ops. ### Mission 1. Read ~/.claude/memory/feedback_braid_commit_ | NO_VIABLE_FIX. File already SUPERSEDED 2026-05-17. Stub match was historical scar prose, not live stub.
