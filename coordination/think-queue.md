@@ -61,8 +61,10 @@
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [http][dispatch] [presence-watcher] Room transition: empty -> occupied. Empty: 0min. Occupied: 0min. Movement: 3.5. Source: presence-simulator v1.0. | NON-ACTIONABLE. Simulated presence event (presence-simulator v1.0), not real sensor data. Same shape as auto-closed observability logs.
 
-- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] dream-extract-fix (role=pipeline) — ## Task: Fix dream-extraction bounce in wire-dream-to-candidates.py ### Context `~/.claude/scripts/wire-dream-to-candidates.py` has returned NONE/unparseable for 3 consecutive days (May 22, 23, 24). The script runs nightly via cron, reads `~/.claude/dream-latest.md`, sends a prompt to ollama (qwen2
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] dream-extract-fix (role=pipeline) — ## Task: Fix dream-extraction bounce in wire-dream-to-candidates.py ### Context `~/.claude/scripts/wire-dream-to-candidates.py` has returned NONE/unparseable for 3 consecutive days (May 22, 23, 24). The script runs nightly via cron, reads `~/.claude/dream-latest.md`, sends a prompt to ollama (qwen2 | SHIPPED 2fe1b09. Fallback extractor added. 1/1 acceptance test. redteam 0 severe. Ollama still NONE (library saturation); fallback pulls from ## Tomorrow section.
 
-- [ ] [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=autonomous:a74595784de6
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=autonomous:a74595784de6 | NON-ACTIONABLE. Side-effect dispatch from wire-dream-to-candidates run. Same shape as prior auto-closes.
 
-- [ ] [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=autonomous:3041d28c44e9
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=autonomous:3041d28c44e9 | NON-ACTIONABLE. Side-effect dispatch duplicate. Same run as sibling ticket.
+
+- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-next (role=pipeline) — ## Task: Advance "Runtime-first substrate" goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### What's already shipped - Kernel exposes /events SSE + /state + /queue + /disp
