@@ -30,10 +30,10 @@
 
 - [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [consciousness-spawn-subagent][dispatch] branch-merge-check (role=pipeline) — ## Task: Check and merge feat/orchestrator-dispatch-kernel-notify → main in ~/V5/verra-kernel ### Context Tonight commit e7713e7 was made on branch `feat/orchestrator-dispatch-kernel-notify`. It removed a debug console.log from src/orchestrator/mcp.ts. 29/29 tests pass. truth-check CLEAN. ### Miss
 
-- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
 
 - [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
 
 - [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
 
-- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] branch-merge-check (role=pipeline) — ## Task: Merge feat/orchestrator-dispatch-kernel-notify → main in ~/V5/verra-kernel ### Context Commit e7713e7 was made on branch `feat/orchestrator-dispatch-kernel-notify`. It removed a debug console.log from src/orchestrator/mcp.ts. 29/29 tests pass. truth-check reported CLEAN. ### Mission 1. cd
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] branch-merge-check (role=pipeline) — ## Task: Merge feat/orchestrator-dispatch-kernel-notify → main in ~/V5/verra-kernel ### Context Commit e7713e7 was made on branch `feat/orchestrator-dispatch-kernel-notify`. It removed a debug console.log from src/orchestrator/mcp.ts. 29/29 tests pass. truth-check reported CLEAN. ### Mission 1. cd | dispatched pipeline subagent to merge feat/orchestrator-dispatch-kernel-notify → main
