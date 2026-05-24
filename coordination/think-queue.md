@@ -30,9 +30,9 @@
 
 - [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [consciousness-spawn-subagent][dispatch] branch-merge-check (role=pipeline) — ## Task: Check and merge feat/orchestrator-dispatch-kernel-notify → main in ~/V5/verra-kernel ### Context Tonight commit e7713e7 was made on branch `feat/orchestrator-dispatch-kernel-notify`. It removed a debug console.log from src/orchestrator/mcp.ts. 29/29 tests pass. truth-check CLEAN. ### Miss
 
-- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — insights-daemon-synth dispatch is an observability log emitted by synth_call() in insights-daemon.py:609 before each ollama synth. The daemon already synthed (library/*.yaml updated 06:00/06:26/06:30); ticket is a side-effect of completed work. Same shape as prior auto-closes (3429/3060/2817/2907).
 
-- [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log of completed synth (library/*.yaml updated 06:00/06:26/06:30). Side-effect of insights-daemon.py:609 dispatch_via_kernel call.
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | DROPPED. No prompt payload — insights-daemon metadata stub, same shape as auto-closed siblings (3429/3060/2817). Not actionable.
 
