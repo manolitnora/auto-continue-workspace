@@ -71,7 +71,7 @@
 
 
 
-- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] substrate-next-2 (role=pipeline) — ## Task: Advance "Runtime-first substrate" goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### What's already shipped (do NOT re-do these) - Kernel exposes /events SSE + /s
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] substrate-next-2 (role=pipeline) — ## Task: Advance "Runtime-first substrate" goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### What's already shipped (do NOT re-do these) - Kernel exposes /events SSE + /s | dispatched pipeline subagent substrate-next-2 to find + ship next runtime-substrate step
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. Same shape as 20+ prior auto-closes.
 
@@ -83,3 +83,5 @@
 - [x] CLOSED (httpSurface.test fixture): [2026-05-24] [browser-spec][dispatch] httpSurface.test spec body 1779611877322 [files=1 tests=1 repo=~/V5/verra-kernel]
 
 - [x] CLOSED (httpSurface.test fixture): [2026-05-24] [httpSurface.test][dispatch] httpSurface.test dispatch-to-ring 1779611877340-31322
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] substrate-next-2 (role=pipeline) — ## Task: Advance "Runtime-first substrate" goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### What's already shipped (do NOT re-do these) - Kernel exposes /events SSE + /s | dispatched pipeline subagent substrate-next-2 to find + ship next runtime-substrate step
