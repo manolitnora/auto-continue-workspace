@@ -34,8 +34,8 @@
 
 - [?] [2026-05-24] REACTOR-PARKED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
 
-- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | DROPPED. No prompt payload — insights-daemon metadata stub, same shape as auto-closed siblings (3429/3060/2817). Not actionable.
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] branch-merge-check (role=pipeline) — ## Task: Merge feat/orchestrator-dispatch-kernel-notify → main in ~/V5/verra-kernel ### Context Commit e7713e7 was made on branch `feat/orchestrator-dispatch-kernel-notify`. It removed a debug console.log from src/orchestrator/mcp.ts. 29/29 tests pass. truth-check reported CLEAN. ### Mission 1. cd | dispatched pipeline subagent to merge feat/orchestrator-dispatch-kernel-notify → main
 
-- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-probe (role=pipeline) — ## Task: Advance the Runtime-first substrate goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### Current state (from think-queue ticket) Kernel exposes /events SSE + /state
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-probe (role=pipeline) — ## Task: Advance the Runtime-first substrate goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### Current state (from think-queue ticket) Kernel exposes /events SSE + /state | SHIPPED 09451a5. /health ok+did contract fixed. 77/77 tests.
