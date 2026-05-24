@@ -27,3 +27,5 @@
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [check-submission-status][dispatch] [external][physics][high] FoP check: 51 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d) | Flagged to user via Telegram — external portal, manual check required.
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [check-submission-status][dispatch] [external][physics][high] FoP check: 51 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d) | Flagged to user via Telegram — external portal, manual check required.
+
+- [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] branch-merge-check (role=pipeline) — ## Task: Check and merge feat/orchestrator-dispatch-kernel-notify → main in ~/V5/verra-kernel ### Context Tonight commit e7713e7 was made on branch `feat/orchestrator-dispatch-kernel-notify`. It removed a debug console.log from src/orchestrator/mcp.ts. 29/29 tests pass. truth-check CLEAN. ### Miss
