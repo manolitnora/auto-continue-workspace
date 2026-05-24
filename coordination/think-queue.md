@@ -47,8 +47,8 @@
 - [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [autonomous-think][dispatch] [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED | DUPLICATE — same predator fire as the entry above; closed by the same fix.
 
 
-- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log re-emitted by insights-daemon.py:609 every synth tick. Daemon ran autonomously (library/*.yaml mtime 06:30); ticket is side-effect, not pending work.
 
-- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log re-emitted by insights-daemon.py:609. Daemon already synthed.
 
-- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log re-emitted by insights-daemon.py:609. Daemon already synthed.
