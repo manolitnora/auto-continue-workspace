@@ -41,3 +41,9 @@
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-probe (role=pipeline) — ## Task: Advance the Runtime-first substrate goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### Current state (from think-queue ticket) Kernel exposes /events SSE + /state | SHIPPED 09451a5. /health ok+did contract fixed. 77/77 tests.
 
 - [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=daemon:58f781f15c3f | ALREADY-EXECUTED. wire-dream-to-candidates.py ran at 2026-05-24T03:30:42Z against dream-latest.md (mtime=1779585602, matches ticket dream); ollama returned NONE → 0 candidates qualified. Ticket was the dispatch_via_kernel side-effect of that successful run, not pending work. State.last_mtime advanced; idempotent on re-run. R3 flag: 3 days running (May 22 unparseable, May 23 unparseable, May 24 NONE) — dream-extraction is currently bouncing. Worth investigating separately whether ollama prompt is mis-calibrated or library has saturated extractable patterns.
+
+- [ ] [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED  — [KERNEL WAKE — PREDATOR]
+
+I detected this: External world-state change: verify_cron: 1 degradation a
+
+- [ ] [2026-05-24] [autonomous-think][dispatch] [CRITICAL][kernel-wake][predator] verify_cron: 1 degradation alert(s) — ⚠️  VALIDATION FAILED  — [KERNEL WAKE — PREDATOR]
