@@ -68,3 +68,4 @@
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3003 author=autonomous:3041d28c44e9 | NON-ACTIONABLE. Side-effect dispatch duplicate. Same run as sibling ticket.
 
 - [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] runtime-substrate-next (role=pipeline) — ## Task: Advance "Runtime-first substrate" goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### What's already shipped - Kernel exposes /events SSE + /state + /queue + /disp
+
