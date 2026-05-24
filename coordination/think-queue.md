@@ -72,3 +72,5 @@
 
 
 - [ ] [2026-05-24] [consciousness-spawn-subagent][dispatch] substrate-next-2 (role=pipeline) — ## Task: Advance "Runtime-first substrate" goal — find and ship the smallest next step ### Goal Runtime-first substrate: kernel is the canonical surface, browser + cron + CC are equal clients. Repo: ~/V5/verra-kernel ### What's already shipped (do NOT re-do these) - Kernel exposes /events SSE + /s
+
+- [ ] [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
