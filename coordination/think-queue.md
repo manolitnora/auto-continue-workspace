@@ -145,7 +145,7 @@ ch with no real action target.
 
 - [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3004 author=daemon:9466f29ef7cc
 
-- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+- [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
 
 - [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
 
