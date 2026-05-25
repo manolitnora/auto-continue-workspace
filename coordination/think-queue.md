@@ -68,10 +68,12 @@
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=autonomous:1e63af082fce fires=4 commits=0 | NO_VIABLE_FIX. No session extractor script found — same root cause as all session-extract tickets.
 
-- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=autonomous:2ab22463c159 fires=4 commits=0
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=autonomous:2ab22463c159 fires=4 commits=0 | NO_VIABLE_FIX. Same root cause as all prior session-extract tickets — no session extractor script found.
 
-- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] session-extract-2ab (role=claude-p) — ## Task: Handle session-insight-extractor ticket for autonomous:2ab22463c159 **Ticket:** `[session-insight-extractor][dispatch] session-extract author=autonomous:2ab22463c159 fires=4 commits=0` This is the last open ticket in ~/.claude/think-queue.md. Previous similar tickets were marked NO_VIABLE
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] session-extract-2ab (role=claude-p) — ## Task: Handle session-insight-extractor ticket for autonomous:2ab22463c159 **Ticket:** `[session-insight-extractor][dispatch] session-extract author=autonomous:2ab22463c159 fires=4 commits=0` This is the last open ticket in ~/.claude/think-queue.md. Previous similar tickets were marked NO_VIABLE | NO_VIABLE_FIX. Same root cause as all prior session-extract tickets — no session extractor script found.
 
-- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:831a62370664 fires=4 commits=0
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:831a62370664 fires=4 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause as all prior tickets.
 
-- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=autonomous:356d7cf9e839 fires=4 commits=0
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=autonomous:356d7cf9e839 fires=4 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:9836d84289bc fires=4 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause.
