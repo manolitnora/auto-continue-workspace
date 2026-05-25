@@ -88,12 +88,27 @@
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NO_VIABLE_FIX. Ollama not installed — same root cause.
 
-- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-write-wire (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-write-wire (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr | Deduped. Single ingest-wire-final subagent dispatched to handle this work.
 
-- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:d3d9b4818071 fires=5 commits=0
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:d3d9b4818071 fires=5 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause as 10+ prior session-extract tickets.
 
-- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:349eb6cd64ec fires=5 commits=0
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:349eb6cd64ec fires=5 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause as 10+ prior session-extract tickets.
 
-- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:737b70a0320c fires=5 commits=0
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:737b70a0320c fires=5 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause.
 
-- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:c246c2926833 fires=5 commits=0
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:c246c2926833 fires=5 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:92fdc9d9923f fires=5 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-write-wire (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr | Deduped. Single ingest-wire-final subagent dispatched to handle this work.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-wire (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr | Deduplicated. Single ingest-wire-live subagent dispatched (credits now restored).
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-wire-v3 (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr | Deduplicated. ingest-wire-live subagent handles this.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-wire-v4 (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr | Deduplicated. ingest-wire-live subagent handles this.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] session-extractor (role=claude-p) — ## Task: Session insight extraction — batch **Repo:** ~/V5/verra-kernel ### Context Five session-insight-extractor tickets are queued. Each references a user_session author with fires=5, commits=0. The goal is to extract insights from these sessions and write them to the appropriate insight log or | NO_VIABLE_FIX. 10+ identical session-extract tickets all closed — no session extractor script exists. Pattern settled.
+
+- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-wire-final (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr
+
