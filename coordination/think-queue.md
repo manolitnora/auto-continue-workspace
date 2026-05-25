@@ -80,4 +80,12 @@
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:205712029340 fires=4 commits=0 | NO_VIABLE_FIX. Same root cause as all prior session-extract tickets — no session extractor script exists. Pattern: 10+ identical tickets all NO_VIABLE_FIX.
 
-- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NO_VIABLE_FIX. Ollama not installed — same root cause as 10+ prior synth tickets.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:11cc9875e1ed fires=4 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause as 10+ prior session-extract tickets.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NO_VIABLE_FIX. Ollama not installed — same root cause.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NO_VIABLE_FIX. Ollama not installed — same root cause.
+
+- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-write-wire (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr
