@@ -89,3 +89,5 @@
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NO_VIABLE_FIX. Ollama not installed — same root cause.
 
 - [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-write-wire (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at :8400 and exposes a POST `/events/ingest` endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists in the server code but NO live wr
+
+- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:d3d9b4818071 fires=5 commits=0
