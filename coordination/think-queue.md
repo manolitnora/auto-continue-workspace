@@ -15,3 +15,5 @@
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] credit-surface (role=claude-p) — ## Task: Surface OpenRouter credit/spend/remaining in kernel live-state **Repo:** ~/V5/verra-kernel ### Context The verra-kernel daemon runs at ~/V5/verra-kernel and exposes HTTP endpoints at :8400 (/state, /events SSE, /queue, /dispatch). The kernel's `get_self_state` introspection returns daily | dispatched as spawn_subagent credit-surface (claude-p)
 
+
+- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-write-surface (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel **Context:** The verra-kernel daemon at :8400 exposes a POST /events/ingest endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists but NO live write path currently uses it —
