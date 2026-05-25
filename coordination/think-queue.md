@@ -130,5 +130,9 @@ ch with no real action target.
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. 30+ identical auto-closes. No pending work.
 
-- [ ] [2026-05-25] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
+- [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
+
+- [ ] [2026-05-25] [check-submission-status] [external][physics][high] FoP check: 52 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+
+- [ ] [2026-05-25] [check-submission-status] [external][physics][high] FoP check: 52 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
