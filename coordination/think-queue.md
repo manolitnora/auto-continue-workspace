@@ -133,6 +133,12 @@ ch with no real action target.
 - [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [dream][high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
 
-- [ ] [2026-05-25] [check-submission-status] [external][physics][high] FoP check: 52 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+- [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [check-submission-status] [external][physics][high] FoP check: 52 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
 
-- [ ] [2026-05-25] [check-submission-status] [external][physics][high] FoP check: 52 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+- [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [check-submission-status] [external][physics][high] FoP check: 52 days in Technical Check. Manual check needed: https://link.springernature.com/home/?tab=submitted (ID: e469169d)
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Daemon already ran. 30+ identical auto-closes prior. No pending work.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Same shape as 30+ prior auto-closes. No pending work.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. Same shape as 30+ prior auto-closes. No pending work.
