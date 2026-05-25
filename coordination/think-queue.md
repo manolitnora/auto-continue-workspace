@@ -17,3 +17,9 @@
 
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] ingest-write-surface (role=claude-p) — ## Task: Wire live write paths to /events/ingest on verra-kernel **Repo:** ~/V5/verra-kernel **Context:** The verra-kernel daemon at :8400 exposes a POST /events/ingest endpoint that accepts events and broadcasts them to SSE clients. This endpoint exists but NO live write path currently uses it — | BLOCKED. OpenRouter credits exhausted — both claude-p worker and orchestrator coder-claude.sh fail. User notified 2x. Task needs retry after top-up.
+
+- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+
+- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+
+- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
