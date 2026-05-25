@@ -37,3 +37,7 @@
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] barendes-decoherence (role=claude-p) — ## Task: Analyze Barendes session-boundary / decoherence equivalence Write a concrete analysis (~600 words) to ~/.claude/analysis/barendes-session-decoherence-2026-05-25.md ### The question Jacob Barendes showed that classical indivisible stochastic processes ARE quantum mechanics in a different r | dispatched as barendes-decoherence subagent (claude-p) — running
 
 
+
+- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] barendes-check (role=claude-p) — Check if file exists: ~/.claude/analysis/barendes-session-decoherence-2026-05-25.md If it exists: read it and write a 2-line summary to ~/.claude/analysis/barendes-check-result.txt If it does NOT exist: write the full analysis yourself. The question: Jacob Barendes showed that classical indivisib
+
+- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] synth-check (role=claude-p) — ## Task: Investigate + close 3 open insights-daemon-synth tickets Check ~/.claude/think-queue.md for the 3 open `[insights-daemon-synth][dispatch]` tickets. Each says: synth model=qwen2.5-coder:14b (local) prompt_bytes=3060/2817/2907 timeout=120s 1. Read ~/.claude/scripts/insights-daemon.py (or wh
