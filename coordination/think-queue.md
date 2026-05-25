@@ -8,3 +8,5 @@
 - [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
 
 - [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+
+- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] feedback-braid-fix (role=pipeline) — REPO: ~/V5/verra-kernel INTENT: Audit and fix every stub/no-op/TODO/placeholder in the feedback_braid_commit_turn architecture in verra-kernel. This is a Hard Way violation — session marked "done" with no-ops in place. STEPS: 1. Find feedback_braid_commit_turn architecture files: search for "feedb
