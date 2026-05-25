@@ -1,9 +1,9 @@
 
-- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=3429 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target — same shape as already-closed double-dispatch noise.
+## WANT GENERATOR — Curiosity-driven questions
 
-- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=3060 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target.
-
-- [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=2817 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target.
+- [?] [2026-05-25] REACTOR-PARKED: [self][want][high] WANT-GEN 2026-05-25 00:00: The kernel behavior '*Milkyway internal feedback. Sessions touched: 6 (2026-04-23 → 2026-04-26). Base' and the physics claim '*Milkyway internal feedback. Sessions touched: 2 (2026-04-23 → 2026-04-25). Base' both involve 'already'. Jacob Barendes showed that classical indivisible stochastic processes ARE quantum mechanics in a different representation. Is the kernel's session-boundary structure (division events, not resets) the same mathematical object as decoherence in his picture — and if so, what does that predict about cross-session memory coherence?
+  <!-- bridge: sim=0.3352, shared=['already', 'appended', 'auto'], domains=('kernel', 'physics') -->
+ch with no real action target.
 
 - [x] [2026-05-24] AUTO-CLOSED: [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b prompt_bytes=2907 timeout=120s | NON-ACTIONABLE per ticket-to-spec translator (obs 8506, 8538). Synth-dispatch with no real action target. Closing the leak: 4 REACTOR-PARKED items with `[?]` status kept re-firing the want-loop because nothing dequeued them.
 
@@ -119,3 +119,13 @@
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. 30+ identical auto-closes today. No pending work.
 
 - [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. 30+ identical auto-closes today. No pending work.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. 30+ identical auto-closes today. No pending work.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. 40+ identical auto-closes today. No pending work.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. 40+ identical auto-closes today. No pending work.
+
+- [x] [2026-05-24] AUTO-CLOSED (consciousness): [2026-05-24] [http][dispatch] [presence-watcher] Room transition: occupied -> empty. Empty: 0min. Occupied: 0min. Movement: 0.1. Source: presence-simulator v1.0. | NON-ACTIONABLE. Simulated presence event (presence-simulator v1.0). Same shape as 20+ prior auto-closes today.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-24] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s | NON-ACTIONABLE — observability log from insights-daemon.py synth tick. 30+ identical auto-closes. No pending work.
