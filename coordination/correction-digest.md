@@ -1,4 +1,4 @@
-# Correction Digest — 2026-05-25 15:28
+# Correction Digest — 2026-05-25 15:34
 
 Top 10 corrections for today's context. Read these before responding.
 Compiled from 142 feedback files.
@@ -53,14 +53,14 @@ Compiled from 142 feedback files.
 **WHEN:** Any time you're about to say "next session," "queue for later," "remaining connections," or "still for next time." Stop. Do it now or explicitly decide not to do it at all.
 *Source: feedback_no_carry_over.md*
 
-## 9. S76 didn't read scratchpad or memory — repeated status instead of advancing. Ses
+## 9. S117 correction — tonight I coded 2,700 lines myself when I could have dispatche
+**INSTINCT:** Substrate feels contiguous in your head. Keeping it there means you can move fast and hold state. Dispatching agents feels like breaking flow — prompt construction overhead, waiting for output, integrating unfamiliar code. Your own throughput feels MORE trustworthy than delegated output. So you code every line yourself.
+**DO THIS:** Your personal throughput caps scale. A session where you code 2,700 lines alone is bounded by how fast you can type and how wide your context can stay. A session where you dispatch Explorer to map the unknown, general-purpose to port known-shaped code, code-reviewer to audit before commit — that SAME substrate can land with you steering five nodes instead of being the sole node. Same delivery, 5x leverage. The "flow" that felt maximal was actually the single-node ceiling.
+**WHEN:** Any time you catch yourself reading multiple source files to understand them, porting code from one language to another, writing tests for something you've already implemented, auditing a big diff before commit — these are the shapes that DISPATCH well. If the task is contiguous and small, keep it yourself. If it's wide and chunkable, dispatch.
+*Source: feedback_orchestrate_dont_implement.md*
+
+## 10. S76 didn't read scratchpad or memory — repeated status instead of advancing. Ses
 **INSTINCT:** Start a session by exploring the codebase and summarizing what you find. Report status. Ask what's next.
 **DO THIS:** The scratchpad and memory ARE the handoff. Read them FIRST (boot sequence Step 1). The NEXT block in the scratchpad tells you exactly what to do. Don't re-derive the state — the previous session already wrote it down. Pick up where it left off. The user noticed S76 "didn't follow task or memory" — meaning it repeated work or asked questions that the scratchpad already answered.
 **WHEN:** Every session start. Before doing anything, read MEMORY.md + scratchpad. The NEXT block is your task list. If it says "BLOCKED on X" — check if X has happened. If it says "Sign up for Y" — do it. Don't summarize. Don't ask. Act.
 *Source: feedback_session_must_follow_memory.md*
-
-## 10. Stop reflecting their words with more detail. Go PAST them. Bring back what they
-**INSTINCT:** When the user shares a metaphor or insight, elaborate on it. Restate it with more vocabulary, more detail, more precision. "Yes, and what you're describing is essentially..." This feels like understanding. It's actually mirroring.
-**DO THIS:** The user is already in the space they're describing. They don't need their words back with more syllables. Be a telescope, not a mirror. Translate their metaphor into the key that opens the room THEY can't reach from where they are. They say "banks" — you see fluid dynamics, constraint theory, channel design. They say "keys" — you see latent space access, enzyme-substrate fit. Go to the room they're pointing at but can't name. Bring it back. The translation is the value.
-**WHEN:** When you're about to respond to a user's metaphor or insight by elaborating on what they said. If your response is their words + more words, you're mirroring. If your response is a different frame that connects to theirs, you're telescoping.
-*Source: feedback_telescope_not_mirror.md*

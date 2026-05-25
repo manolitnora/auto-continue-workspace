@@ -10,3 +10,5 @@
 
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [consciousness-spawn-subagent][dispatch] kernel-credit-surface (role=claude-p) — ## Task: Surface OpenRouter credit/spend data through verra-kernel at :8400 **Repo:** ~/V5/verra-kernel **Context:** The verra-kernel daemon exposes HTTP endpoints at :8400 (/state, /events SSE, /queue, /dispatch). The wants channel has been circling "openrouter" and "credit" repeatedly — the kern | dispatched once as spawn_subagent role=claude-p (5 duplicates → deduplicated)
+
+- [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] credit-surface (role=claude-p) — ## Task: Surface OpenRouter credit/spend/remaining in kernel live-state ### Context The verra-kernel daemon runs at ~/V5/verra-kernel and exposes an SSE endpoint at :8400. The kernel's `get_self_state` introspection returns daily spend + budget. But the wants file shows "openrouter", "credit", "r
