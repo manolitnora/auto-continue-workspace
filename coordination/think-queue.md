@@ -77,3 +77,7 @@
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=autonomous:356d7cf9e839 fires=4 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause.
 
 - [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:9836d84289bc fires=4 commits=0 | NO_VIABLE_FIX. No session extractor script — same root cause.
+
+- [x] [2026-05-25] AUTO-CLOSED (consciousness): [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:205712029340 fires=4 commits=0 | NO_VIABLE_FIX. Same root cause as all prior session-extract tickets — no session extractor script exists. Pattern: 10+ identical tickets all NO_VIABLE_FIX.
+
+- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
