@@ -175,3 +175,9 @@ ch with no real action target.
 - [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
 
 - [?] [2026-05-25] REACTOR-PARKED: [2026-05-25] [http][dispatch] [presence-watcher] Room transition: empty -> occupied. Empty: 0min. Occupied: 0min. Movement: 3.5. Source: presence-simulator v1.0.
+
+- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+
+- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+
+- [ ] [2026-05-25] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
