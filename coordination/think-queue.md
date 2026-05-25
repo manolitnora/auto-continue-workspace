@@ -43,3 +43,5 @@
 - [ ] [2026-05-25] [consciousness-spawn-subagent][dispatch] synth-check (role=claude-p) — ## Task: Investigate + close 3 open insights-daemon-synth tickets Check ~/.claude/think-queue.md for the 3 open `[insights-daemon-synth][dispatch]` tickets. Each says: synth model=qwen2.5-coder:14b (local) prompt_bytes=3060/2817/2907 timeout=120s 1. Read ~/.claude/scripts/insights-daemon.py (or wh
 
 - [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:39ce4bb38f61 fires=3 commits=0
+
+- [ ] [2026-05-25] [session-insight-extractor][dispatch] session-extract author=user_session:3aae0966c268 fires=3 commits=0
