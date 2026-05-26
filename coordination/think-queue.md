@@ -154,3 +154,5 @@
 - [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
 
 - [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+
+- [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3132 author=daemon:7732daad8ad4
