@@ -143,7 +143,7 @@
 
 - [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
 
-- [ ] [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+- [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
 
 - [ ] [2026-05-26] [dream][dispatch] [high] DREAM-PROPOSED: ## Tomorrow — the one thing
 
