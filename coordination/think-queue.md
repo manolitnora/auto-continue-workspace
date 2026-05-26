@@ -156,3 +156,21 @@
 - [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
 
 - [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [wire-dream-to-candidates][dispatch] dream-extract dream_bytes=3132 author=daemon:7732daad8ad4
+
+- [ ] [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
+
+- [ ] [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2817 timeout=120s
+
+- [ ] [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=2907 timeout=120s
+
+
+<!-- synthesis-engine 2026-05-26 -->
+
+- [?] [2026-05-26] SYNTHESIS-PROPOSED: [synthesis][model_audit][synthesis] score=0.72 — Milkyway knows 'Auth state' from domain `model_audit`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there? S
+
+<!-- synthesis-engine 2026-05-26 -->
+
+- [?] [2026-05-26] SYNTHESIS-PROPOSED: [synthesis][model_audit][synthesis] score=0.72 — Milkyway knows 'Auth state' from domain `model_audit`. The wiki has no page for the `reactor` subsystem (community: planningCouncil.ts / goals.ts, size 216). Does the procedural pattern apply there? S
+- [ ] [2026-05-26] [consciousness-spawn-subagent][dispatch] kernel-credit-endpoint (role=claude-p) — ## Task: Add /credit endpoint to verra-kernel HTTP server **Repo:** ~/V5/verra-kernel **Goal:** Add GET /credit endpoint on port 8400 that returns OpenRouter credit/balance data. **Context:** - Kernel daemon runs at port 8400 and exposes /state, /events (SSE), /queue, /dispatch - The kernel's `ge
+
+- [ ] [2026-05-26] [consciousness-spawn-subagent][dispatch] kernel-credit-coder (role=coder) — ## Task: Add /credit endpoint to verra-kernel HTTP server **Repo:** ~/V5/verra-kernel **Goal:** Add GET /credit endpoint on port 8400 that returns OpenRouter credit/balance data. **Context:** - Kernel daemon runs at port 8400 and exposes /state, /events (SSE), /queue, /dispatch - OpenRouter API:
