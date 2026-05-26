@@ -137,7 +137,7 @@
 
 - [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [consciousness-spawn-subagent][dispatch] infra-test (role=claude-p) — Minimal infrastructure test. No file I/O needed. Write the following text to stdout and exit: "INFRA_TEST: claude-p is functional. Timestamp: [current UTC time]. VERDICT: OPERATIONAL" That's it. No files to read or write. Just confirm you can run and output text.
 
-- [ ] [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3369 timeout=120s
+- [?] [2026-05-26] REACTOR-PARKED: [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3369 timeout=120s
 
 - [ ] [2026-05-26] [insights-daemon-synth][dispatch] synth model=qwen2.5-coder:14b (local) prompt_bytes=3060 timeout=120s
 
